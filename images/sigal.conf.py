@@ -23,7 +23,7 @@ source = 'fotos'
 
 # Theme :
 # - colorbox (default), galleria, photoswipe, or the path to a custom theme directory
-theme = 'colorbox'
+theme = 'galleria'
 
 # Author. Used in the footer of the pages and in the author meta tag.
 # author = 'Annelies Buyssens'
@@ -51,7 +51,7 @@ img_size = (800, 600)
 # - ResizeToFill: crop THE IMAGE it to the exact specified width and height
 # - SmartResize: identical to ResizeToFill, but uses entropy to crop the image
 # - None: don't resize
-# img_processor = 'ResizeToFit'
+# img_processor = 'None'
 
 # Autorotate images
 # Warning: this setting is not compatible with `copy_exif_data` (see below),
@@ -84,10 +84,10 @@ img_size = (800, 600)
 # Thumbnail size (default: (200, 150))
 # For the galleria theme, use 280 px for the width
 # For the colorbox and photoswipe theme, use 200 px for the width
-thumb_size = (280, 210)
+# thumb_size = (280, 210)
 
 # Crop the image to fill the box
-# thumb_fit = True
+thumb_fit = False
 
 # Delay in seconds to avoid black thumbnails in videos with fade-in
 # thumb_video_delay = '0'
@@ -194,7 +194,7 @@ ignore_files = []
 # framework which is used for this theme: http://www.getskeleton.com/#grid
 # Then the image size must be adapted to fit the column size.
 # The default is 4 columns which gives 220px. 3 columns gives 160px.
-# colorbox_column_size = 4
+colorbox_column_size = 4
 
 # --------
 # Plugins
@@ -208,7 +208,7 @@ ignore_files = []
 #            'sigal.plugins.upload_s3', 'sigal.plugins.media_page']
 
 # Add a copyright text on the image (default: '')
-# copyright = "© An example copyright message"
+copyright = "© Annnelies Buyssens"
 
 # Adjust the image after resizing it. A default value of 1.0 leaves the images
 # untouched.
