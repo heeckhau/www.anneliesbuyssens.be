@@ -3,11 +3,8 @@
 {% block head_addon %}
    <link rel='stylesheet' href="/css/swipebox.min.css" media='screen' />
    <link rel="stylesheet" href="/css/justifiedGallery.min.css" type="text/css" media="all" />
+   <link rel="stylesheet" href="/css/justifiedGallery.custom.css" type="text/css" media="all" />
    <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
-<style>
-img {
-background-color: #fff;
-}
 </style>
 {% endblock %} 
 
@@ -21,7 +18,7 @@ background-color: #fff;
 $(document).ready(function () {
     $("#basicExample").justifiedGallery({
 		lastRow : 'nojustify', 
-		rowHeight : 100, 
+		rowHeight : 210, 
 		rel : 'gallery2',
 		margins : 15
     }) .on('jg.complete', function () {
