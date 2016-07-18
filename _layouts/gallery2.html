@@ -1,0 +1,40 @@
+{% extends "page.html" %}
+
+{% block head_addon %}
+   <link rel='stylesheet' href="/css/swipebox.min.css" media='screen' />
+   <link rel="stylesheet" href="/css/justifiedGallery.min.css" type="text/css" media="all" />
+   <link rel="stylesheet" href="/css/justifiedGallery.custom.css" type="text/css" media="all" />
+   <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+</style>
+{% endblock %} 
+
+{% block sidebar %}
+{% endblock %} 
+
+{% block main_content %}
+{{ super() }}
+<div id="basicExample2">
+{% for file_name in this.fotos %}
+    <a href="/images/test/{{this.folder}}/{{file_name}}">
+        <img alt="{{this.title}}" src="/images/test/{{this.folder}}/thumbnails/{{file_name}}" />
+    </a>
+{% endfor %}
+</div>
+{% endblock %} 
+
+{% block body_addon %}
+<script src="/js/jquery.swipebox.min.js"></script>
+<script src="/js/jquery.justifiedGallery.min.js"></script>
+<script>
+$(document).ready(function () {
+    $("#basicExample2").justifiedGallery({
+		lastRow : 'nojustify', 
+		rowHeight : 210, 
+		rel : 'gallery2',
+		margins : 15
+    }) .on('jg.complete', function () {
+		$('#basicExample2 a').swipebox();
+	});
+});
+</script>
+{% endblock %}

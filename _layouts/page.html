@@ -25,7 +25,9 @@
     {% block content %}
     <div class="col-md-7 content" role="main">
     <main>
+      {% block main_content %}
       {{this.body}}
+      {% endblock %}
     </main>
     {% if this.pager %}
     <ul class="pager">
