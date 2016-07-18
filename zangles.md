@@ -1,7 +1,6 @@
 ---
 title: Zangles
 layout: page 
-pager: true
 ---
 
 Annelies geeft reeds sinds een tiental jaren zangles, maar ook stemvorming, ademhalingssessies, coaching, auditietraining en bijles.

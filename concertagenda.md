@@ -1,7 +1,6 @@
 ---
 title: Concertagenda
 layout: page 
-pager: true
 ---
 # SPEELSEIZOEN sept 2016- juli 2017
 

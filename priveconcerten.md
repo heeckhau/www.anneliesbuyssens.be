@@ -1,7 +1,6 @@
 ---
 title: Privéconcerten
 layout: page 
-pager: true
 ---
 
 ![](/images/others/recital.jpg){: style="float:left"}

@@ -5,13 +5,13 @@
 <div class="container">
 
   {% block breadcrumbs %}
-  <ol class="breadcrumb">
+  {#<ol class="breadcrumb">
     <li><a href="{{url_prefix + '/'}}">Home</a></li>
       {% for bc in this.breadcrumbs[:-1] %}
       <li><a href="{{bc.url}}">{{bc.title}}</a></li>
       {% endfor %}
       <li class="active">{{this.breadcrumbs[-1].title}}</li>
-  </ol>
+  </ol>#}
   {% endblock %}
 
   <div class="page-header">

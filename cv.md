@@ -1,7 +1,6 @@
 ---
 title: C.V. 
 layout: page 
-pager: true
 ---
 
 *Meester in de Zang*  

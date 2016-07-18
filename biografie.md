@@ -1,7 +1,6 @@
 ---
 title: Biografie  
 layout: page
-pager: true
 ---
 ![](/images/others/pasfotoCVklein.jpg){: style="float:left"}
 

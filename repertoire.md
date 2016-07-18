@@ -1,7 +1,6 @@
 ---
 title: Repertoire
 layout: page 
-pager: true
 ---
 
 ## Opera-roles (performed on stage)
