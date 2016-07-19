@@ -1,0 +1,45 @@
+{% extends "page.html" %}
+
+{% block head_addon %}
+   <link rel="stylesheet" href="/css/justifiedGallery.min.css" type="text/css" media="all" />
+   <link rel="stylesheet" href="/css/justifiedGallery.custom.css" type="text/css" media="all" />
+   <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+</style>
+{% endblock %} 
+
+{% block sidebar %}
+{% endblock %} 
+
+
+{% block main_content %}
+{{ super() }}
+<div id="basicExample2">
+      {% for item in this.content %}
+      {#<h4><a href="{{item.url}}">{{item.title}}</a>
+        {% if item.date|d %}
+        <small>{{item.date|dateformat}}</small></h4>
+        {% endif %}
+      </h4>
+      <p>{{item.teaser}}</p> #}
+
+    <a href="{{item.url}}">
+        <img alt="{{item.title | e }}" src="/images/test/diva-night-met-closeopera-maart-2016/thumbnails/Close%20opera-3016%20copy.JPG" />
+    </a>
+      {% endfor %}
+</div>
+{% endblock %}
+
+{% block body_addon %}
+<script src="/js/jquery.swipebox.min.js"></script>
+<script src="/js/jquery.justifiedGallery.min.js"></script>
+<script>
+$(document).ready(function () {
+    $("#basicExample2").justifiedGallery({
+		lastRow : 'nojustify', 
+		rowHeight : 150, 
+		rel : 'gallery2',
+		margins : 15
+    });
+});
+</script>
+{% endblock %}
