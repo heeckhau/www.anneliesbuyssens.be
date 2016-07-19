@@ -113,3 +113,11 @@ h3[id]:before{
 .center-block {
   float:none;
 }
+
+.navbar-default .navbar-brand {
+    color: #ec5094;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+    color: #ec5094;
+}
