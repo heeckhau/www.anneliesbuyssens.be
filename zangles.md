@@ -15,6 +15,6 @@ Op vraag van de student kunnen bepaalde aspecten meer of minder aan bod komen: a
 
 Maar het belangrijkste blijft natuurlijk het plezier van het vrij zingen en het samen musiceren.
 
-Een afspraak maken kan via Anneliesbuyssens@gmail.com.
+Een afspraak maken kan via <mailto:Anneliesbuyssens@gmail.com>.
 
 
