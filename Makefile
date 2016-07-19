@@ -2,7 +2,14 @@ GH-PAGES = ${HOME}/dev/urubu-gh-pages/
 
 all: build
 
-build:
+clean:
+	rm -rf images/_build
+	rm -rf _build
+
+sigal:
+	cd images && sigal build
+
+build: sigal
 	python -m urubu build
 	touch _build/.nojekyll
 
