@@ -5,56 +5,71 @@ layout: page
 
 ## Opera-roles (performed on stage)
 
-G. Donizetti, “Don Pasquale”, Norina (scenes)
-N. De Cock-D. Van Ackeleyn, “The Widow of Ephesus”, The Widow
-D. Mazzocchi, “La catena d'Adone”, Ninfa
-G.C. Menotti, “Amelia al ballo”, Amelia
-W.A. Mozart, “Le Nozze di Figaro”, Suzanna (scenes)
-W.A. Mozart, “Die Zauberflöte”, Pamina (scenes)
-G. Puccini, “Gianni Schicci”, Lauretta (scenes)
-G. Puccini, “La Bohème”, Musetta (scenes)
-G. Puccini, "La Bohème", Mimi
-J. Strauss, “Der Zigeunerbaron”, Arsena
+* G. Donizetti, “Don Pasquale”, Norina (scenes)
+* N. De Cock-D. Van Ackeleyn, “The Widow of Ephesus”, The Widow
+* D. Mazzocchi, “La catena d'Adone”, Ninfa
+* G.C. Menotti, “Amelia al ballo”, Amelia
+* W.A. Mozart, “Le Nozze di Figaro”, Suzanna (scenes)
+* W.A. Mozart, “Die Zauberflöte”, Pamina (scenes)
+* G. Puccini, “Gianni Schicci”, Lauretta (scenes)
+* G. Puccini, “La Bohème”, Musetta (scenes)
+* G. Puccini, "La Bohème", Mimi
+* J. Strauss, “Der Zigeunerbaron”, Arsena
+
+|  | |
+|------|------|
+| G. Donizetti              |  “Don Pasquale”, Norina (scenes)   | 
+| N. De Cock-D. Van Ackeleyn|  “The Widow of Ephesus”, The Widow | 
+| D. Mazzocchi              |  “La catena d'Adone”, Ninfa        | 
+| G.C. Menotti              |  “Amelia al ballo”, Amelia         | 
+| W.A. Mozart               |  “Le Nozze di Figaro”, Suzanna (scenes) | 
+| W.A. Mozart               |  “Die Zauberflöte”, Pamina (scenes) | 
+| G. Puccini | “Gianni Schicci”, Lauretta (scenes)  |
+| G. Puccini | “La Bohème”, Musetta (scenes)        |
+| G. Puccini | "La Bohème", Mimi                    |
+| J. Strauss | “Der Zigeunerbaron”, Arsena          |
 
 ## Opera-arias (performed on stage)
 
-V. Bellini, “I Puritani”, Elvira 
-V. Bellini, “I Capuleti e I Montecchi”, Giulietta 
-V. Bellini, "Norma", Norma
-G. Bizet, “Les pecheurs de perles”, Leila 
-G. Bizet, “Carmen”, Michaëla 
-A. De Boeck, “Winternachtsdroom”, prinses Zonnestraal 
-G. Donizetti, “Linda di Chamounix”, Linda 
-G. Donizetti, “L'elisir d'amore”, Adina 
-C. Floyd, “Susannah”, Susannah 
-C. Gounod, “Faust”, Marguerite 
-C. Gounod, “roméo et Juliette”, Juliette 
-G. Haendl, “Giulio Cesare”, Cleopatra 
-G. Haendl, “Rinaldo”, Almirena 
-G. Haendl, “Alcina”, Morgana 
-G. Haendl, “Ariodante”, Dalinda 
-G.C. Menotti, “The Medium”, Monica 
-G.C. Menotti, “The old Maid and the Thief”, Laetitia 
-J. Massenet, “Manon”, Manon 
-D. Moore, “The Ballad of Baby Doe”, Baby Doe
-W.A. Mozart, “Idomeneo”, Ilia 
-W.A. Mozart, "Cosi fan tutte", Fiordiligi 
-G. Puccini, “Turandot”, Liu 
-I. Strawinsky, “The Rake's progress”, Ann Truelove 
-P. Tsjaikovski, "Pikovaya Dama", Liza 
-G. Verdi, "La Traviata", Violetta 
-C.M. Von Weber, “Der Freischütz”, Annchen 
+* V. Bellini, “I Puritani”, Elvira 
+* V. Bellini, “I Capuleti e I Montecchi”, Giulietta 
+* V. Bellini, "Norma", Norma
+* G. Bizet, “Les pecheurs de perles”, Leila 
+* G. Bizet, “Carmen”, Michaëla 
+* A. De Boeck, “Winternachtsdroom”, prinses Zonnestraal 
+* G. Donizetti, “Linda di Chamounix”, Linda 
+* G. Donizetti, “L'elisir d'amore”, Adina 
+* C. Floyd, “Susannah”, Susannah 
+* C. Gounod, “Faust”, Marguerite 
+* C. Gounod, “roméo et Juliette”, Juliette 
+* G. Haendl, “Giulio Cesare”, Cleopatra 
+* G. Haendl, “Rinaldo”, Almirena 
+* G. Haendl, “Alcina”, Morgana 
+* G. Haendl, “Ariodante”, Dalinda 
+* G.C. Menotti, “The Medium”, Monica 
+* G.C. Menotti, “The old Maid and the Thief”, Laetitia 
+* J. Massenet, “Manon”, Manon 
+* D. Moore, “The Ballad of Baby Doe”, Baby Doe
+* W.A. Mozart, “Idomeneo”, Ilia 
+* W.A. Mozart, "Cosi fan tutte", Fiordiligi 
+* G. Puccini, “Turandot”, Liu 
+* I. Strawinsky, “The Rake's progress”, Ann Truelove 
+* P. Tsjaikovski, "Pikovaya Dama", Liza 
+* G. Verdi, "La Traviata", Violetta 
+* C.M. Von Weber, “Der Freischütz”, Annchen 
 
 ## Operette-arias/Musicalsongs
 
-L. Bernstein, “West Side Story”, Maria 
-L. Bernstein, “Trouble in Tahiti”, Trio (role performed on stage)
-G. Gerschwin, “Porgy and Bess”, Clara 
-E. Kalman, “Die Csardasfürstin”, Sylva 
-F. Léhar, “Die Lustige Witwe”, Hanna 
-F. Loewe, “My fair Lady”, Eliza 
-J. Offenbach, “Les contes d'Hoffmann”, Antonia 
-J. Strauss, “Die Fledermauss”, Adèle 
+|  | |
+|------|------|
+|L. Bernstein| “West Side Story”, Maria |
+|L. Bernstein| “Trouble in Tahiti”, Trio (role performed on stage)|
+|G. Gerschwin| “Porgy and Bess”, Clara |
+|E. Kalman| “Die Csardasfürstin”, Sylva |
+|F. Léhar| “Die Lustige Witwe”, Hanna |
+|F. Loewe| “My fair Lady”, Eliza |
+|J. Offenbach| “Les contes d'Hoffmann”, Antonia |
+|J. Strauss| “Die Fledermauss”, Adèle |
 
 ## Oratoria-arias/Cantatas/Masses
 
