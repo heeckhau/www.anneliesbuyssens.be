@@ -110,4 +110,6 @@ h3[id]:before{
   }
 }
 
-
+.center-block {
+  float:none;
+}

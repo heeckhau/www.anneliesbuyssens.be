@@ -3,7 +3,7 @@ brand: Annelies Buyssens - Sopraan
 bootswatch: slate
 navbar_inverse: false
 bootstrap: 3.3.6
-navbar_right_items: 1
+navbar_right_items: 0
 
 reflinks:
     urubu:
