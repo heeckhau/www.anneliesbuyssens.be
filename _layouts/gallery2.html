@@ -16,7 +16,7 @@
 <div id="basicExample2">
 {% for file_name in this.fotos %}
     <a href="/images/test/{{this.folder}}/{{file_name}}">
-        <img alt="{{this.title}}" src="/images/test/{{this.folder}}/thumbnails/{{file_name}}" />
+        <img alt="{{this.title | e}}" src="/images/test/{{this.folder}}/thumbnails/{{file_name}}" />
     </a>
 {% endfor %}
 </div>

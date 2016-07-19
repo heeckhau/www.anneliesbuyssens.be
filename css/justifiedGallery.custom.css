@@ -10,4 +10,5 @@
 .justified-gallery > div > a > img {
   padding: 3px;
   background-color: #fff;
+  white-space:pre;
 }

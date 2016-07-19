@@ -13,20 +13,14 @@
 
 {% block main_content %}
 {{ super() }}
-<div id="basicExample2">
-      {% for item in this.content %}
-      {#<h4><a href="{{item.url}}">{{item.title}}</a>
-        {% if item.date|d %}
-        <small>{{item.date|dateformat}}</small></h4>
-        {% endif %}
-      </h4>
-      <p>{{item.teaser}}</p> #}
-
+  <div id="basicExample2">
+    {% for item in this.content %}
     <a href="{{item.url}}">
-        <img alt="{{item.title | e }}" src="/images/test/diva-night-met-closeopera-maart-2016/thumbnails/Close%20opera-3016%20copy.JPG" />
+        <img alt="{{item.title | e }}
+        {{item['fotos']|length}} fotos" src="/images/test/{{item['folder']}}/thumbnails/{{item['thumbnail']}}" />
     </a>
-      {% endfor %}
-</div>
+    {% endfor %}
+  </div>
 {% endblock %}
 
 {% block body_addon %}
