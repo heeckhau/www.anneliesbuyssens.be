@@ -39,7 +39,7 @@ theme = 'galleria'
 # ----------------
 
 # Size of resized image (default: (640, 480))
-img_size = (800, 600)
+img_size = (800, 800)
 
 # Should we use openlayers to show a map of the images where possible?
 # This option only has an effect on the galleria theme for the while.
@@ -51,7 +51,7 @@ img_size = (800, 600)
 # - ResizeToFill: crop THE IMAGE it to the exact specified width and height
 # - SmartResize: identical to ResizeToFill, but uses entropy to crop the image
 # - None: don't resize
-# img_processor = 'None'
+img_processor = None
 
 # Autorotate images
 # Warning: this setting is not compatible with `copy_exif_data` (see below),
@@ -152,7 +152,7 @@ ignore_files = []
 # -------------
 
 # Write HTML files. If False, sigal will only process the images.
-# write_html = True
+write_html = False
 
 # Name of the generated HTML files
 # output_filename = 'index.html'
