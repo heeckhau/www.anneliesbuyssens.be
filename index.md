@@ -14,5 +14,5 @@ tagline:
     Sopraan
 ---
 
-![](/images/others/mozart_foto.png)
+![](images/others/MozartFoto.jpg)
 

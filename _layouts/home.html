@@ -15,8 +15,23 @@
    </div>
  </div>
 </div>
-<div class="container text-center">
-  <a class="btn btn-primary btn-lg" href="start.html">Start</a>
+
+<div class="container">
+  <div class="row">
+
+    {% block content %}
+    <div class="col-md-7 content" role="main">
+    <main>
+      {% block main_content %}
+      {{this.body}}
+      {% endblock %}
+    </main>
+    </div>
+    {% endblock %}
+  </div>
+
+  {% include 'footer.html' %}
+
 </div>
 
-{% endblock %}
+{% endblock %} 
