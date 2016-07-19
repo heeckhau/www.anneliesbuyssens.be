@@ -18,3 +18,6 @@ serve:
 
 publish:
 	git subtree push --prefix _build origin gh-pages    
+
+install:
+	pip install urubu sigal awscli
