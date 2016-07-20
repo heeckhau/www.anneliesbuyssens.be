@@ -13,6 +13,5 @@ content:
 tagline:
     Sopraan
 ---
-
-![](images/others/MozartFoto.jpg)
+![Annelies Buyssens](/images/others/MozartFoto.jpg){: style="width:100%" :}
 
