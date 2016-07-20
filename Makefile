@@ -16,8 +16,8 @@ build: sigal
 serve:
 	python -m urubu serve
 
-publish:
-	git subtree push --prefix _build origin gh-pages    
+publish: clean build
+	aws s3 cp _build  s3://www.anneliesbuyssens.be/ --recursive --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers    
 
 install:
 	pip install urubu sigal awscli
