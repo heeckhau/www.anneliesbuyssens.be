@@ -16,7 +16,7 @@
   <div id="basicExample2">
     {% for item in this.content %}
     <a href="{{item.url}}">
-        <img alt="{{item.title | e }} [{{item['fotos']|length}} fotos]" src="/images/test/{{item['folder']}}/thumbnails/{{item['thumbnail']}}" />
+        <img alt="{{item.title | e }} [{{item['fotos']|length}} fotos]" src="/images/fotos/{{item['folder']}}/thumbnails/{{item['thumbnail']}}" />
         <div class="caption">
         {{item.title | e }}
         <div>{{item['fotos']|length}} foto's</div>

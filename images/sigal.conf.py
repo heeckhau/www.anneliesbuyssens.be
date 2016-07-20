@@ -15,11 +15,11 @@
 
 # Source directory. Can be set here or as the first argument of the `sigal
 # build` command
-source = 'fotos'
+source = '_originals'
 
 # Destination directory. Can be set here or as the second argument of the
 # `sigal build` command (default: '_build')
-# destination = '_build'
+destination = 'fotos'
 
 # Theme :
 # - colorbox (default), galleria, photoswipe, or the path to a custom theme directory

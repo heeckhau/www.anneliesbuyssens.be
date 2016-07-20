@@ -8,7 +8,7 @@ from os.path import isfile, join
 
 def process_gallery(info):
     if 'folder' in info:
-        mypath=getcwd()+"/images/fotos/"+info['folder']+"/"
+        mypath=getcwd()+"/images/_originals/"+info['folder']+"/"
         onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
         #print(onlyfiles)
         info['fotos'] = onlyfiles

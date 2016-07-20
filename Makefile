@@ -3,7 +3,7 @@ GH-PAGES = ${HOME}/dev/urubu-gh-pages/
 all: build
 
 clean:
-	rm -rf images/_build
+	rm -rf images/fotos
 	rm -rf _build
 
 sigal:
