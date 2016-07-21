@@ -121,3 +121,7 @@ h3[id]:before{
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
     color: #ec5094;
 }
+
+h1, h2, h3, h4, h5, h6, body {
+    font-family: Georgia,New Century Schoolbook,Nimbus Roman No9 L,serif;
+}
