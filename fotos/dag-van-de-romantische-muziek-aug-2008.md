@@ -4,4 +4,5 @@ layout: gallery2
 pager: true
 date: 2008-08-01
 folder : dag-van-de-romantische-muziek-aug-2008
+thumbnail : 100_4939.jpg
 ---

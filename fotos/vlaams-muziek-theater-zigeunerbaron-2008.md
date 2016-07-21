@@ -4,5 +4,6 @@ layout: gallery2
 pager: true
 date: 2008-09-01
 folder : vlaams-muziek-theater-zigeunerbaron-2008
+thumbnail: groepsfotoVMT.jpg
 ---
 ©VMT

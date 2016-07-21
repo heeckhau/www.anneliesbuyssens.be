@@ -9,4 +9,4 @@ reflinks:
     urubu:
         url: http://urubu.jandecaluwe.com
         title: Urubu
-ignore_patterns: ['.DS_Store']
+ignore_patterns: ['.DS_Store', 'sigal.conf.py']

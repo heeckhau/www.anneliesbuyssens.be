@@ -4,5 +4,5 @@ layout: gallery2
 pager: true
 date: 2015-12-01
 folder : paleisconcert-met-vrk-dec-2015
+thumbnail : Paleisconcert1.jpg
 ---
-

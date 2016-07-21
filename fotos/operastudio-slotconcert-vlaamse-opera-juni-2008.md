@@ -4,5 +4,6 @@ layout: gallery2
 pager: true
 date: 2008-06-01
 folder : operastudio-slotconcert-vlaamse-opera-juni-2008
+thumbnail : IMG_7609.JPG
 ---
 ©Emilie Lauwers
