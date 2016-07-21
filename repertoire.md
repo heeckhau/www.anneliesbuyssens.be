@@ -71,8 +71,8 @@ layout: page
 | J.S. Bach|  duet: “Wann kommst du, mein Heil”, uit: BWV 140, kantate
 | C. Debussy|  “L'année en vain chasse l'année”, Récit et air de Lia, uit: “L'enfant Prodigue”
 | G.Faure|  "Pie Jesu", uit: "Requiem"
-| J. Haydn|  “Auf starken Fittiche schwinget sich”, Gabriel, uit: “Die Schöpfung”
-“Nun beut die Flur das frische Grün”, Gabriel, uit: “Die Schöpfung”
+| J. Haydn  |  “Auf starken Fittiche schwinget sich”, Gabriel, uit: “Die Schöpfung”
+|           | “Nun beut die Flur das frische Grün”, Gabriel, uit: “Die Schöpfung”
 | W.A. Mozart|  “Exsultate, jubilate”, uit: KV 165, motet
 | W.A. Mozart|  “Laudate Dominum”, uit: KV 339
 | W.A. Mozart|  “Laudamus te”, uit: KV 427, Missa in c-Moll
@@ -91,8 +91,7 @@ layout: page
 | | Die Mainacht
 | | O wüsst'ich doch den Weg zurück
 | | Vergebliches Ständchen
-| B. Britten| 
-| | Funeral Blues, uit: “Cabaret Songs”
+| B. Britten| Funeral Blues, uit: “Cabaret Songs”
 | | Calypso, uit: “Cabaret Songs”
 | | Folksongs
 | D. Brossé|  Three Spanish Songs
