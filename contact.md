@@ -3,4 +3,4 @@ title: Contact
 layout: page 
 ---
 
-anneliesbuyssens@gmail.com
+<mailto:Anneliesbuyssens@gmail.com>

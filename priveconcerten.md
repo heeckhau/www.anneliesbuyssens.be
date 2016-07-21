@@ -21,4 +21,4 @@ U kan zelf een programma samenstellen met verzoeknummers of u kan één van haar
 * Lied recital "Après un rêve, songs of slumber and sleep": Een intiem programma met muziek van o.a. Debussy, Fauré, Liszt en Rachmaninov.
 * Lied recital "Le Salon des Souvenirs": Een programma met Belgische en Franse salonmuziek uit de tijd van James Ensor.
 
-Voor meer info, stuur een vrijblijvend mailtje naar Anneliesbuyssens@gmail.com.
+Voor meer info, stuur een vrijblijvend mailtje naar <mailto:Anneliesbuyssens@gmail.com>.
