@@ -16,7 +16,7 @@
   <div id="basicExample2">
     {% for item in this.content %}
     <a href="{{item.url}}">
-        <img alt="{{item.title | e }} [{{item['fotos']|length}} fotos]" src="/images/fotos/{{item['folder']}}/thumbnails/{{item['thumbnail']}}" />
+        <img alt="{{item.title | e }} [{{item['fotos']|length}} fotos]" src="/images/fotos/{{item['folder']}}/thumbnails/gallery.png" />
         <div class="caption">
         {{item.title | e }}
         <div>{{item['fotos']|length}} foto's</div>
@@ -38,8 +38,8 @@ $(document).ready(function () {
 		margins : 15,
 		captionSettings: {
 		    animationDuration: 500,
-            visibleOpacity: 0.8,
-            nonVisibleOpacity: 0.4
+            visibleOpacity: 0.7,
+            nonVisibleOpacity: 0.2
         }
     });
 });
