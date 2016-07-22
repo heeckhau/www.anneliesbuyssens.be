@@ -1,7 +1,7 @@
 {% extends "page.html" %}
 
 {% block head_addon %}
-   <link rel="stylesheet" href="/css/justifiedGallery.min.css" type="text/css" media="all" />
+   <link rel="stylesheet" href="/lib/justifiedGallery/justifiedGallery.min.css" type="text/css" media="all" />
    <link rel="stylesheet" href="/css/justifiedGallery.custom.css" type="text/css" media="all" />
    <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
 </style>
@@ -27,8 +27,7 @@
 {% endblock %}
 
 {% block body_addon %}
-<script src="/js/jquery.swipebox.min.js"></script>
-<script src="/js/jquery.justifiedGallery.min.js"></script>
+<script src="/lib/justifiedGallery/jquery.justifiedGallery.min.js"></script>
 <script>
 $(document).ready(function () {
     $("#basicExample2").justifiedGallery({
