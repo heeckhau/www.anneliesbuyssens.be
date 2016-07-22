@@ -1,0 +1,12 @@
+/*!
+ * Justified Gallery - v3.6.2
+ * http://miromannino.github.io/Justified-Gallery/
+ * Copyright (c) 2016 Miro Mannino
+ * Licensed under the MIT license.
+ */
+.justified-gallery > a > img,
+.justified-gallery > div > img,
+.justified-gallery > a > a > img,
+.justified-gallery > div > a > img {
+  white-space:pre;
+}
