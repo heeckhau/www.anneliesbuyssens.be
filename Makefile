@@ -16,7 +16,7 @@ build: sigal
 serve:
 	python -m urubu serve
 
-publish: clean build
+publish: clean
 	./_publish.sh	
 
 install:
