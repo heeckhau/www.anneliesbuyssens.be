@@ -17,7 +17,7 @@ serve:
 	python -m urubu serve
 
 publish: clean build
-	aws s3 sync _build/ s3://www.anneliesbuyssens.be/ --delete --grants read=uri=http://acs.amazonaws.com/groups/global/AllUsers
+	./_publish.sh	
 
 install:
 	sudo pip install urubu sigal awscli
