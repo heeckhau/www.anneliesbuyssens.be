@@ -134,3 +134,11 @@ h1, h2, h3, h4, h5, h6, body {
 .jumbotron h1, .jumbotron .h1 {
     font-size: 43px;
 }
+
+.navbar-nav {
+    clear: left;
+}
+
+body {
+padding-top: 80px;
+}
