@@ -3,6 +3,7 @@ title: Zangles
 layout: page 
 ---
 
+
 Annelies geeft reeds sinds een tiental jaren zangles, maar ook stemvorming, ademhalingssessies, coaching, auditietraining en bijles.
 
 Ze geeft zowel les aan beginners als aan gevorderden.
@@ -18,3 +19,4 @@ Maar het belangrijkste blijft natuurlijk het plezier van het vrij zingen en het 
 Een afspraak maken kan via <mailto:Anneliesbuyssens@gmail.com>.
 
 
+![](/images/others/pasfoto_CV2klein.jpg){: style="display: block;margin-left: auto;margin-right: auto" :}

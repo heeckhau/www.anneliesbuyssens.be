@@ -8,7 +8,6 @@ content:
     - zangles 
     - biografie
     - repertoire
-    - priveconcerten
     - contact 
 tagline:
     Sopraan
