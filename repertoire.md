@@ -12,10 +12,10 @@ layout: page
 | D. Mazzocchi              |  “La catena d'Adone”, Ninfa            | 
 | G.C. Menotti              |  “Amelia al ballo”, Amelia             | 
 | W.A. Mozart               |  “Le Nozze di Figaro”, Suzanna (scenes)| 
-| W.A. Mozart               |  “Die Zauberflöte”, Pamina (scenes)    | 
+|                           |  “Die Zauberflöte”, Pamina (scenes)    | 
 | G. Puccini                | “Gianni Schicci”, Lauretta (scenes)    |
-| G. Puccini                | “La Bohème”, Musetta (scenes)          |
-| G. Puccini                | "La Bohème", Mimi                      |
+|                           | “La Bohème”, Musetta (scenes)          |
+|                           | "La Bohème", Mimi                      |
 | J. Strauss                | “Der Zigeunerbaron”, Arsena            |
 
 ## Opera-arias (performed on stage)
@@ -23,26 +23,26 @@ layout: page
 |                           |                                        |
 |---------------------------|----------------------------------------|
 | V. Bellini| “I Puritani”, Elvira 
-| V. Bellini| “I Capuleti e I Montecchi”, Giulietta 
-| V. Bellini| "Norma", Norma
+|  | “I Capuleti e I Montecchi”, Giulietta 
+|  | "Norma", Norma
 | G. Bizet| “Les pecheurs de perles”, Leila 
-| G. Bizet| “Carmen”, Michaëla 
+|  | “Carmen”, Michaëla 
 | A. De Boeck| “Winternachtsdroom”, prinses Zonnestraal 
 | G. Donizetti| “Linda di Chamounix”, Linda 
-| G. Donizetti| “L'elisir d'amore”, Adina 
+|  | “L'elisir d'amore”, Adina 
 | C. Floyd| “Susannah”, Susannah 
 | C. Gounod| “Faust”, Marguerite 
-| C. Gounod| “roméo et Juliette”, Juliette 
+|  | “Roméo et Juliette”, Juliette 
 | G. Haendl| “Giulio Cesare”, Cleopatra 
-| G. Haendl| “Rinaldo”, Almirena 
-| G. Haendl| “Alcina”, Morgana 
-| G. Haendl| “Ariodante”, Dalinda 
-| G.C. Menotti| “The Medium”, Monica 
-| G.C. Menotti| “The old Maid and the Thief”, Laetitia 
+|  | “Rinaldo”, Almirena 
+|  | “Alcina”, Morgana 
+|  | “Ariodante”, Dalinda 
+| G.C. Menotti | “The Medium”, Monica 
+|              | “The old Maid and the Thief”, Laetitia 
 | J. Massenet| “Manon”, Manon 
 | D. Moore| “The Ballad of Baby Doe”, Baby Doe
 | W.A. Mozart| “Idomeneo”, Ilia 
-| W.A. Mozart| "Cosi fan tutte", Fiordiligi 
+|  | "Cosi fan tutte", Fiordiligi 
 | G. Puccini| “Turandot”, Liu 
 | I. Strawinsky| “The Rake's progress”, Ann Truelove 
 | P. Tsjaikovski| "Pikovaya Dama", Liza 
@@ -54,7 +54,7 @@ layout: page
 |  | |
 |------|------|
 |L. Bernstein| “West Side Story”, Maria |
-|L. Bernstein| “Trouble in Tahiti”, Trio (role performed on stage)|
+| | “Trouble in Tahiti”, Trio (role performed on stage)|
 |G. Gerschwin| “Porgy and Bess”, Clara |
 |E. Kalman| “Die Csardasfürstin”, Sylva |
 |F. Léhar| “Die Lustige Witwe”, Hanna |
@@ -67,15 +67,15 @@ layout: page
 |  | |
 |------|------|
 | J.S. Bach|  “Ich folge dir gleichfalls”, uit: “Johannes Passion”
-| J.S. Bach|  “Nur ein Wink”, uit: “Weihnachtsoratorium”
-| J.S. Bach|  duet: “Wann kommst du, mein Heil”, uit: BWV 140, kantate
+|  |  “Nur ein Wink”, uit: “Weihnachtsoratorium”
+|  |  duet: “Wann kommst du, mein Heil”, uit: BWV 140, kantate
 | C. Debussy|  “L'année en vain chasse l'année”, Récit et air de Lia, uit: “L'enfant Prodigue”
 | G.Faure|  "Pie Jesu", uit: "Requiem"
 | J. Haydn  |  “Auf starken Fittiche schwinget sich”, Gabriel, uit: “Die Schöpfung”
 |           | “Nun beut die Flur das frische Grün”, Gabriel, uit: “Die Schöpfung”
 | W.A. Mozart|  “Exsultate, jubilate”, uit: KV 165, motet
-| W.A. Mozart|  “Laudate Dominum”, uit: KV 339
-| W.A. Mozart|  “Laudamus te”, uit: KV 427, Missa in c-Moll
+|  |  “Laudate Dominum”, uit: KV 339
+|  |  “Laudamus te”, uit: KV 427, Missa in c-Moll
 | G. Rossini|  “O salutaris hostia”, uit: “Petite Messe Solennelle”
 
 ## Lied
@@ -113,10 +113,11 @@ layout: page
 | | Chanson triste
 | | Invitation au voyage
 | A. Dvorak| Biblische Lieder (deel 1)
-| G. Fauré| La Fée aux chansons
-| | En prière
-| | Le secret
-| | Les berceaux
+| G. Fauré | La Fée aux chansons
+|          | En prière
+|          | Le secret
+|          | Les berceaux
+|          | Après un rêve
 | E. Granados|  Coleccion de tonadillas
 | | Canciones amatorias
 | E. Grieg| Ich liebe dich
@@ -150,10 +151,11 @@ layout: page
 | | In der Fremde
 | A. Souris| Java
 | R. Strauss| Die Nacht
-| | Du meines Herzens Kronelein
-| | Morgen
-| | Zueignung
-| | Allerseelen
+|           | Du meines Herzens Kronelein
+|           | Morgen
+|           | Zueignung
+|           | Allerseelen
+|           | 4 letzte Lieder
 | K. Weill| Youkali
 | | Je ne t'aime pas
 | | Complainte de la Seine
