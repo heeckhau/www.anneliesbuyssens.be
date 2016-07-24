@@ -2,15 +2,14 @@ __author__ = 'heeckhau'
 
 import sys
 from PIL import Image
-import os
 
 #create gallery image from input
 
-def create_gallery_image(input_image):
-    background = Image.open("images/others/stack_bg.png")
+def create_gallery_image(input_image, gallery_thumbnail_path):
+    background = Image.open("images/others/stack_200_16.png")
     moz = Image.open(input_image)
 
-    # 50 + 450 + 50
+    # 16 + 168 + 16
 
     sq_size = min(moz.size)
     box_x = (moz.size[0]-sq_size)/2
@@ -20,17 +19,17 @@ def create_gallery_image(input_image):
     square_moz = moz.crop(sq_box)
     #square_moz.save("tmp1.png")
 
-    resize_moz = square_moz.resize((450,450))
+    resize_moz = square_moz.resize((168,168))
     #resize_moz.save("tmp2.png")
 
-    box = (50, 50, 500, 500)
+    box = (16, 16, 16 + 168, 16 + 168)
 
     background.paste(resize_moz, box)
 
-    new_file = os.path.dirname(input_image) + "/gallery.png"
+    new_file = gallery_thumbnail_path
     print(new_file)
 
-    background.resize((sq_size,sq_size)).save(new_file)
+    background.save(new_file)
 
 if __name__ == "__main__":
     input_image = sys.argv[1]
