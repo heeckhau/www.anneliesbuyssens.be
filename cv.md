@@ -46,10 +46,11 @@ layout: page
 
 # Werkervaring als solist
 
-* Operastudio Vlaanderen
-* Vlaams Muziek Theater
-* MuziekLod
-* CloseOpera
+* CloseOpera, 2015-heden
+* Operastudio Vlaanderen, 2007-2008
+* Vlaams Muziek Theater, 2008
+* MuziekLod, 2008
+
 
 # Werkervaring als koorzanger
 

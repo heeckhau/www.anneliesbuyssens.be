@@ -10,12 +10,13 @@ layout: page
 * "Paulus" (F. Mendelssohn), met de Vlaamse Opera, 24 sept 2016 in Carolus Boromeus Kerk Antwerpen, 25 sept 2016 in SInt-Pieterskerk Gent.
 * "Der Fliegende Höllander" (R. Wagner), met de Vlaamse Opera, Antwerpen en Gent, oktober-november 2016.
 * "Die Zauberflöte" (W.A.Mozart), met de Vlaamse Opera, Antwerpen en Gent, dec 2016-januari 2017.
+* "The Mysteries of Light" (J. MacMillan), met VRK, Flagey Brussel en Bijloke Gent, 23-24 feb 2017
 * "Simon Bocanegra (G.Verdi), met de Vlaamse Opera, Antwerpen, Gent en Luxemburg, feb-maart 2017.
-* "Lohengrin" (R. Wagner), met de Munt/La Monnaie, Brussel.
+* "Aïda" (G. Verdi), met de Munt/La Monnaie, Brussel, mei-juni 2017.
 
 ## Solo-Concerten
 
-* "Diva-night" met CloseOpera.
+* "Diva-night" met CloseOpera, CC Achel 19/11 2016, CC Overijse 15/12 2016, CC Roosdaal 21/01 2017, CC 01/06 2017.
 
 ![](images/others/CloseOpera-2016.jpg)
 
