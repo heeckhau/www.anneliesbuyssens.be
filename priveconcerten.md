@@ -3,7 +3,7 @@ title: Privéconcerten
 layout: page 
 ---
 
-![](/images/others/recital.jpg){: style="float:left"}
+![](/images/others/CloseOpera_piano.jpg){: style="display: block;margin-left: auto;margin-right: auto" :}
 
 Annelies is een professionele freelance zangeres die ook te boeken is voor een optreden op maat.
 

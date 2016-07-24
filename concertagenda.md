@@ -15,7 +15,10 @@ layout: page
 
 ## Solo-Concerten
 
-"Diva-night" met CloseOpera.
+* "Diva-night" met CloseOpera.
+
+![](images/others/CloseOpera-2016.jpg)
+
 
 # Speelseizoen sept 2015-juli 2016
 
