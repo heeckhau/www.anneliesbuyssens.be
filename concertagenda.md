@@ -18,7 +18,8 @@ layout: page
 
 * "Diva-night" met CloseOpera, CC Achel 19/11 2016, CC Overijse 15/12 2016, CC Roosdaal 21/01 2017, CC 01/06 2017.
 
-![](images/others/CloseOpera-2016.jpg)
+![Diva Night met CloseOpera](images/others/CloseOpera-2016.jpg)  ![Logo CloseOpera](images/others/LogoCloseOpera.jpg)
+
 
 
 # Speelseizoen sept 2015-juli 2016
