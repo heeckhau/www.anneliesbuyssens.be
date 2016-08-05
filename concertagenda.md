@@ -11,12 +11,12 @@ layout: page
 * "Der Fliegende Höllander" (R. Wagner), met de Vlaamse Opera, Antwerpen en Gent, oktober-november 2016.
 * "Die Zauberflöte" (W.A.Mozart), met de Vlaamse Opera, Antwerpen en Gent, dec 2016-januari 2017.
 * "The Mysteries of Light" (J. MacMillan), met VRK, Flagey Brussel en Bijloke Gent, 23-24 feb 2017
-* "Simon Bocanegra (G.Verdi), met de Vlaamse Opera, Antwerpen, Gent en Luxemburg, feb-maart 2017.
+* "Simon Bocanegra" (G.Verdi), met de Vlaamse Opera, Antwerpen, Gent en Luxemburg, feb-maart 2017.
 * "Aïda" (G. Verdi), met de Munt/La Monnaie, Brussel, mei-juni 2017.
 
 ## Solo-Concerten
 
-* "Diva-night" met CloseOpera, CC Achel 19/11 2016, CC Overijse 15/12 2016, CC Roosdaal 21/01 2017, CC 01/06 2017.
+* "The Grand Diva Night" met CloseOpera, CC Achel 19/11 2016, CC Overijse 15/12 2016, CC Roosdaal 21/01 2017, CC Aartselaar 01/06 2017.
 
 ![Diva Night met CloseOpera](images/others/CloseOpera-2016.jpg)  ![Logo CloseOpera](images/others/LogoCloseOpera.jpg)
 

@@ -8,6 +8,7 @@ content:
     - zangles 
     - biografie
     - repertoire
+    - booking
     - contact 
 tagline:
     Sopraan

@@ -15,10 +15,10 @@ layout: page
 |                           |  “Die Zauberflöte”, Pamina (scenes)    | 
 | G. Puccini                | “Gianni Schicci”, Lauretta (scenes)    |
 |                           | “La Bohème”, Musetta (scenes)          |
-|                           | "La Bohème", Mimi                      |
+|                           | "La Bohème", Mimi  (scenes)            |
 | J. Strauss                | “Der Zigeunerbaron”, Arsena            |
 
-## Opera-arias (performed on stage)
+## Opera-arias
 
 |                           |                                        |
 |---------------------------|----------------------------------------|
@@ -159,6 +159,7 @@ layout: page
 | K. Weill| Youkali
 | | Je ne t'aime pas
 | | Complainte de la Seine
+| | Alabama Song
 | H. Wolf| Die Nacht
 | | Er ist's, uit: “Mörike Lieder”
 | | Das verlassene Mägdlein, uit: “Mörike Lieder”

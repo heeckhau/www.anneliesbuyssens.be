@@ -14,7 +14,7 @@ layout: page
 * Conservatorium
     * Klassieke Zang, Conservatorium van Amsterdam, 2005-2007, bij Pierre Mak
     * Klassieke Zang, Conservatorium van Gent, 2000-2005, Meesterdiploma behaald bij Erika Pauwels en Zeger Vandersteene in 2005
-* Masterclasses
+* Masterclasses/Coaching
     * Manuela Ochakovski, 2016
     * Lubov Stuchevskaya, 2011-2012
     * Tuan Sieh Loh, 2009
