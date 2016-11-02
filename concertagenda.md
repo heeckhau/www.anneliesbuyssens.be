@@ -9,7 +9,7 @@ layout: page
 * "Klassiek in de Stad", met de Vlaamse Opera, 4 sept 2016 om 11u30 gratis openluchtconcert op St Jansplein te Antwerpen.
 * "Paulus" (F. Mendelssohn), met de Vlaamse Opera, 24 sept 2016 in Carolus Boromeus Kerk Antwerpen, 25 sept 2016 in SInt-Pieterskerk Gent.
 * "Der Fliegende Höllander" (R. Wagner), met de Vlaamse Opera, Antwerpen en Gent, oktober-november 2016.
-* "Die Zauberflöte" (W.A.Mozart), met de Vlaamse Opera, Antwerpen en Gent, dec 2016-januari 2017.
+* "Die Zauberflöte" (W.A.Mozart), met de Vlaamse Opera, Antwerpen en Gent, december 2016-januari 2017.
 * "The Mysteries of Light" (J. MacMillan), met VRK, Flagey Brussel en Bijloke Gent, 23-24 feb 2017
 * "Simon Bocanegra" (G.Verdi), met de Vlaamse Opera, Antwerpen, Gent en Luxemburg, feb-maart 2017.
 * "Aïda" (G. Verdi), met de Munt/La Monnaie, Brussel, mei-juni 2017.
@@ -18,9 +18,9 @@ layout: page
 ## Solo-Concerten
 
 * "The Grand Diva Night" met CloseOpera:
-    * CC Cinema Alberg, Achel 19/11 2016
-    * CC Den Blank, Overijse 15/12 2016
-    * CC Het Aambeeld, Aartselaar 01/06 2017
+    * CC Cinema Alberg, Achel 19 november 2016
+    * CC Den Blank, Overijse 15 december 2016
+    * CC Het Aambeeld, Aartselaar 01 juni 2017
 
 ![Diva Night met CloseOpera](images/others/CloseOpera-2016.jpg)  ![Logo CloseOpera](images/others/LogoCloseOpera.jpg)
 
