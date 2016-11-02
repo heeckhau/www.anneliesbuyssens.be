@@ -13,10 +13,14 @@ layout: page
 * "The Mysteries of Light" (J. MacMillan), met VRK, Flagey Brussel en Bijloke Gent, 23-24 feb 2017
 * "Simon Bocanegra" (G.Verdi), met de Vlaamse Opera, Antwerpen, Gent en Luxemburg, feb-maart 2017.
 * "Aïda" (G. Verdi), met de Munt/La Monnaie, Brussel, mei-juni 2017.
+* "Sadko" (N. Rimsky-Korsakov), met de Vlaamse Opera, Gent, juni-juli 2017.
 
 ## Solo-Concerten
 
-* "The Grand Diva Night" met CloseOpera, CC Achel 19/11 2016, CC Overijse 15/12 2016, CC Roosdaal 21/01 2017, CC Aartselaar 01/06 2017.
+* "The Grand Diva Night" met CloseOpera:
+    * CC Cinema Alberg, Achel 19/11 2016
+    * CC Den Blank, Overijse 15/12 2016
+    * CC Het Aambeeld, Aartselaar 01/06 2017
 
 ![Diva Night met CloseOpera](images/others/CloseOpera-2016.jpg)  ![Logo CloseOpera](images/others/LogoCloseOpera.jpg)
 
