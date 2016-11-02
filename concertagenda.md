@@ -20,7 +20,7 @@ layout: page
 * "The Grand Diva Night" met CloseOpera:
     * CC Cinema Alberg, Achel 19 november 2016
     * CC Den Blank, Overijse 15 december 2016
-    * CC Het Aambeeld, Aartselaar 01 juni 2017
+    * CC Het Aambeeld, Aartselaar 1 juni 2017
 
 ![Diva Night met CloseOpera](images/others/CloseOpera-2016.jpg)  ![Logo CloseOpera](images/others/LogoCloseOpera.jpg)
 
