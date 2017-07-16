@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
     <url>
-        <loc>/fotos/gentse-feesten-met-bang-opera-huset-juli-2015.html</loc>
+        <loc>/fotos/aida-de-munt-mei-2017.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>/fotos/diva-night-met-closeopera-maart-2016.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>/fotos/sadko-opera-vlaanderen-juni-2017.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -81,7 +86,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/fotos/Una_serata_Italiana_CloseOpera_mei2016.html</loc>
+        <loc>/fotos/gentse-feesten-met-bang-opera-huset-juli-2015.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -187,6 +192,11 @@
     </url>
     <url>
         <loc>/contact.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>/fotos/Una_serata_Italiana_CloseOpera_mei2016.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
