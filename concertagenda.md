@@ -24,7 +24,7 @@ layout: page
 
 ![Diva Night met CloseOpera](images/others/CloseOpera-2016.jpg)  ![Logo CloseOpera](images/others/LogoCloseOpera.jpg)
 
-* "L'Adoration du Soleil" Gentse Feesten met CloseOpera: [Info en reservatie](mailto:closeopera@telenet.be)
+* "L'Adoration du Soleil" Gentse Feesten met CloseOpera:
     * "Carmen Meets Zarzuela" 21 juli 2017, 20u Kunstcafé Huset
     * "Una Serata Italiana" 22 juli 2017, 20u  Kunstcafé Huset
 
