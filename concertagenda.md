@@ -2,6 +2,17 @@
 title: Concertagenda
 layout: page 
 ---
+
+# Speelseizoen sept 2017-juni 2018
+
+## Opera/Concerten Koor
+
+* "Das Wunder der Heliane" (E. Korngold), met Kunsthuis Opera Vlaanderen, 15 sept t/m 10 okt 2017, Opera Gent en Antwerpen.
+* Benefietconcert "Kom op tegen kanker", met Kunsthuis Opera Vlaanderen, 15 okt 2017, Opera Antwerpen.
+* "Le Duc d'Albe" (G. Donizetti/G. Battistelli), met Kunsthuis Opera Vlaanderen, 17 nov t/m 6 dec 2017, Opera Gent.
+* "Cavalleria rusticana" (P. Mascagni) & "Pagliacci" (R. Leoncavalli), met De Munt/La Monnaie, 6 maart t/m 22 maart 2018, Opera Brussel.
+* "Lohengrin" (R. Wagner), met De Munt/La Monnaie, 19 april t/m 6 mei 2018, Opera Brussel.
+
 # Speelseizoen sept 2016- juli 2017
 
 ## Opera/Concerten Koor
