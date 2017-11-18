@@ -16,7 +16,7 @@ layout: page
 
 ## Solo-Concerten
 
-* "Les Adieux" met CloseOpera, NTB 24 november 2017, 20u Kunstcafé Huset Gent.
+* "Les Adieux", Lieder- en poëzie-avond met CloseOpera, 24 november 2017, 20u Kunstcafé Huset Gent.
 
 # Speelseizoen sept 2016- juli 2017
 
