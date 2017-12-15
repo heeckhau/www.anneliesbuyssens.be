@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
     <url>
-        <loc>/fotos/aida-de-munt-mei-2017.html</loc>
+        <loc>/fotos/gentse-feesten-met-bang-opera-huset-juli-2015.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -41,6 +41,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>/fotos/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>/repertoire.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -61,7 +66,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/fotos/vlaams-muziek-theater-zigeunerbaron-2008.html</loc>
+        <loc>/contact.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -86,7 +91,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/fotos/gentse-feesten-met-bang-opera-huset-juli-2015.html</loc>
+        <loc>/fotos/operastudio-la-catena-d-adone-dec-2007.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -96,7 +101,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/fotos/CloseOpera_Gentse_Feesten_Carmen_meets_Zarzuela_juli2017.html</loc>
+        <loc>/fotos/zebrastraat-recital-juli-2008.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -111,7 +116,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/fotos/</loc>
+        <loc>/fotos/lunchconcert-vlaamse-opera-jan-2008.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -126,12 +131,17 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>/fotos/aida-de-munt-mei-2017.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>/fotos/operastudio-mozart-project-okt-2007.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/fotos/operastudio-la-catena-d-adone-dec-2007.html</loc>
+        <loc>/fotos/Una_serata_Italiana_CloseOpera_mei2016.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -142,11 +152,6 @@
     </url>
     <url>
         <loc>/fotos/index.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>/fotos/lunchconcert-vlaamse-opera-jan-2008.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -196,12 +201,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/contact.html</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>/fotos/Una_serata_Italiana_CloseOpera_mei2016.html</loc>
+        <loc>/fotos/vlaams-muziek-theater-zigeunerbaron-2008.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -216,7 +216,7 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>/fotos/zebrastraat-recital-juli-2008.html</loc>
+        <loc>/fotos/CloseOpera_Gentse_Feesten_Carmen_meets_Zarzuela_juli2017.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
