@@ -17,6 +17,8 @@ layout: page
 ## Solo-Concerten
 
 * "Les Adieux", Lieder- en poëzie-avond met CloseOpera, 24 november 2017, 20u Kunstcafé Huset Gent.
+* "Carmen meets Zarzuela", met CloseOpera, 4 december 2017, 20u CC De Kleine Beer, Beernem.
+* NTB "Broadway Nieuwjaarsconcert", met CloseOpera, 14 januari 2018, 15u Kunstcafé Huset Gent.
 
 # Speelseizoen sept 2016- juli 2017
 
@@ -41,7 +43,7 @@ layout: page
 ![Diva Night met CloseOpera](images/others/CloseOpera-2016.jpg)  ![Logo CloseOpera](images/others/LogoCloseOpera.jpg)
 
 * "L'Adoration du Soleil" Gentse Feesten met CloseOpera:
-    * "Carmen Meets Zarzuela" 21 juli 2017, 20u Kunstcafé Huset
+    * "Carmen meets Zarzuela" 21 juli 2017, 20u Kunstcafé Huset
     * "Una Serata Italiana" 22 juli 2017, 20u  Kunstcafé Huset
 
 # Speelseizoen sept 2015-juli 2016
