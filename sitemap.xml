@@ -221,6 +221,11 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>/fotos/CloseOpera_CarmenMeetsZarzuela.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>/cv.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
