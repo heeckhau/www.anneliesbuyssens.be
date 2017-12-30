@@ -10,7 +10,8 @@ layout: page
 * "Das Wunder der Heliane" (E. Korngold), met Kunsthuis Opera Vlaanderen, 15 sept t/m 10 okt 2017, Opera Gent en Antwerpen.
 * Benefietconcert "Kom op tegen kanker", met Kunsthuis Opera Vlaanderen, 15 okt 2017, Opera Antwerpen.
 * "Le Duc d'Albe" (G. Donizetti/G. Battistelli), met Kunsthuis Opera Vlaanderen, 17 nov t/m 6 dec 2017, Opera Gent.
-* Concert "Songs for the Crossing", met Vlaams Radio Koor, 15 december 2017, Flagey Brussel.
+* Concert "Songs for the Crossing" (Jeroen D'Hoe), met Vlaams Radio Koor en Brussels Philharmonic Orchestra, 15 december 2017, Flagey Brussel.
+* Concert "Rossini-gala", met Kunsthuis Opera Vlaanderen, 6 jan 2018, Koningin Elisabethzaal Antwerpen.
 * "Cavalleria rusticana" (P. Mascagni) & "Pagliacci" (R. Leoncavalli), met De Munt/La Monnaie, 6 maart t/m 22 maart 2018, Opera Brussel.
 * "Lohengrin" (R. Wagner), met De Munt/La Monnaie, 19 april t/m 6 mei 2018, Opera Brussel.
 
@@ -18,7 +19,7 @@ layout: page
 
 * "Les Adieux", Lieder- en poëzie-avond met CloseOpera, 24 november 2017, 20u Kunstcafé Huset Gent.
 * "Carmen meets Zarzuela", met CloseOpera, 4 december 2017, 20u CC De Kleine Beer, Beernem.
-* NTB "Broadway Nieuwjaarsconcert", met CloseOpera, 14 januari 2018, 15u Kunstcafé Huset Gent.
+* "Broadway Nieuwjaarsconcert", met CloseOpera, 14 januari 2018, 15u Kunstcafé Huset Gent.
 
 # Speelseizoen sept 2016- juli 2017
 
