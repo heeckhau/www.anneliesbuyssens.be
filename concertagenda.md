@@ -14,12 +14,14 @@ layout: page
 * Concert "Rossini-gala", met Kunsthuis Opera Vlaanderen, 6 jan 2018, Koningin Elisabethzaal Antwerpen.
 * "Cavalleria rusticana" (P. Mascagni) & "Pagliacci" (R. Leoncavalli), met De Munt/La Monnaie, 6 maart t/m 22 maart 2018, Opera Brussel.
 * "Lohengrin" (R. Wagner), met De Munt/La Monnaie, 19 april t/m 6 mei 2018, Opera Brussel.
+* Concert "Leonard Bernstein: 100 years of magic", met Vlaams Radio Koor en Brussels Philharmonic Orchestra, 30 mei 2018, Bozar Brussel.
 
 ## Solo-Concerten
 
 * "Les Adieux", Lieder- en poëzie-avond met CloseOpera, 24 november 2017, 20u Kunstcafé Huset Gent.
 * "Carmen meets Zarzuela", met CloseOpera, 4 december 2017, 20u CC De Kleine Beer, Beernem.
 * "Broadway Nieuwjaarsconcert", met CloseOpera, 14 januari 2018, 15u Kunstcafé Huset Gent.
+* "Carmen meets Zarzuela", met CloseOpera, 28 maart 2018, Pop-up bar Opera Antwerpen.
 
 # Speelseizoen sept 2016- juli 2017
 
