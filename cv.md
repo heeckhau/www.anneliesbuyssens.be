@@ -62,7 +62,8 @@ layout: page
 
 # Werkervaring in het Onderwijs
 
-* Koor & Stem, zetel Gent / VFJK. Koorcoaching. Rijsenbergstraat 150, 9000 Gent. Bij DULCISONA, 2013, bij KWIMBA, 2008-heden.
+* Koor & Stem, zetel Gent / VFJK. Koorcoaching. Rijsenbergstraat 150, 9000 Gent. Bij DULCISONA, 2013. Bij DUDOKA, 2018. Bij KWIMBA, 2008-heden.
+* Gent: DKO. Zang. Academie de Kunstbrug, Gentbrugge. Sept-dec 2017.
 * Aalter: DKO. Zang en Koor. Academie voor Muziek, Woord en Dans, Stationsstraat 141, 9880 Aalter. Academiejaar 2008-2009, 2012-2013, 2013-2014.
 * Buggenhout: DKO. Zang, Stemvorming, Kinderkoor en Jeugdkoor. Gemeentelijke academie voor muziek, woord en dans, Kasteelstraat 162, 9255 Buggenhout. Interim van oktober 2008 t/m december 2008.
 * Knokke: DKO. Zang en Stemvorming. deKunstAcademie, Seb. Nachtegaelestraat 10, 8300 Knokke-Heist. Academiejaar 2008-2009.

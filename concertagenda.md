@@ -3,6 +3,22 @@ title: Concertagenda
 layout: page 
 ---
 
+# Speelseizoen sept 2018-juni 2019
+
+## Opera/Concerten Koor
+
+* "Klassiek in de Stad", met [Opera Vlaanderen](https://operaballet.be/nl), 2 sept '18, openluchtconcert om 11u30 op St.-Jansplein, Antwerpen.
+* "Lohengrin" (R. Wagner), met [Opera Vlaanderen](https://operaballet.be/nl), sept-okt '18, Opera Gent en Antwerpen.
+* "For the Fallen", concert met Vlaams Radio Koor en Brussels Philharmonic, 16 nov '18, Flagey Brussel.
+* "Les Pecheurs de perles" (G. Bizet), met [Opera Vlaanderen](https://operaballet.be/nl), dec '18-jan '19, Opera Antwerpen en Gent; mei '19, Opera Luxemburg.
+* "La Juive" (J. Halévy), met [Opera Vlaanderen](https://operaballet.be/nl), maart-april '19, Opera Antwerpen en Gent.
+* "The Tale of Tsar Saltan" (N. Rimsky-Korsakov), met de [Munt/La Monnaie](https://www.demunt.be/), juni '19, Opera Brussel.
+
+## Solo-Concerten
+
+* "Ganymed goes Brussels", Performance, 11,18, 25 okt; 8, 15, 22 nov; 11 dec '18, Museum voor Schone Kunsten Brussel. <https://fine-arts-museum.be/nl/ganymedgoesbrussels>
+![Ganymed](images/others/ganymed.jpg)
+
 # Speelseizoen sept 2017-juni 2018
 
 ## Opera/Concerten Koor
