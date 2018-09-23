@@ -11,6 +11,7 @@ layout: page
 * "Lohengrin" (R. Wagner), met [Opera Vlaanderen](https://operaballet.be/nl), sept-okt '18, Opera Gent en Antwerpen.
 * "For the Fallen", concert met Vlaams Radio Koor en Brussels Philharmonic, 16 nov '18, Flagey Brussel.
 * "Les Pêcheurs de perles" (G. Bizet), met [Opera Vlaanderen](https://operaballet.be/nl), dec '18-jan '19, Opera Antwerpen en Gent; mei '19, Opera Luxemburg.
+* "Cardillac" (P. Hindemith), met [Opera Vlaanderen](https://operaballet.be/nl), februari-maart '19, Opera Antwerpen en Gent.
 * "La Juive" (J. Halévy), met [Opera Vlaanderen](https://operaballet.be/nl), maart-april '19, Opera Antwerpen en Gent.
 * "The Tale of Tsar Saltan" (N. Rimsky-Korsakov), met de [Munt/La Monnaie](https://www.demunt.be/), juni '19, Opera Brussel.
 
