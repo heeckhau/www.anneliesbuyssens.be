@@ -2,18 +2,29 @@
 title: Concertagenda
 layout: page 
 ---
+# Speelseizoen sept 2019-juni 2020
 
-# Speelseizoen sept 2018-juni 2019
+## Opera/Concerten Koor
+
+* "Don Carlos" (G. Verdi), met [Opera Vlaanderen](https://operaballet.be/nl), sept-okt 2019, Opera Antwerpen en Gent.
+* "Messa di Requiem" (G. Verdi), met [Opera Vlaanderen](https://operaballet.be/nl), 5 okt 2019 Sint-Baafskathedraal Gent, 8 okt 2019 deSingel Antwerpen.
+* "Macbeth" (G.Verdi), met [Opera Vlaanderen](https://operaballet.be/nl), november 2019, Opera Gent en Opera Groothertogdom Luxemburg.
+* "Der Schmied von Gent" (F. Schreker), met [Opera Vlaanderen](https://operaballet.be/nl), feb-maart 2020, Opera Antwerpen en Gent.
+* "C(H)OEURS 2020", met [Opera Vlaanderen](https://operaballet.be/nl) en Les Ballets C de la B, maart-april 2020, Opera Gent en Antwerpen.
+
+
+# Speelseizoen sept 2018-juli 2019
 
 ## Opera/Concerten Koor
 
 * "Klassiek in de Stad", met [Opera Vlaanderen](https://operaballet.be/nl), 2 sept '18, openluchtconcert om 11u30 op St.-Jansplein, Antwerpen.
 * "Lohengrin" (R. Wagner), met [Opera Vlaanderen](https://operaballet.be/nl), sept-okt '18, Opera Gent en Antwerpen.
 * "For the Fallen", concert met Vlaams Radio Koor en Brussels Philharmonic, 16 nov '18, Flagey Brussel.
-* "Les Pêcheurs de perles" (G. Bizet), met [Opera Vlaanderen](https://operaballet.be/nl), dec '18-jan '19, Opera Antwerpen en Gent; mei '19, Opera Luxemburg.
+* "Les Pêcheurs de perles" (G. Bizet), met [Opera Vlaanderen](https://operaballet.be/nl), dec '18-jan '19, Opera Antwerpen en Gent.
 * "Cardillac" (P. Hindemith), met [Opera Vlaanderen](https://operaballet.be/nl), februari-maart '19, Opera Antwerpen en Gent.
 * "La Juive" (J. Halévy), met [Opera Vlaanderen](https://operaballet.be/nl), maart-april '19, Opera Antwerpen en Gent.
-* "The Tale of Tsar Saltan" (N. Rimsky-Korsakov), met de [Munt/La Monnaie](https://www.demunt.be/), juni '19, Opera Brussel.
+* "Les Pêcheurs de perles" (G. Bizet), met [Opera Vlaanderen](https://operaballet.be/nl), mei '19, Opera Groothertogdom Luxemburg.
+* "Macbeth" (G. Verdi), met [Opera Vlaanderen](https://operaballet.be/nl), juni-juli '19, Opera Antwerpen.
 
 ## Solo-Concerten
 
