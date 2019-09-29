@@ -1,0 +1,10 @@
+baseURL = "http://www.anneliesbuyssens.be/"
+languageCode = "nl-be"
+title = "Annelies Buyssens - Sopraan"
+copyright = "Annelies Buyssens"
+name = "Annelies"
+description = ""
+homepage = "http://example.com/"
+tags = []
+features = []
+min_version = "0.41"

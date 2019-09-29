@@ -1,0 +1,37 @@
+{{ define "main" }}
+
+{{ $truncate := default true .Site.Params.truncate }}
+
+{{ if .Content }}
+    <div class="uk-container">
+        <article class="uk-margin-top">
+            {{.Content}}
+        </article>
+            
+        <div class="uk-container uk-padding">
+            <div class="uk-grid-column-small uk-grid-row-small" uk-grid="masonry: true">
+                {{- range .Pages -}}
+                    {{- $thumbnailname := (.Params.thumbnail | default "*.jpg") -}}
+                    {{- $thumbResource :=  (.Resources.GetMatch $thumbnailname ) -}}
+                    {{- $thumb :=  $thumbResource.Fill "200x200" -}}
+                    <div class="uk-card">
+                        <a href="{{ .Permalink }}">
+                            <div class='stackone'>
+                                <div class="uk-visible-toggle" tabindex="-1">
+
+                                    <img alt="{{ .Title }} " src="{{ $thumb.RelPermalink }}" />
+                                            <div class="uk-overlay uk-overlay-primary uk-light uk-position-center uk-invisible-hover">
+                                                <p class="">{{ .Title }}</p>
+                                                <p class="">{{ len .Resources }} foto's</p>
+                                            </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                {{- end -}} 
+            </div>
+        </div>   
+    </div>
+
+{{ end }}
+{{ end }}

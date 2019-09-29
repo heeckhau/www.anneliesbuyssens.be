@@ -1,0 +1,10 @@
+{{ define "main" }}
+{{ if .Params.nowrapper }}
+        {{ .Content }}
+{{ else }}
+<div class="uk-container uk-padding">
+    <h1>{{.Title}}</h1>
+    {{ .Content }}
+</div>
+{{ end }}
+{{ end }}
