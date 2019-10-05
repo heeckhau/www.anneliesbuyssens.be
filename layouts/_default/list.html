@@ -3,6 +3,16 @@
     <article class="uk-margin-top">
         {{.Content}}
     </article>
+
+    {{ if .IsHome }}
+    <div class="uk-hidden@m">
+        <ul class="uk-nav uk-nav-primary uk-nav-center uk-margin-auto-vertical">
+        {{ range .Site.Menus.main }}
+            <li><a href="{{ .URL }}">{{ .Name}}</a></li>
+        {{ end }}
+        </ul>
+    </div>
+    {{ end }}
 </div>
 
 {{ end }}
