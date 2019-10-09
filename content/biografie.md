@@ -5,7 +5,7 @@ menu: "main"
 
 
 {{<figure class="uk-float-right uk-padding-small uk-padding-remove-vertical" src="/images/others/pasfotoCVklein.jpg" >}}  
-<p>De Belgische sopraan **Annelies Buyssens** volgde  haar zangopleiding aan het Conservatorium van Gent, waar ze in 2005 een Meestergraad in de Klassieke Zang behaalde bij Erika Pauwels en Zeger Vandersteene.</p>
+De Belgische sopraan **Annelies Buyssens** volgde  haar zangopleiding aan het Conservatorium van Gent, waar ze in 2005 een Meestergraad in de Klassieke Zang behaalde bij Erika Pauwels en Zeger Vandersteene.
 
 Annelies behaalde dat jaar eveneens een Kandidaatsdiploma in de Kunstwetenschappen aan de Universiteit Gent en haar Lerarendiploma aan de Hogeschool Gent.
 
