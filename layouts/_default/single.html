@@ -4,7 +4,7 @@
 {{ else }}
 <div class="uk-container uk-padding">
     <h1>{{.Title}}</h1>
-    {{ .Content }}
+    {{ .Content | replaceRE "<table>" "<table class=\"uk-table uk-table-small uk-table-striped\">" | safeHTML }}
 </div>
 {{ end }}
 {{ end }}
