@@ -8,3 +8,4 @@ homepage = "http://example.com/"
 tags = []
 features = []
 min_version = "0.41"
+googleAnalytics = "UA-2887819-1"
