@@ -7,7 +7,7 @@ menu: "main"
 *Geaggregeerde in de Muziek*  
 *Kandidaat in de Kunstwetenschappen*  
 
-# Muzikale Opleiding
+## Muzikale Opleiding
 
 * Operastudio
     * Operastudio Vlaanderen, post-graduaat, Gent, 2007-2008
@@ -37,14 +37,14 @@ menu: "main"
     * Piano, Academie voor Muziek, Woord en Dans- Omer Van Puyvelde, Diploma hogere graad met Onderscheiding behaald in 2001
     * Saxofoon, Muziekacademie van het Gemeenschapsonderwijs Gent, Diploma lagere graad met Onderscheiding behaald in 1998
 
-# Andere Opleidingen
+## Andere Opleidingen
 
 * Hogeschool
     * Initiële Lerarenopleiding van Academisch Niveau, Hogeschool Gent, Diploma behaald in 2007
 * Universiteit
     * Kunstwetenschappen, optie Theaterwetenschappen, Universiteit Gent, faculteit Letteren en Wijsbegeerte, Kandidaatsdiploma met Onderscheiding behaald in 2005
 
-# Werkervaring als solist
+## Werkervaring als solist
 
 * CloseOpera, 2015-heden
 * Operastudio Vlaanderen, 2007-2008

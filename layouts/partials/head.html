@@ -1,7 +1,15 @@
 <!-- Create <project-root>/layouts/partials/head-custom.html to overwrite this empty template and put custom code into the <head> section. -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="/css/uikit.min.css" />
-<link rel="stylesheet" href="/css/custom.css" />
+
+{{ if .Site.IsServer }}
+    {{ $cssOpts := (dict "targetPath" "css/coder.css" "enableSourceMap" true ) }}
+    {{ $styles := resources.Get "scss/annelies.scss" | toCSS $cssOpts }}
+    <link rel="stylesheet" href="{{ $styles.RelPermalink }}" media="screen">
+{{ else }}
+    {{ $cssOpts := (dict "targetPath" "css/coder.css" ) }}
+    {{ $styles := resources.Get "scss/annelies.scss" | toCSS $cssOpts | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous" media="screen" />
+{{ end }}
+
 {{ template "_internal/google_analytics.html" . }}
-        
