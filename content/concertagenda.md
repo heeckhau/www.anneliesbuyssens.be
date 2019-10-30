@@ -44,9 +44,6 @@ menu: "main"
 * "Lohengrin" (R. Wagner), met De Munt/La Monnaie, 19 april t/m 6 mei 2018, Opera Brussel.
 * Concert "Leonard Bernstein: 100 years of magic", met Vlaams Radio Koor en Brussels Philharmonic Orchestra, 30 mei 2018, Bozar Brussel.
 
-![](fotos/paleisconcert-met-vrk-dec-2015/Paleisconcert1_hu28e3bd56b111a608272b5e36756ee076_188499_1280x800_fit_q75_box.jpg)
-
-
 ## Solo-Concerten
 
 * "Les Adieux", Lieder- en poëzie-avond met CloseOpera, 24 november 2017, 20u Kunstcafé Huset Gent.

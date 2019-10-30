@@ -1,31 +1,30 @@
 {{ $currentPageName := (.Page.Name) }}
 <!-- <div class="uk-container sg-border-bottom uk-visible@m"> -->
-        <nav data-uk-navbar class="sg-navbar-top" id="top">
-            <div class="uk-flex uk-flex-column">
-                <div class="uk-navbar-left">
-                    <a href="/">Annelies Buyssens - Sopraan</a>
-                </div>
-                <div class="uk-navbar-right uk-visible@m">
-                    <ul class="uk-navbar-nav uk-height-1-1 uk-flex">
-                        {{ range .Site.Menus.main }}
-                        <li {{ if eq $currentPageName .Name }} class="uk-active" {{ end }}>
-                            <a class="uk-flex-middle uk-height-1-1" href="{{ .URL }}">{{ .Name}}</a></li>
-                            {{ end }}
-                        </ul>
-                    </div>
-                    <button class="uk-button uk-button-link uk-hidden@m uk-position-right" type="button" data-uk-toggle="target: #offcanvas-nav">
-                        <span class="uk-margin-small-right uk-icon" data-uk-icon="icon: menu; ratio: 2"></span>
-                    </button>
+    <nav data-uk-navbar class="sg-navbar-top" id="top">
+        <div class="uk-flex uk-flex-column">
+            <div class="uk-navbar-left">
+                <a href="/">Annelies Buyssens - Sopraan</a>
             </div>
-        </nav>
-        <div id="offcanvas-nav" data-uk-offcanvas="overlay: true">
-                <div class="uk-offcanvas-bar uk-flex uk-flex-column">
-            
-                    <ul class="uk-nav uk-nav-primary uk-nav-center uk-margin-auto-vertical">
-                            {{ range .Site.Menus.main }}
-                            <li {{ if eq $currentPageName .Name }} class="uk-active" {{ end }}><a href="{{ .URL }}">{{ .Name}}</a></li>
+            <div class="uk-navbar-right uk-visible@m">
+                <ul class="uk-navbar-nav uk-height-1-1 uk-flex">
+                    {{ range .Site.Menus.main }}
+                    <li {{ if eq $currentPageName .Name }} class="uk-active" {{ end }}>
+                        <a class="uk-flex-middle uk-height-1-1" href="{{ .URL }}">{{ .Name}}</a></li>
                         {{ end }}
                     </ul>
-                </div>
             </div>
-    <!-- </div> -->
+            <button class="uk-button uk-button-link uk-hidden@m uk-position-right" type="button" data-uk-toggle="target: #offcanvas-nav">
+                <span class="uk-margin-small-right uk-icon" data-uk-icon="icon: menu; ratio: 2"></span>
+            </button>
+        </div>
+    </nav>
+    <div id="offcanvas-nav" data-uk-offcanvas="overlay: true">
+        <div class="uk-offcanvas-bar uk-flex uk-flex-column">
+            <ul class="uk-nav uk-nav-primary uk-nav-center uk-margin-auto-vertical">
+                {{ range .Site.Menus.main }}
+                    <li {{ if eq $currentPageName .Name }} class="uk-active" {{ end }}><a href="{{ .URL }}">{{ .Name}}</a></li>
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+<!-- </div> -->

@@ -6,8 +6,7 @@ $global-font-family: "Georgia,New Century Schoolbook,Nimbus Roman No9 L,serif";
 $global-muted-color: #ffffff;
 $global-emphasis-color: #ec5094;
 $global-danger-background: #ffffff;
-
-$table-row-active-background: #f00;
+$global-secondary-background: #222 !default;
 
 
 // 2. Import default variables and available mixins.
@@ -17,31 +16,41 @@ $table-row-active-background: #f00;
 // 3. Your custom mixin overwrites.
 
 @mixin hook-base-h1 {
-  color: #ffffff;
+  color: $global-color;
 }
 
 @mixin hook-base-h2 {
-    color: #ffffff;
-  }
+  color: $global-color;
+}
 
-  @mixin hook-navbar-nav-item {
-    text-shadow: 1px 1px 1px rgba(255,255,255,0.3);
-  }
+@mixin hook-navbar-nav-item {
+  text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.3);
+}
 
-  @mixin hook-table {
-    background: #333333;
-  }
+@mixin hook-table {
+  background: $global-secondary-background;
+}
 
-  @mixin hook-table-small {
-    font-size: small;
-    padding: 3px 6px;
+@mixin hook-table-small {
+  font-size: small;
+  padding: 3px 6px;
+}
+
+@mixin hook-table-small {
+  font-size: small;
+  padding: 3px 6px;
+}
+
+@mixin hook-inverse-component-nav() {
+  text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.3);
+
+  .uk-navbar-nav > li.uk-active > a {
+    color: $global-link-color;
   }
+}
+
 // 4. Import UIkit.
 @import "uikit/src/scss/uikit-theme.scss";
-
-// .uk-light a {
-//     color: #ec5094;
-//   }
 
 .stackone {
   border: 6px solid #fff;
