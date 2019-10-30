@@ -105,7 +105,7 @@ menu: "main"
 * "Rachmaninov-happening", met VRK, De Singel, Antwerpen, 6 maart 2016.
 * "Béatrice et Bénédict" (H. Berlioz), met de Munt/la Monnaie, Brussel, maart-april 2016.
 
-![](/images/others/Paleisconcert1.jpg)
+[![](/images/others/Paleisconcert1.jpg)](/fotos/paleisconcert-met-vrk-dec-2015/)
 
 # Speelseizoen sept 2014-juli 2015
 
