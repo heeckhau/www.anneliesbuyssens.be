@@ -12,9 +12,10 @@ layout: page
 * "Macbeth" (G. Verdi), met [Opera Vlaanderen](https://operaballet.be/nl), november 2019, Opera Gent en Opera Groothertogdom Luxemburg.
 * "Der Schmied von Gent" (F. Schreker), met [Opera Vlaanderen](https://operaballet.be/nl), feb-maart 2020, Opera Antwerpen en Gent.
 * "Via Crucis" (B. Britten en F. Liszt), concert met het [Koor van de Munt/La Monnaie](https://www.lamonnaie.be/en/program/1237-via-crucis), 15 februari 2020, Dominicanankerk Brussel.
-* "C(H)OEURS 2020", met [Opera Vlaanderen](https://operaballet.be/nl) en Les Ballets C de la B, maart-april 2020, Opera Gent en Antwerpen.
+* "C(H)OEURS 2020", met [Opera Vlaanderen](https://operaballet.be/nl), maart-april 2020, Opera Gent en Antwerpen.
 * "9th Symphony" (L. v. Beethoven), concert , 2 en 3 en 8 mei 2020, Concertgebouw Mechelen, Antwerpen en Rotterdam.
 * "2nd Symphony" (G. Mahler), concert met Vlaams Radio Koor en Nederlands Omroepkoor, 9 mei 2020, Concertgebouw Amsterdam.
+* "C(H)OEURS 2020", met [Opera Vlaanderen](https://operaballet.be/nl), 12 juli 2020, Athene.
 
 # Speelseizoen sept 2018-juli 2019
 
