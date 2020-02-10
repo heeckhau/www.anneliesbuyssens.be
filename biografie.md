@@ -27,4 +27,4 @@ In mei 2013 ging haar recital "Après un rêve, songs of slumber and sleep" in p
 
 Sinds 2015 maakt Annelies als solist tenslotte ook deel uit van het nieuw opgericht jong operagezelschap Bang-up! Opera, in 2016 getransformeerd tot CLOSE OPERA. Het solistenensemble is regelmatig te horen in kunstcafé Huset in Gent. Maar CloseOpera gaat ook op tournee naar verschillende concertzalen en culturele centra doorheen België met diverse producties waaronder "The Grand Diva Night".
 
-Als korist is Annelies sinds 2009 werkzaam in het Koor van KUNSTHUIS OPERA VLAANDEREN te Antwerpen en Gent, en sinds 2012 ook in het Koor van de MUNT/la MONNAIE te Brussel. In 2013 was ze te gast in het Koor van het TEATRO REGIO te Parma, Italië. Sinds 2015 versterkt Annelies eveneens het VLAAMS RADIOKOOR olv Hervé Niquet.
+Als korist is Annelies sinds 2009 werkzaam in het Koor van KUNSTHUIS OPERA VLAANDEREN te Antwerpen en Gent, en sinds 2012 ook in het Koor van de MUNT/la MONNAIE te Brussel. In 2013 was ze te gast in het Koor van het TEATRO REGIO te Parma, Italië. Sinds 2015 versterkt Annelies eveneens het VLAAMS RADIOKOOR.
