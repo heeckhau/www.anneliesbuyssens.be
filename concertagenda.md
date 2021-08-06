@@ -21,7 +21,7 @@ maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
 * “Les Huguenots” (G. Meyerbeer), met de Munt/La Monnaie, Opera Brussel, juni en juli 2022.
 
 ## Solo-Concerten
-* "La nuit d'Opéra", in Quatre Mains, Kwaadham Gent, 16 oktober 2021.
+* "Casta Diva" opera recital, in Quatre Mains, Kwaadham Gent, 16 oktober 2021.
 
 # Speelseizoen sept 2020-juli 2021
 
