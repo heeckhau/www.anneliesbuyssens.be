@@ -2,7 +2,33 @@
 title: Concertagenda
 layout: page 
 ---
-# Speelseizoen sept 2019-juni 2020
+
+# Speelseizoen sept 2021-juli 2022
+
+## Opera/Concerten Koor
+* “Klassiek in de Stad”, gratis openluchtconcert met Opera Vlaanderen, Sint-Jansplein
+Antwerpen, 5 september 2021 om 11u30.
+* “Schubert ‘Unvollendete’” (F. Schubert, J. Mc Milan, J. Brahms), Openingsconcert met
+Vlaams Radio Koor en Brussels Philharmonic, Flagey Brussel, 11 september 2021 om 20u15.
+* “Visioni ed Estasi” (W. Henderickx), World Choir Games, Sint-Pauluskerk Antwerpen, 3
+november 2021.
+* “La Bohème” (G. Puccini), met Opera Vlaanderen, in Opera Antwerpen, december 2021 en in
+Opera Gent, januari 2022.
+* “Roméo et Juliette” (H. Berlioz), concertant met Opera Vlaanderen, in deSingel Antwerpen,
+24 februari en in De Bijloke Gent, 27 februari 2022.
+* “C(H)OEURS 2022”, met Opera Ballet Vlaanderen olv Alain Platel, in Opera Antwerpen,
+maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
+* “Les Huguenots” (G. Meyerbeer), met de Munt/La Monnaie, Opera Brussel, juni en juli 2022.
+
+## Solo-Concerten
+* "La nuit d'Opéra", in Quatre Mains, Kwaadham Gent, 16 oktober 2021.
+
+# Speelseizoen sept 2020-juli 2021
+
+## Opera Koor
+* “Tosca” (G. Puccini), met de Munt/La Monnaie, Opera Brussel, juni en juli 2021.
+
+# Speelseizoen sept 2019-juli 2020
 
 ## Opera/Concerten Koor
 
@@ -12,10 +38,10 @@ layout: page
 * "Macbeth" (G. Verdi), met [Opera Vlaanderen](https://operaballet.be/nl), november 2019, Opera Gent en Opera Groothertogdom Luxemburg.
 * "Der Schmied von Gent" (F. Schreker), met [Opera Vlaanderen](https://operaballet.be/nl), feb-maart 2020, Opera Antwerpen en Gent.
 * "Via Crucis" (B. Britten en F. Liszt), concert met het [Koor van de Munt/La Monnaie](https://www.lamonnaie.be/en/program/1237-via-crucis), 15 februari 2020, Dominicanankerk Brussel.
-* "C(H)OEURS 2020", met [Opera Vlaanderen](https://operaballet.be/nl), maart-april 2020, Opera Gent en Antwerpen.
-* "9th Symphony" (L. v. Beethoven), concert , 2 en 3 en 8 mei 2020, Concertgebouw Mechelen, Antwerpen en Rotterdam.
-* "2nd Symphony" (G. Mahler), concert met Vlaams Radio Koor en Nederlands Omroepkoor, 9 mei 2020, Concertgebouw Amsterdam.
-* "C(H)OEURS 2020", met [Opera Vlaanderen](https://operaballet.be/nl), 12 juli 2020, Athene.
+* "C(H)OEURS 2020", met [Opera Vlaanderen](https://operaballet.be/nl), maart-april 2020, Opera Gent en Antwerpen. (geannuleerd)
+* "9th Symphony" (L. v. Beethoven), concert , 2 en 3 en 8 mei 2020, Concertgebouw Mechelen, Antwerpen en Rotterdam. (geannuleerd)
+* "2nd Symphony" (G. Mahler), concert met Vlaams Radio Koor en Nederlands Omroepkoor, 9 mei 2020, Concertgebouw Amsterdam. (geannuleerd)
+* "C(H)OEURS 2020", met [Opera Vlaanderen](https://operaballet.be/nl), 12 juli 2020, Athene. (geannuleerd)
 
 # Speelseizoen sept 2018-juli 2019
 
