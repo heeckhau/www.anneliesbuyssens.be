@@ -18,6 +18,7 @@ Opera Gent, januari 2022.
 24 februari en in De Bijloke Gent, 27 februari 2022.
 * “C(H)OEURS 2022”, met Opera Ballet Vlaanderen olv Alain Platel, in Opera Antwerpen,
 maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
+* "Dixit Dominus" (G.F. Händel), met Vlaams Radio Koor, in Hasselt, Leuven, Brussel, Oostende en Parijs, 20-30 mei 2022.
 * “Les Huguenots” (G. Meyerbeer), met de Munt/La Monnaie, Opera Brussel, juni en juli 2022.
 
 ## Solo-Concerten
