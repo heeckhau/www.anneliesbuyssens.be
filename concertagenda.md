@@ -3,6 +3,23 @@ title: Concertagenda
 layout: page 
 ---
 
+# Speelseizoen sept 2022-juli 2023
+
+## Opera/Concerten Koor
+
+* “Klassiek in de Stad”, gratis openluchtconcert met Opera Vlaanderen, Sint-Jansplein Antwerpen, 4 september 2022 om 11u30.
+* “Ernani” (G. Verdi), met Opera Vlaanderen, in Opera Antwerpen december 2022, in Opera Gent januari 2023.
+* “Bastarda” (G. Donizetti), met De Munt/La Monnaie, Opera Brussel, maart en april 2023.
+* “Nos” (D. Sjostakovitsj), met De Munt/La Monnaie, Opera Brussel, juni en juli 2023.
+
+Volgend seizoen 2023-2024
+
+* Wereldpremière “Cassandra” (B. Foccroulle), met De Munt/La Monnaie, Opera Brussel, september 2023.
+
+## Solo-Concerten
+
+NTB
+
 # Speelseizoen sept 2021-juli 2022
 
 ## Opera/Concerten Koor
