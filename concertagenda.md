@@ -1,9 +1,19 @@
 ---
 title: Concertagenda
-layout: page 
+layout: page
 ---
 
-# Speelseizoen sept 2022-juli 2023
+# Speelseizoen 2023-2024
+
+## Opera Koor
+* Wereldpremière “Cassandra” (B. Foccroulle), met De Munt/La Monnaie, in Opera Brussel: 9 t/m 23 september 2023.
+* Wereldpremière “Brodeck” (D. Janssens), met Opera Vlaanderen, in Opera Antwerpen: 9 februari t/m 20 februari 2024, in Opera Gent: 29 februari t/m 9 maart 2024.
+
+## Solo-Concerten
+* "Casta Diva" opera recital, in Koetshuis, Theresianenstraat 6, Gent: 14 oktober 2023.
+
+
+# Speelseizoen 2022-2023
 
 ## Opera/Concerten Koor
 
@@ -12,17 +22,11 @@ layout: page
 * “Bastarda” (G. Donizetti), met De Munt/La Monnaie, Opera Brussel, maart en april 2023.
 * “Nos” (D. Sjostakovitsj), met De Munt/La Monnaie, Opera Brussel, juni en juli 2023.
 
-Volgend seizoen 2023-2024
 
-* Wereldpremière “Cassandra” (B. Foccroulle), met De Munt/La Monnaie, Opera Brussel, september 2023.
-
-## Solo-Concerten
-
-NTB
-
-# Speelseizoen sept 2021-juli 2022
+# Speelseizoen 2021-2022
 
 ## Opera/Concerten Koor
+
 * “Klassiek in de Stad”, gratis openluchtconcert met Opera Vlaanderen, Sint-Jansplein
 Antwerpen, 5 september 2021 om 11u30.
 * “Schubert ‘Unvollendete’” (F. Schubert, J. Mc Milan, J. Brahms), Openingsconcert met
@@ -41,12 +45,14 @@ maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
 ## Solo-Concerten
 * "Casta Diva" opera recital, in Quatre Mains, Kwaadham Gent, 16 oktober 2021.
 
-# Speelseizoen sept 2020-juli 2021
+
+# Speelseizoen 2020-2021
 
 ## Opera Koor
 * “Tosca” (G. Puccini), met de Munt/La Monnaie, Opera Brussel, juni en juli 2021.
 
-# Speelseizoen sept 2019-juli 2020
+
+# Speelseizoen 2019-2020
 
 ## Opera/Concerten Koor
 
@@ -61,7 +67,7 @@ maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
 * "2nd Symphony" (G. Mahler), concert met Vlaams Radio Koor en Nederlands Omroepkoor, 9 mei 2020, Concertgebouw Amsterdam. (geannuleerd)
 * "C(H)OEURS 2020", met [Opera Vlaanderen](https://operaballet.be/nl), 12 juli 2020, Athene. (geannuleerd)
 
-# Speelseizoen sept 2018-juli 2019
+# Speelseizoen 2018-2019
 
 ## Opera/Concerten Koor
 
@@ -79,7 +85,7 @@ maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
 * "Ganymed goes Brussels", Performance, 11,18, 25 okt; 8, 15, 22 nov; 11 dec '18, Museum voor Schone Kunsten Brussel. <https://fine-arts-museum.be/nl/ganymedgoesbrussels>
 ![Ganymed](images/others/ganymed.jpg)
 
-# Speelseizoen sept 2017-juni 2018
+# Speelseizoen 2017-2018
 
 ## Opera/Concerten Koor
 
@@ -99,7 +105,7 @@ maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
 * "Broadway Nieuwjaarsconcert", met CloseOpera, 14 januari 2018, 15u Kunstcafé Huset Gent.
 * "Carmen meets Zarzuela", met CloseOpera, 28 maart 2018, Pop-up bar Opera Antwerpen.
 
-# Speelseizoen sept 2016- juli 2017
+# Speelseizoen 2016-2017
 
 ## Opera/Concerten Koor
 
@@ -125,7 +131,7 @@ maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
     * "Carmen meets Zarzuela" 21 juli 2017, 20u Kunstcafé Huset
     * "Una Serata Italiana" 22 juli 2017, 20u  Kunstcafé Huset
 
-# Speelseizoen sept 2015-juli 2016
+# Speelseizoen sept-2016
 
 ## Solo-Concerten
 
@@ -153,7 +159,7 @@ maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
 
 ![](/images/fotos/paleisconcert-met-vrk-dec-2015/thumbnails/Paleisconcert1.jpg)
 
-# Speelseizoen sept 2014-juli 2015
+# Speelseizoen 2014-2015
 
 ## Solo-Concerten
 
