@@ -1,0 +1,7 @@
+public
+exampleSite/public
+exampleSite/resources
+resources
+node_modules
+*.lock
+.DS_Store
