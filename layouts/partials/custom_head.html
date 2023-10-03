@@ -4,19 +4,53 @@
 
 <!-- Custom CSS via inline styles
      You may use this template to add custom CSS to your site like so: -->
-<!--
-<style>
-:root {
-    /* see variables.scss for more variables*/
 
-    /*
-    --section-light-text-color: #3a4145!important;
-    --section-light-bg-color: #ffdb8c!important;
-    --section-dark-bg-color: #035e00!important;
-    */
-}
+<style>
+     :root {
+          /* see variables.scss for more variables*/
+
+          /* === Cover / Landing area === */
+          --cover-text-color: #6f0030;
+          /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
+          --highlight: #ec5094;
+          --highlight-contrast: var(--cover-text-color);
+          /*iverse colors used for :hover */
+          --highlight-inverse: var(--cover-text-color);
+          --highlight-inverse-contrast: white;
+
+          /* visual guard around title and description, when the feature is enabled */
+          --cover-title-and-description-guard-bg-color: rgba(255, 255, 255, 0.6);
+          --cover-title-text-shadow: white 0px 0px 7px;
+
+
+          /* === sticky top/left navigation menus === */
+          --sticky-menu-text-color: #ec5094;
+
+
+          /* === Alternating content (post) sections  === */
+          /* Light section - text color */
+          --section-light-text-color: #3a4145;
+          /* Light section - background color */
+          --section-light-bg-color: #f8c9eb;
+
+          /* Dark section - text color */
+          --section-dark-text-color: var(--section-light-bg-color);
+          /* Dark section - background color */
+          --section-dark-bg-color: #b7ffe3;
+
+          /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
+          --section-uni-quote: grey;
+          /* Light&Dark section `code` a bit darker than 'Light section - background color' */
+          --section-uni-code-bg-color: #e0ded7;
+
+
+          /* === Footer === */
+          --footer-color-background: #22343a;
+          --footer-color: #bbc7cc;
+
+     }
 </style>
--->
+
 
 
 <!-- Custom CSS via "custom.css"-file
@@ -35,20 +69,6 @@
      Generated via https://favicon.io/favicon-generator/ -->
 
 
-<link
-  rel="apple-touch-icon"
-  sizes="180x180"
-  href="{{ "images/apple-touch-icon.png" | absURL }}"
-/>
-<link
-  rel="icon"
-  type="image/png"
-  sizes="32x32"
-  href="{{ "images/favicon-32x32.png" | absURL }}"
-/>
-<link
-  rel="icon"
-  type="image/png"
-  sizes="16x16"
-  href="{{ "images/favicon-16x16.png" | absURL }}"
-/>
+<link rel="apple-touch-icon" sizes="180x180" href="{{ " images/apple-touch-icon.png" | absURL }}" />
+<link rel="icon" type="image/png" sizes="32x32" href="{{ " images/favicon-32x32.png" | absURL }}" />
+<link rel="icon" type="image/png" sizes="16x16" href="{{ " images/favicon-16x16.png" | absURL }}" />
