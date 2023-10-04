@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+{{ if .Params.nowrapper }}
+        {{ .Content }}
+{{ else }}
+<div class="uk-container uk-padding">
+    {{ .Content }}
+
+    <div uk-lightbox>
+      <div class="uk-grid-column-small uk-grid-row-small" uk-grid="masonry: true">
+        {{ $pagetitle := .Title }}
+        {{ with .Resources.ByType "image" }}
+          {{ range . }}
+            {{ $image := .Fit "1280x800" }}
+            {{ $thumb := ($image.Fit "200x300") }}
+            <div>
+                <div class="uk-card uk-card-default .uk-box-shadow-medium">
+                  <a href="{{ $image.RelPermalink }}">
+                    <img alt="{{ $pagetitle }} " src="{{ $thumb.RelPermalink }}" />
+                  </a>
+                </div>
+            </div>
+            {{ end }}
+          {{ end }}
+        </div>
+      </div>
+      {{ if .Params.copyright }}
+      <div class="uk-flex uk-flex-center@m uk-flex-right@l">
+        ©{{ .Params.copyright | markdownify }}
+      </div>
+      {{ end }}
+
+</div>
+{{ end }}
+
+{{ partial "previous-next" . }}
+
+{{ end }}

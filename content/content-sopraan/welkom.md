@@ -6,6 +6,8 @@ weight: 1
 header_menu: true
 ---
 
+{{< figure src="/images/others/close_opera.jpg" width="200" alt="Annelies Buyssens" class="left" >}}
+
 Ik ben Annelies Buyssens, professioneel zangeres.
 
 Na mijn opleiding aan de Universiteit

@@ -65,19 +65,19 @@ maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
 
 ## Opera/Concerten Koor
 
-* "Klassiek in de Stad", met [Opera Vlaanderen](https://operaballet.be/nl), 2 sept '18, openluchtconcert om 11u30 op St.-Jansplein, Antwerpen.
-* "Lohengrin" (R. Wagner), met [Opera Vlaanderen](https://operaballet.be/nl), sept-okt '18, Opera Gent en Antwerpen.
-* "For the Fallen", concert met Vlaams Radio Koor en Brussels Philharmonic, 16 nov '18, Flagey Brussel.
-* "Les Pêcheurs de perles" (G. Bizet), met [Opera Vlaanderen](https://operaballet.be/nl), dec '18-jan '19, Opera Antwerpen en Gent.
-* "Cardillac" (P. Hindemith), met [Opera Vlaanderen](https://operaballet.be/nl), februari-maart '19, Opera Antwerpen en Gent.
-* "La Juive" (J. Halévy), met [Opera Vlaanderen](https://operaballet.be/nl), maart-april '19, Opera Antwerpen en Gent.
-* "Les Pêcheurs de perles" (G. Bizet), met [Opera Vlaanderen](https://operaballet.be/nl), mei '19, Opera Groothertogdom Luxemburg.
-* "Macbeth" (G. Verdi), met [Opera Vlaanderen](https://operaballet.be/nl), juni-juli '19, Opera Antwerpen.
+* "Klassiek in de Stad", met [Opera Vlaanderen](https://operaballet.be/nl), 2 sept 2018, openluchtconcert om 11u30 op St.-Jansplein, Antwerpen.
+* "Lohengrin" (R. Wagner), met [Opera Vlaanderen](https://operaballet.be/nl), sept-okt 2018, Opera Gent en Antwerpen.
+* "For the Fallen", concert met Vlaams Radio Koor en Brussels Philharmonic, 16 nov 2018, Flagey Brussel.
+* "Les Pêcheurs de perles" (G. Bizet), met [Opera Vlaanderen](https://operaballet.be/nl), dec 2018-jan 2019, Opera Antwerpen en Gent.
+* "Cardillac" (P. Hindemith), met [Opera Vlaanderen](https://operaballet.be/nl), februari-maart 2019, Opera Antwerpen en Gent.
+* "La Juive" (J. Halévy), met [Opera Vlaanderen](https://operaballet.be/nl), maart-april 2019, Opera Antwerpen en Gent.
+* "Les Pêcheurs de perles" (G. Bizet), met [Opera Vlaanderen](https://operaballet.be/nl), mei 2019, Opera Groothertogdom Luxemburg.
+* "Macbeth" (G. Verdi), met [Opera Vlaanderen](https://operaballet.be/nl), juni-juli 2019, Opera Antwerpen.
 
 ## Solo-Concerten
 
-* "Ganymed goes Brussels", Performance, 11,18, 25 okt; 8, 15, 22 nov; 11 dec '18, Museum voor Schone Kunsten Brussel. <https://fine-arts-museum.be/nl/ganymedgoesbrussels>  
-![Ganymed](/images/others/ganymed.jpg)
+* "Ganymed goes Brussels", Performance, 11,18, 25 okt; 8, 15, 22 nov; 11 dec '18, Museum voor Schone Kunsten Brussel. <https://fine-arts-museum.be/nl/ganymedgoesbrussels>
+![Ganymed](images/others/ganymed.jpg)
 
 # Speelseizoen sept 2017-juni 2018
 
@@ -117,8 +117,9 @@ maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
 * "The Grand Diva Night" met CloseOpera:
     * CC Cinema Alberg, Achel 19 november 2016
     * CC Den Blank, Overijse 15 december 2016
-    * CC Het Aambeeld, Aartselaar 1 juni 2017  
-![Diva Night met CloseOpera](/images/others/CloseOpera-2016.jpg)  ![Logo CloseOpera](/images/others/LogoCloseOpera.jpg)
+    * CC Het Aambeeld, Aartselaar 1 juni 2017
+
+![Diva Night met CloseOpera](images/others/CloseOpera-2016.jpg)  ![Logo CloseOpera](images/others/LogoCloseOpera.jpg)
 
 * "L'Adoration du Soleil" Gentse Feesten met CloseOpera:
     * "Carmen meets Zarzuela" 21 juli 2017, 20u Kunstcafé Huset
@@ -150,7 +151,7 @@ maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
 * "Rachmaninov-happening", met VRK, De Singel, Antwerpen, 6 maart 2016.
 * "Béatrice et Bénédict" (H. Berlioz), met de Munt/la Monnaie, Brussel, maart-april 2016.
 
-[![](/images/others/Paleisconcert1.jpg)](/fotos/paleisconcert-met-vrk-dec-2015/)
+![](/images/fotos/paleisconcert-met-vrk-dec-2015/thumbnails/Paleisconcert1.jpg)
 
 # Speelseizoen sept 2014-juli 2015
 
