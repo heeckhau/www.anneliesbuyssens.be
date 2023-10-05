@@ -10,9 +10,11 @@ header_menu: true
 Je kan bij mij terecht voor zangles, stemvorming, ademhalingssessies, coaching en
 auditietraining.
 
-Een individuele sessie duurt 1 uur en de prijs bedraagt €60.
+De pijrs voor een individuele sessie bedraagt €60/uur.
 De lessen gaan door in mijn privépraktijk in de Bouwmeestersstraat 76, 9040 Gent.
 
-De prijs voor een koorcoaching bedraag €95.
+De prijs voor een koorcoaching bedraagt €95/uur.
 
-Een afspraak maken kan via {{<icon class="fa fa-envelope">}}&nbsp;[Anneliesbuyssens@gmail.com](mailto:Anneliesbuyssens@gmail.com).
+Een afspraak maken kan via [anneliesbuyssens@gmail.com](mailto:anneliesbuyssens@gmail.com).
+
+Gelieve afspraken minstens 48 uur op voorhand te wijzigen of annuleren. Zo niet wordt de sessie in rekening gebracht.
