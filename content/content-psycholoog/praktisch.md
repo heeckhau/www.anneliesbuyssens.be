@@ -6,10 +6,10 @@ weight: 3
 header_menu: true
 ---
 
-Ik werk enkel op afspraak. Via het aanmeldingsformulier (link) kan je een een kennismakingsgesprek aanvragen.
-Ik beantwoord je vraag dan zo snel mogelijk.
+Ik werk enkel op afspraak. Via [anneliesbuyssens@gmail.com](mailto:anneliesbuyssens@gmail.com) kan je een een kennismakingsgesprek aanvragen. Vermeld ook je telefoonnummer. Ik beantwoord je vraag dan zo snel mogelijk.
+
 Een sessie duurt 50 minuten.
-De frequentie van de sessies en het aantal sessies bepalen we in onderling overleg.
+De frequentie van de sessies en het aantal bepalen we in onderling overleg.
 
 De prijs voor een individueel gesprek bedraagt €70.
 De prijs voor een koppel- of gezinsgesprek bedraagt €95.
