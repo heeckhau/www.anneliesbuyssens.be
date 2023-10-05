@@ -2,22 +2,24 @@ body {
   --color-text: var(--section-light-text-color);
   --color-background: var(--section-light-bg-color);
 }
+
 /* ===== Cover =======*/
 
 #blog-logo {
   display: block;
-  max-height: 100px;
+  max-height: 170px;
   width: auto;
   margin: 0 auto;
   line-height: 0;
 }
 
-#site-head.withCenteredImage{
+#site-head.withCenteredImage {
   /* can't be used together with video */
   background: var(--section-light-bg-color) no-repeat center center;
 }
 
-#site-head, #site-head.withCenteredImage {
+#site-head,
+#site-head.withCenteredImage {
   position: relative;
   display: table;
   width: 100%;
