@@ -6,8 +6,6 @@ weight: 1
 header_menu: true
 ---
 
-<!-- ![Jane Doe](/images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg) -->
-
 Ik ben Annelies Buyssens, psycholoog in Gent. Ik ben werkzaam als therapeut in mijn
 privépraktijk en in de groepspraktijk [Tondel](https://www.tondel.be/).
 

@@ -156,8 +156,6 @@ maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
 * "Rachmaninov-happening", met VRK, De Singel, Antwerpen, 6 maart 2016.
 * "Béatrice et Bénédict" (H. Berlioz), met de Munt/la Monnaie, Brussel, maart-april 2016.
 
-![](/images/fotos/paleisconcert-met-vrk-dec-2015/thumbnails/Paleisconcert1.jpg)
-
 # Speelseizoen 2014-2015
 
 ## Solo-Concerten
