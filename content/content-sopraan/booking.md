@@ -1,5 +1,5 @@
 ---
-title: "Booking concert"
+title: "Booking"
 weight: 3
 header_menu: true
 ---
@@ -10,7 +10,7 @@ Ik verzorg graag de opluistering van uw feest of uitvaart (begrafenismis, huweli
 academische zitting, lunch- of aperitiefconcert, verjaardagsreceptie, galabal, jubileumviering,
 ...) of een verrassingsact op uw event.
 
-Je kan zelf een programma samenstellen met verzoeknummers of je kan één van mijn bestaande [recitals]({{< ref "recitals" >}}) boeken.
+Je kan zelf een programma samenstellen met verzoeknummers of je kan één van mijn bestaande [recitals]({{< ref "recitals" >}}) met pianobegeleiding boeken.
 
 Prijs op aanvraag.
 

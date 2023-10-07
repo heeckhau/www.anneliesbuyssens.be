@@ -2,17 +2,18 @@
 title: Concertagenda
 ---
 
-# Speelseizoen 2023-2024
+
+# Seizoen 2023-2024
 
 ## Opera Koor
-* Wereldpremière “Cassandra” (B. Foccroulle), met De Munt/La Monnaie, in Opera Brussel: 9 t/m 23 september 2023.
-* Wereldpremière “Brodeck” (D. Janssens), met Opera Vlaanderen, in Opera Antwerpen: 9 februari t/m 20 februari 2024, in Opera Gent: 29 februari t/m 9 maart 2024.
+* Wereldpremière “Cassandra” (B. Foccroulle), met De Munt/La Monnaie, in Opera Brussel, 9 t/m 23 september 2023.
+* Wereldpremière “Brodeck” (D. Janssens), met Opera Vlaanderen, in Opera Antwerpen: 9 februari t/m 20 februari 2024, in Opera Gent, 29 februari t/m 9 maart 2024.
 
 ## Solo-Concerten
-* "Casta Diva" opera recital, in Koetshuis, Theresianenstraat 6, Gent: 14 oktober 2023.
+* "Casta Diva" opera recital, in Koetshuis, Theresianenstraat 6, Gent, 14 oktober 2023.
 
 
-# Speelseizoen 2022-2023
+# Seizoen 2022-2023
 
 ## Opera/Concerten Koor
 
@@ -22,7 +23,7 @@ title: Concertagenda
 * “Nos” (D. Sjostakovitsj), met De Munt/La Monnaie, Opera Brussel, juni en juli 2023.
 
 
-# Speelseizoen 2021-2022
+# Seizoen 2021-2022
 
 ## Opera/Concerten Koor
 
@@ -45,13 +46,13 @@ maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
 * "Casta Diva" opera recital, in Quatre Mains, Kwaadham Gent, 16 oktober 2021.
 
 
-# Speelseizoen 2020-2021
+# Seizoen 2020-2021
 
 ## Opera Koor
 * “Tosca” (G. Puccini), met de Munt/La Monnaie, Opera Brussel, juni en juli 2021.
 
 
-# Speelseizoen 2019-2020
+# Seizoen 2019-2020
 
 ## Opera/Concerten Koor
 
@@ -66,7 +67,7 @@ maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
 * "2nd Symphony" (G. Mahler), concert met Vlaams Radio Koor en Nederlands Omroepkoor, 9 mei 2020, Concertgebouw Amsterdam. (geannuleerd)
 * "C(H)OEURS 2020", met [Opera Vlaanderen](https://operaballet.be/nl), 12 juli 2020, Athene. (geannuleerd)
 
-# Speelseizoen 2018-2019
+# Seizoen 2018-2019
 
 ## Opera/Concerten Koor
 
@@ -81,10 +82,9 @@ maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
 
 ## Solo-Concerten
 
-* "Ganymed goes Brussels", Performance, 11,18, 25 okt; 8, 15, 22 nov; 11 dec '18, Museum voor Schone Kunsten Brussel. <https://fine-arts-museum.be/nl/ganymedgoesbrussels>
-![Ganymed](images/others/ganymed.jpg)
+* "Ganymed goes Brussels", Performance, 11,18, 25 okt; 8, 15, 22 nov; 11 dec '18, Museum voor Schone Kunsten Brussel.
 
-# Speelseizoen 2017-2018
+# Seizoen 2017-2018
 
 ## Opera/Concerten Koor
 
@@ -104,7 +104,7 @@ maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
 * "Broadway Nieuwjaarsconcert", met CloseOpera, 14 januari 2018, 15u Kunstcafé Huset Gent.
 * "Carmen meets Zarzuela", met CloseOpera, 28 maart 2018, Pop-up bar Opera Antwerpen.
 
-# Speelseizoen 2016-2017
+# Seizoen 2016-2017
 
 ## Opera/Concerten Koor
 
@@ -124,13 +124,11 @@ maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
     * CC Den Blank, Overijse 15 december 2016
     * CC Het Aambeeld, Aartselaar 1 juni 2017
 
-![Diva Night met CloseOpera](images/others/CloseOpera-2016.jpg)  ![Logo CloseOpera](images/others/LogoCloseOpera.jpg)
-
 * "L'Adoration du Soleil" Gentse Feesten met CloseOpera:
-    * "Carmen meets Zarzuela" 21 juli 2017, 20u Kunstcafé Huset
-    * "Una Serata Italiana" 22 juli 2017, 20u  Kunstcafé Huset
+   * "Carmen meets Zarzuela" 21 juli 2017, 20u Kunstcafé Huset
+   * "Una Serata Italiana" 22 juli 2017, 20u  Kunstcafé Huset
 
-# Speelseizoen sept-2016
+# Seizoen 2015-2016
 
 ## Solo-Concerten
 
@@ -156,7 +154,7 @@ maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
 * "Rachmaninov-happening", met VRK, De Singel, Antwerpen, 6 maart 2016.
 * "Béatrice et Bénédict" (H. Berlioz), met de Munt/la Monnaie, Brussel, maart-april 2016.
 
-# Speelseizoen 2014-2015
+# Seizoen 2014-2015
 
 ## Solo-Concerten
 
@@ -175,5 +173,3 @@ maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
 * "La Juive" (F. Halévy), in de Vlaamse Opera, Gent en Antwerpen, 14 april t/m 6 mei 2015.
 * "Ein deutsches Requiem" (J. Brahms), met het Vlaams Radio Koor, op het Festival van Vlaanderen te Mechelen in de St. Romboutskathedraal op 9 mei 2015, te Reims op 10 juli 2015 en te St. Riquier op 11 juli 2015.
 * "Rachmaninov Troika" (S. Rachmaninov), in de Munt, drieluik opera "Aleko", "Skupoj Rytsar", "Francesco da Rimini", in de Munt, 16 t/m 30 juni 2015.
-
-![](/images/others/bang-up_GentseFeesten.jpg)

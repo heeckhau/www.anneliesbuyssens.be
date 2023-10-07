@@ -6,13 +6,13 @@ weight: 3
 header_menu: true
 ---
 
-Ik werk enkel op afspraak. Via [anneliesbuyssens@gmail.com](mailto:anneliesbuyssens@gmail.com) kan je een een kennismakingsgesprek aanvragen. Vermeld ook je telefoonnummer. Ik beantwoord je vraag dan zo snel mogelijk.
+Ik werk steeds op afspraak. Via [anneliesbuyssens@gmail.com](mailto:anneliesbuyssens@gmail.com) kan je meer info of een kennismakingsgesprek aanvragen. Ik beantwoord je vraag dan zo snel mogelijk.
 
 Een sessie duurt 50 minuten.
 De frequentie van de sessies en het aantal bepalen we in onderling overleg.
 
 De prijs voor een individueel gesprek bedraagt €70.
-De prijs voor een koppel- of gezinsgesprek bedraagt €95.
+Voor een koppel- of gezinsgesprek betaal je €95.
 De meeste mutualiteiten voorzien een gedeeltelijke terugbetaling van 12 tot 15 sessies per jaar.
 
 Gelieve afspraken minstens 48 uur op voorhand te wijzigen of annuleren. Zo niet wordt de sessie in rekening gebracht.

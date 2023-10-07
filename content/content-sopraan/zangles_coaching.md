@@ -7,10 +7,9 @@ header_menu: true
 ---
 
 
-Je kan bij mij terecht voor zangles, stemvorming, ademhalingssessies, coaching en
-auditietraining.
+Je kan bij mij terecht voor zangles, stemvorming, ademhalingssessies, coaching en auditietraining.
 
-De pijrs voor een individuele sessie bedraagt €60/uur.
+De prijs voor een individuele sessie bedraagt €60/uur.
 De lessen gaan door in mijn privépraktijk in de Bouwmeestersstraat 76, 9040 Gent.
 
 De prijs voor een koorcoaching bedraagt €95/uur.
