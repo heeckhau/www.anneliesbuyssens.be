@@ -12,7 +12,7 @@ Ik ben Annelies Buyssens, professioneel zangeres.
 
 Ik studeerde Kunstwetenschappen aan de Universiteit Gent en Klassieke Zang aan het Conservatorium van Gent en Amsterdam. Ik volgde ook de Lerarenopleiding aan de Hogeschool Gent.
 
-Ik startte mijn muziekcarrière als solist in 2007 bij Operastudio Vlaanderen, het Vlaams Muziek Theater en Close Opera.
+Ik startte mijn muziekcarrière als solist bij Operastudio Vlaanderen, het Vlaams Muziek Theater en Close Opera.
 
 Sinds 2009 maak ik als sopraan deel uit van het koor van Opera Ballet Vlaanderen, het operakoor van De Munt/La Monnaie en het Vlaams Radio Koor. Mijn concertagenda vind je [hier](/concertagenda).
 
