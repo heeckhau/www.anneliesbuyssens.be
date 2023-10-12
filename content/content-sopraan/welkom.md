@@ -10,14 +10,14 @@ header_menu: true
 
 Ik ben Annelies Buyssens, professioneel zangeres.
 
-Ik studeerde Kunstwetenschappen aan de Universiteit Gent en Klassieke Zang aan het Conservatorium van Gent en Amsterdam. Ik volgde ook de Lerarenopleiding aan de Hogeschool Gent.
+Naast mijn studies Kunstwetenschappen aan de Universiteit Gent, behaalde ik een masterdiploma Klassieke Zang aan het Conservatorium van Gent en Amsterdam. Nadien behaalde ik nog een diploma van de Lerarenopleiding aan de Hogeschool Gent en een postgraduaat Opera.
 
-Ik startte mijn muziekcarrière als solist bij Operastudio Vlaanderen, het Vlaams Muziek Theater en Close Opera.
+Mijn muziekcarrière startte als solist bij Operastudio Vlaanderen, het Vlaams Muziek Theater en Close Opera waar ik diverse rollen vertolkte.
 
-Sinds 2009 maak ik als sopraan deel uit van het koor van Opera Ballet Vlaanderen, het operakoor van De Munt/La Monnaie en het Vlaams Radio Koor. Mijn concertagenda vind je [hier](/concertagenda).
+Sinds 2009 maak ik als **sopraan** deel uit van het koor van Opera Ballet Vlaanderen, het operakoor van De Munt/La Monnaie en het Vlaams Radio Koor. Mijn concertagenda vind je [hier](/concertagenda).
 
-Ik ben te boeken voor een privéconcert of het opluisteren van uw viering of uitvaart.
+Je kan mij boeken voor een privéconcert of het opluisteren van uw viering of uitvaart.
 
-Als zangcoach heb ik reeds 20 jaar ervaring in verschillende muziekacademies, in mijn privépraktijk en bij Koor en Stem. 
+Als **stemcoach** heb ik reeds 20 jaar ervaring in het werken met de adem en de stem in verschillende scholen, muziekacademies, in mijn privépraktijk en bij Koor en Stem.
 
 Naast mijn werk als sopraan en stemcoach, ben ik ook gevestigd als [klinisch psycholoog](/psycholoog).

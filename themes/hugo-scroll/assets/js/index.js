@@ -18,7 +18,7 @@ var $sitehead = $("#site-head");
         scrollTop: el.offset().top,
       },
       dur,
-      function() {
+      function () {
         window.location.hash = el.attr("id");
       }
     );
@@ -83,13 +83,13 @@ var $sitehead = $("#site-head");
               i.removeClass("active");
               a.fadeIn("slow");
             }
-        }
+          }
         });
       });
     }
 
     $('ul').addClass("fa-ul");
-    $("ul li").prepend('<span class="fa-li"><i class="fa fa-asterisk"></i></span>');
+    $("ul li").prepend('<span class="fa-li"><i class="fa fa-circle-thin"></i></span>');
     $("blockquote p").prepend('<span class="quo fa fa-quote-left"></span>');
     $("blockquote p").append('<span class="quo fa fa-quote-right"></span>');
   });

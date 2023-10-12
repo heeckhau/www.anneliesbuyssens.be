@@ -10,6 +10,6 @@ header_logo: "/images/circle_zang1.png"
 
 
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Sopraan"
+header_headline: "Sopraan & Stemcoach"
 header_subheadline: "<b>Annelies Buyssens</b>"
 ---

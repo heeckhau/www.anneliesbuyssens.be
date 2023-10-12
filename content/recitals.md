@@ -3,7 +3,7 @@ title: Recitals
 menu: main
 ---
 
-* Opera recital "Casta Diva": Een avontuurlijke reis doorheen het operarepertoire. Aria's van sterke vrouwen, van koninginnen tot kamermeisjes, op muziek van Händel over Mozart tot Puccini en Gerschwin.
+* Opera recital "Casta Diva": Een avontuurlijke reis doorheen het operarepertoire. Aria's van sterke vrouwen, van kamermeisjes tot koninginnen, op muziek van Händel over Mozart tot Puccini en Gerschwin.
   
 * Lied recital "Chansons de rêves d'amour": Liederen over de liefde om bij weg te dromen. Muziek van oa Fauré, Hahn, Debussy op gedichten van Victor Hugo, Charles Baudelaire en tijdgenoten.
   

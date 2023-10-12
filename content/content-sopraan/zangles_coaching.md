@@ -16,4 +16,4 @@ De prijs voor een koorcoaching bedraagt €95/uur.
 
 Een afspraak maken kan via [anneliesbuyssens@gmail.com](mailto:anneliesbuyssens@gmail.com).
 
-Gelieve afspraken minstens 48 uur op voorhand te wijzigen of annuleren. Zo niet wordt de sessie aangerekend. Alvast bedankt om hiermee rekening te houden.
+Kun je de afspraak niet halen? Laat dit dan zeker 48u op voorhand weten. Bij te late annulatie wordt de sessie aangerekend als vergoeding voor de gereserveerde tijd. Alvast bedankt om hiermee rekening te houden.
