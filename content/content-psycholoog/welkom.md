@@ -16,7 +16,7 @@ Hierbij wordt een combinatie van verschillende denkkaders, theoretische en empir
 
 Mijn kennis hou ik up-to-date door me maandelijks bij te scholen. In 2023 volgde ik ook de basisopleiding EMDR-therapie. 
 
-Naast mijn werk als psycholoog breng ik bovendien 20 jaar ervaring als ademcoach mee vanuit mijn loopbaan als [sopraan](/sopraan).
+Bovendien breng ik 20 jaar ervaring als ademcoach mee vanuit mijn loopbaan als [sopraan](/sopraan).
 Recent wetenschappelijk onderzoek toont duidelijk aan dat een goede ademhaling cruciaal is voor ons fysiek én mentaal welzijn.
 
 Je kan bij mij terecht met volgende **vragen**, **bezorgdheden**, **moeilijkheden** of
