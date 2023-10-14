@@ -9,7 +9,7 @@ header_menu: true
 Ik ben Annelies Buyssens, psycholoog in Gent. Ik werk als therapeut in de groepspraktijk [Tondel](https://www.tondel.be/) en in mijn
 privépraktijk.
 
-Zowel volwassenen en jongvolwassenen als koppels en gezinnen zijn welkom bij mij.
+Zowel volwassenen, jongvolwassenen als koppels en gezinnen zijn welkom bij mij.
 
 Vanuit mijn brede opleiding als **klinisch psycholoog** aan de Universiteit Gent sta ik voor een integratieve aanpak.
 Hierbij wordt een combinatie van verschillende denkkaders, theoretische en empirische kennis en therapeutische technieken ingezet.
