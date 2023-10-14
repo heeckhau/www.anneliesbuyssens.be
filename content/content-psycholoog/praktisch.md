@@ -6,7 +6,7 @@ weight: 3
 header_menu: true
 ---
 
-Ik werk steeds op afspraak. Via [anneliesbuyssens@gmail.com](mailto:anneliesbuyssens@gmail.com) kan je een kennismakingsgesprek aanvragen. Ik beantwoord je vraag dan zo snel mogelijk.
+Ik werk steeds op afspraak. Via [info@anneliesbuyssens.be](mailto:info@anneliesbuyssens.be) kan je een kennismakingsgesprek aanvragen. Ik beantwoord je vraag dan zo snel mogelijk.
 
 Een sessie duurt 50 minuten.
 De frequentie van de sessies en het aantal bepalen we in onderling overleg.
