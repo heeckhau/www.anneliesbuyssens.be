@@ -4,7 +4,7 @@ weight: 4
 header_menu: true
 ---
 
-[anneliesbuyssens@gmail.com](mailto:anneliesbuyssens@gmail.com)
+[info@anneliesbuyssens.be](mailto:info@anneliesbuyssens.be)
 
 Annelies Buyssens  
 Bouwmeestersstraat 76  
