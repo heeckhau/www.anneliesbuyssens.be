@@ -10,7 +10,7 @@ aliases:
 # header_image: "/images/test.jpg"
 #
 # Optional header logo. CSS: `#blog-logo`, with max-height defined, optimize to prevent scaling
-header_logo: "/images/circle_psy1.png"
+header_logo: "/images/circle_psy1.webp"
 
 
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
