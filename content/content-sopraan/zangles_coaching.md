@@ -14,6 +14,6 @@ De lessen vinden plaats in mijn privépraktijk in de Bouwmeestersstraat 76, 9040
 
 De prijs voor een koorcoaching bedraagt €95/uur.
 
-Een afspraak maken kan via [anneliesbuyssens@gmail.com](mailto:anneliesbuyssens@gmail.com).
+Een afspraak maken kan via [info@anneliesbuyssens.be](mailto:info@anneliesbuyssens.be).
 
 Kun je de afspraak niet halen? Laat het dan zeker 48u op voorhand weten. Bij te late annulering wordt de sessie aangerekend als vergoeding voor de gereserveerde tijd. Alvast bedankt om hiermee rekening te houden.
