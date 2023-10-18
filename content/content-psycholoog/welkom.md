@@ -22,8 +22,8 @@ Recent wetenschappelijk onderzoek toont duidelijk aan dat een goede ademhaling c
 Je kan bij mij terecht met volgende **vragen**, **bezorgdheden**, **moeilijkheden** of
 **problematieken**:
 
-* Ervaar je vaak *somberheid*, *stress*, *angst* of *paniek*? Heb je last van *vermoeidheid*, *depressieve klachten*, *gevoel van ademnood*, *lichamelijke klachten* of *burn-out*?
-* Ondervind je moeilijkheden op het vlak van *identiteit*, *relaties*, *sociale interacties*, *emotieregulatie*, *communicatie*, *intimiteit*, *prioriteiten stellen*, *zelfzorg* of *opvoeding*?
+* Ervaar je vaak *somberheid*, *stress*, *onzekerheid*, *angst* of *paniek*? Heb je last van *vermoeidheid*, *depressieve klachten*, *gevoel van ademnood*, *lichamelijke klachten* of *burn-out*?
+* Ondervind je moeilijkheden op het vlak van *identiteit*, *relaties*, *sociale interacties*, *emotieregulatie*, *communicatie*, *intimiteit*, *zelfvertrouwen*, *prioriteiten stellen*, *zelfzorg* of *opvoeding*?
 * Wil je graag hulp bij het omgaan met *trauma*, *ervaring van verlies*, *overlijden*, *verslavingsproblemen*, *spanningen op het werk, in het gezin of de relatie*, *slaapproblemen*, *eetproblemen*, *faalangst*, *ASS*, *AD(H)D* of *hyperventilatie*?
 
 Ik ga ervan uit dat elke mens, elke relatie en elke context om een unieke benadering vraagt.
