@@ -14,4 +14,5 @@ Je kan zelf een programma samenstellen met verzoeknummers of je kan één van mi
 Prijs op aanvraag.
 
 Meer info via [info@anneliesbuyssens.be](mailto:info@anneliesbuyssens.be).
+
 Ondernemingsnummer 0789489730
