@@ -15,5 +15,7 @@ Erkenning Klinisch psycholoog
 Compsy Psychologencommissie
 
 Inschrijvingsnummer 822135023
+
 FOD-visumnummer 371247
+
 Ondernemingsnummer 0789489730
