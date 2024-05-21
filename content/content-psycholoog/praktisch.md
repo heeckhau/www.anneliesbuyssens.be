@@ -6,7 +6,7 @@ weight: 3
 header_menu: true
 ---
 
-Ik werk steeds op afspraak. Via [info@anneliesbuyssens.be](mailto:info@anneliesbuyssens.be) kan je meer info of een kennismakingsgesprek aanvragen. Ik beantwoord je vraag dan zo snel mogelijk. *Tot september 2024 is mijn praktijk voorlopig volzet en zijn er helaas geen nieuwe aanmeldingen mogelijk*. 
+Ik werk steeds op afspraak. Via [info@anneliesbuyssens.be](mailto:info@anneliesbuyssens.be) kan je meer info of een kennismakingsgesprek aanvragen. Ik beantwoord je vraag dan zo snel mogelijk. **Tot september 2024 is mijn praktijk voorlopig volzet en zijn er helaas geen nieuwe aanmeldingen mogelijk**. 
 
 Een sessie duurt 50 minuten.
 De frequentie van de sessies en het aantal bepalen we in onderling overleg.
