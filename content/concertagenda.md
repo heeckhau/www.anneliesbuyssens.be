@@ -1,7 +1,11 @@
 ---
 title: Concertagenda
 ---
+# Seizoen 2024-2025
 
+## Opera Koor
+* "Ombra" (muziek van o.a. Händel, Bach, Beethoven, compilatie van S. Prengels), creatie van choreograaf Alain Platel, met Opera Ballet Vlaanderen, Grand Théâtre in Groot Hertogdom Luxemburg, 17 en 18 januari 2025
+* "Mahler Symphony 3", met koor en orkest van de Munt/La Monnaie, in Paleis voor Schone Kunsten Brussel/Bozar, 4 mei 2025
 
 # Seizoen 2023-2024
 
