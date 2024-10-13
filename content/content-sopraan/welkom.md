@@ -14,7 +14,9 @@ Naast mijn studies Kunstwetenschappen aan de Universiteit Gent behaalde ik een m
 
 Mijn muziekcarrière als **sopraan** startte als solist bij Operastudio Vlaanderen, het Vlaams Muziek Theater en Close Opera waar ik meezong in verschillende producties en enkele rollen vertolkte.
 
-Sinds 2009 maak ik als sopraan deel uit van het koor van Opera Ballet Vlaanderen, het operakoor van De Munt/La Monnaie en het Vlaams Radio Koor. Mijn concertagenda vind je [hier](/concertagenda).
+Sinds 2009 maak ik als sopraan deel uit van het koor van Opera Ballet Vlaanderen, het operakoor van De Munt/La Monnaie en het Vlaams Radio Koor. 
+
+Mijn concertagenda vind je [hier](/concertagenda).
 Meer nieuws over concerten en producties kan je [hier](https://www.facebook.com/Sopraan.VocalCoach/) volgen.
 
 Je kan mij [boeken](#booking) voor een privéconcert of het opluisteren van je viering of uitvaart.
