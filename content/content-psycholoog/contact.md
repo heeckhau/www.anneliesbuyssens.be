@@ -7,7 +7,7 @@ header_menu: true
 [info@anneliesbuyssens.be](mailto:info@anneliesbuyssens.be)
 
 Annelies Buyssens  
-Bouwmeestersstraat 76  
+Adolf Baeyensstraat 47  
 9040 Gent
 
 
