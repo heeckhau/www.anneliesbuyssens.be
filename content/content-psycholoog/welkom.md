@@ -10,7 +10,7 @@ Ik ben Annelies Buyssens, psycholoog in Gent. Ik werk als therapeut zowel met vo
 
 Vanuit mijn brede opleiding als **klinisch psycholoog** aan de Universiteit Gent sta ik voor een *integratieve* aanpak. Hierbij wordt een combinatie van verschillende denkkaders, theoretische en empirische kennis en therapeutische technieken ingezet.
 
-Mijn kennis hou ik up-to-date door me regelmatig bij te scholen. Ik volbracht de gecertificeerde opleiding [EMDR](https://emdr-belgium.be/)-**therapie** en volgde ook een bijkomende jaartraining **relatietherapie**. Momenteel voltooi ik de opleiding **schematherapie**.
+Mijn kennis hou ik up-to-date door me regelmatig bij te scholen. Ik volbracht de gecertificeerde opleiding **EMDRtherapie** en volgde ook een bijkomende jaartraining **relatietherapie**. Momenteel voltooi ik de opleiding **schematherapie**.
 
 Ik werkte enkele jaren in de groepspraktijk Tondel, huis voor psychotherapie. Bovendien breng ik 20 jaar ervaring als ademcoach mee vanuit mijn loopbaan als [sopraan](/sopraan). Recent wetenschappelijk onderzoek toont duidelijk aan dat een goede ademhaling cruciaal is voor ons fysiek én mentaal welzijn.
 
