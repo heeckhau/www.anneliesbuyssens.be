@@ -8,7 +8,7 @@ header_menu: true
 
 Ik ben Annelies Buyssens, psycholoog in Gent. Ik werk als therapeut zowel met volwassenen en jongvolwassenen als met koppels en gezinnen.
 
-Vanuit mijn brede opleiding als **klinisch psycholoog** aan de Universiteit Gent sta ik voor een integratieve aanpak. Hierbij wordt een combinatie van verschillende denkkaders, theoretische en empirische kennis en therapeutische technieken ingezet.
+    Vanuit mijn brede opleiding als **klinisch psycholoog** aan de Universiteit Gent sta ik voor een *integratieve* aanpak. Hierbij wordt een combinatie van verschillende denkkaders, theoretische en empirische kennis en therapeutische technieken ingezet.
 
 Mijn kennis hou ik up-to-date door me regelmatig bij te scholen. Ik volbracht de gecertificeerde opleiding [EMDR](https://emdr-belgium.be/)-**therapie** en volgde ook een bijkomende jaartraining **relatietherapie**. Momenteel voltooi ik de opleiding **schematherapie**.
 
