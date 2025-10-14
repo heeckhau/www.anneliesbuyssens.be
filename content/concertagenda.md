@@ -4,8 +4,8 @@ title: Concertagenda
 # 2026
 
 ## Opera Koor
-* "Sancta" (P. Hindemith), creatie en regie van Florentina Holzinger, met Opera Ballet Vlaanderen, Opera Antwerpen, 4 t/m 9 april 2026.
 * "Nabucco" (G.Verdi), regie van Christiane Jatahy, met Opera Ballet Vlaanderen, Opera Antwerpen, 22 feb t/m 15 maart 2026, Grand Théâtre Groot Hertogdom Luxemburg, 6 t/m 10 mei 2026.
+* "Sancta" (P. Hindemith), creatie en regie van Florentina Holzinger, met Opera Ballet Vlaanderen, Opera Antwerpen, 4 t/m 9 april 2026.
 
 # 2025
 
