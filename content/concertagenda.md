@@ -1,12 +1,18 @@
 ---
 title: Concertagenda
 ---
-# Seizoen 2024-2025
+# 2026
 
 ## Opera Koor
-* "Ombra" (muziek van o.a. Händel, Bach, Beethoven, compilatie van S. Prengels), creatie van choreograaf Alain Platel, met Opera Ballet Vlaanderen, Grand Théâtre in Groot Hertogdom Luxemburg, 17 en 18 januari 2025
-* "Mahler Symphony 8", met koor en orkest van de Munt/La Monnaie, Belgian National Orchestra en Vlaams Radio Koor, in Paleis voor Schone Kunsten Brussel/Bozar, 8 en 9 maart 2025
-* "Intolleranza 1960" (L. Nono), met Opera Vlaanderen, in Opera Gent van 6 mei t/m 18 mei 2025
+* "Sancta" (P. Hindemith), creatie en regie van Florentina Holzinger, met Opera Ballet Vlaanderen, Opera Antwerpen, 4 t/m 9 april 2026.
+* "Nabucco" (G.Verdi), regie van Christiane Jatahy, met Opera Ballet Vlaanderen, Opera Antwerpen, 22 feb t/m 15 maart 2026, Grand Théâtre Groot Hertogdom Luxemburg, 6 t/m 10 mei 2026.
+
+# 2025
+
+## Opera Koor
+* "Ombra" (muziek van o.a. Händel, Bach, Beethoven, compilatie van S. Prengels), creatie van choreograaf Alain Platel, met Opera Ballet Vlaanderen, Grand Théâtre in Groot Hertogdom Luxemburg, 17 en 18 januari 2025.
+* "Mahler Symphony 8", met koor en orkest van de Munt/La Monnaie, Belgian National Orchestra en Vlaams Radio Koor, in Paleis voor Schone Kunsten Brussel/Bozar, 8 en 9 maart 2025.
+* "Intolleranza 1960" (L. Nono), met Opera Vlaanderen, in Opera Gent van 6 mei t/m 18 mei 2025.
 
 # Seizoen 2023-2024
 
@@ -17,7 +23,6 @@ title: Concertagenda
 
 ## Solo-Concerten
 * "Casta Diva" opera recital, in Koetshuis, Theresianenstraat 6, Gent, 14 oktober 2023.
-
 
 # Seizoen 2022-2023
 
