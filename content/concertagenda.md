@@ -19,7 +19,7 @@ title: Concertagenda
 ## Opera Koor
 * Wereldpremière “Cassandra” (B. Foccroulle), met De Munt/La Monnaie, in Opera Brussel, 9 t/m 23 september 2023.
 * Wereldpremière “Brodeck” (D. Janssens), met Opera Vlaanderen, in Opera Antwerpen: 9 februari t/m 20 februari 2024, in Opera Gent, 29 februari t/m 9 maart 2024.
-* "Ombra" (muziek van o.a. Händel, Bach, Beethoven, compilatie van S. Prengels), creatie van choreograaf Alain Platel, met Opera en Ballet Vlaanderen, in Opera Antwerpen: 30 maart t/m 14 april, in Opera Gent: 24 april t/m 8 mei. 
+* "Ombra" (muziek van o.a. Händel, Bach, Beethoven, compilatie van S. Prengels), creatie van choreograaf Alain Platel, met Opera en Ballet Vlaanderen, in Opera Antwerpen: 30 maart t/m 14 april 2024, in Opera Gent: 24 april t/m 8 mei 2024. 
 
 ## Solo-Concerten
 * "Casta Diva" opera recital, in Koetshuis, Theresianenstraat 6, Gent, 14 oktober 2023.
