@@ -13,7 +13,6 @@ Adolf Baeyensstraat 47
 
 Erkenning Klinisch psycholoog  
 Compsy Psychologencommissie
-
 Inschrijvingsnummer 822135023
 
 FOD-visumnummer 371247
