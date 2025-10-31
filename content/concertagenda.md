@@ -9,7 +9,7 @@ title: Concertagenda
 
 # 2025
 
-## Opera Koor
+## Opera/Concerten Koor
 * "Ombra" (muziek van o.a. Händel, Bach, Beethoven, compilatie van S. Prengels), creatie van choreograaf Alain Platel, met Opera Ballet Vlaanderen, Grand Théâtre in Groot Hertogdom Luxemburg, 17 en 18 januari 2025.
 * "Mahler Symphony 8", met koor en orkest van de Munt/La Monnaie, Belgian National Orchestra en Vlaams Radio Koor, in Paleis voor Schone Kunsten Brussel/Bozar, 8 en 9 maart 2025.
 * "Intolleranza 1960" (L. Nono), met Opera Vlaanderen, in Opera Gent van 6 mei t/m 18 mei 2025.
