@@ -8,7 +8,7 @@ header_menu: true
 
 Ik werk steeds op afspraak. Via [info@anneliesbuyssens.be](mailto:info@anneliesbuyssens.be) kan je meer info of een kennismakingsgesprek aanvragen (vermeld ook je beschikbaarheid en gsmnr.). Ik beantwoord je vraag dan zo snel mogelijk.
 
-**Vanaf november 2025 zijn er opnieuw plekjes vrij voor het opstarten van relatietherapie.**
+**Vanaf februari 2026 komen er opnieuw enkele plekjes vrij voor het opstarten van relatietherapie.**
 
 **Helaas zijn er momenteel geen plekjes meer vrij voor het opstarten van individuele therapie.**
 
