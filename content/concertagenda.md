@@ -4,7 +4,7 @@ title: Concertagenda
 # 2026
 
 ## Solo
- Nieuwjaarsconcert "Night at the Opera", Cultureel Centrum De Zulle, 16 januari 2026.
+* Nieuwjaarsconcert "Night at the Opera", Cultureel Centrum De Zulle, 16 januari 2026.
  
 ## Opera Koor
 * "Nabucco" (G.Verdi), regie van Christiane Jatahy, met Opera Ballet Vlaanderen, Opera Antwerpen, 22 feb t/m 15 maart 2026, Grand Théâtre Groot Hertogdom Luxemburg, 6 t/m 10 mei 2026.
@@ -13,7 +13,7 @@ title: Concertagenda
 # 2025
 
 ## Solo
- Kerstconcert met Dendermonds Strijkorkest olv D. Van Ackelyn, Abdij Roosenberg Waasmunster, 20 dec 2025, voor het goede doel.
+* Kerstconcert, met Dendermonds Strijkorkest olv D. Van Akelyen, Abdij Roosenberg Waasmunster, 20 dec 2025, voor het goede doel.
 
 ## Opera/Concerten Koor
 * "Ombra" (muziek van o.a. Händel, Bach, Beethoven, compilatie van S. Prengels), creatie van choreograaf Alain Platel, met Opera Ballet Vlaanderen, Grand Théâtre in Groot Hertogdom Luxemburg, 17 en 18 januari 2025.
