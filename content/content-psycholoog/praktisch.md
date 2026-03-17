@@ -9,7 +9,7 @@ header_menu: true
 Ik werk steeds op afspraak. Via [info@anneliesbuyssens.be](mailto:info@anneliesbuyssens.be) kan je meer info of een kennismakingsgesprek aanvragen (vermeld ook je beschikbaarheid en gsmnr.). Ik beantwoord je vraag dan zo snel mogelijk.
 
 **Helaas is de praktijk momenteel volzet.**
-**Vanaf juni 2026 zal er opnieuw plek vrijkomen voor aanmelding nieuwe koppels/relatietherapie.**
+**Voor koppels/relatietherapie opnieuw aanmeldingen mogelijk vanaf juni 2026.**
 
 Een sessie duurt 50 minuten. De frequentie van de sessies en het aantal bepalen we in onderling overleg. De prijs voor een individueel gesprek bedraagt €75. Voor een koppel- of gezinsgesprek betaal je €95. De meeste mutualiteiten voorzien een gedeeltelijke terugbetaling van 12 tot 20 sessies per jaar.
 
