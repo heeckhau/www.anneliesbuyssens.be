@@ -1,5 +1,5 @@
 ---
-title: "Annelies Buyssens - Psycholoog"
+title: "Annelies Buyssens - Psycholoog & Relatietherapeut"
 layout: scroll
 folder: /content-psycholoog
 aliases:
@@ -14,6 +14,6 @@ header_logo: "/images/circle_psy1.webp"
 
 
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Psycholoog"
+header_headline: "Psycholoog & Relatietherapeut"
 header_subheadline: "<b>Annelies Buyssens</b>"
 ---
