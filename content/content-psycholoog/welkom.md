@@ -6,7 +6,7 @@ weight: 1
 header_menu: true
 ---
 
-Ik ben Annelies Buyssens, psycholoog in Gent. Ik werk als therapeut zowel met volwassenen en jongvolwassenen als met koppels en gezinnen.
+Ik ben Annelies Buyssens, psycholoog en relatietherapeut in Gent. Ik werk als therapeut zowel met volwassenen en jongvolwassenen als met koppels en gezinnen.
 
 Vanuit mijn brede opleiding als **klinisch psycholoog** aan de Universiteit Gent sta ik voor een *integratieve* aanpak. Hierbij wordt een combinatie van verschillende denkkaders, theoretische en empirische kennis en therapeutische technieken ingezet.
 
