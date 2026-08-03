@@ -1,6 +1,11 @@
 ---
 title: Concertagenda
 ---
+# 2027
+ 
+## Opera Koor
+* "Der Schmied von Gent" (F. Schreker), regie van Ersan Mondtag, met Opera Ballet Vlaanderen, Opera Antwerpen, 11 feb t/m 28 feb 2027.
+
 # 2026
 
 ## Solo
