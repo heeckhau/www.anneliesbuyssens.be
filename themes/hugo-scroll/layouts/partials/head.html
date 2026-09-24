@@ -25,7 +25,7 @@
 
 {{ $stylesheet := slice $stylesheetNormalize $stylesheetFA $stylesheetFonts $stylesheetGeneric $stylesheetScreen |
 resources.Concat "css/style.css" | resources.Minify | resources.Fingerprint }}
-<link rel="stylesheet" href="{{ $stylesheet.Permalink }}" type="text/css"
+<link rel="stylesheet" href="{{ $stylesheet.RelPermalink }}" type="text/css"
   integrity="{{ $stylesheet.Data.Integrity }}" />
 
 {{ template "_internal/opengraph.html" . }}
