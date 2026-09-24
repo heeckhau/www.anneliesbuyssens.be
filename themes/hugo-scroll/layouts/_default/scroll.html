@@ -13,7 +13,9 @@
     <div class="vertical">
 
       <div id="site-head-content" class="inner">
-        {{ with .Params.header_logo }}<img id="blog-logo" src="{{ . }}" alt="{{ . }}" />{{ end }}
+        {{/* Alt text: header_logo_alt, else the subheadline as plain text (the name), else the page title */}}
+        {{ $alt := .Title }}{{ with .Params.header_subheadline }}{{ $alt = plainify . }}{{ end }}{{ with .Params.header_logo_alt }}{{ $alt = . }}{{ end }}
+        {{ with .Params.header_logo }}<img id="blog-logo" src="{{ . }}" alt="{{ $alt }}" />{{ end }}
 
         {{ if .Site.Params.title_guard }}<div class="title-and-description-guard">{{ end }}
           {{ with .Params.header_headline }}<h1 class="blog-title">{{ . | safeHTML }}</h1>{{ end }}

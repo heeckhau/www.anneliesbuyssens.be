@@ -1,5 +1,6 @@
 ---
 title: Concertagenda
+description: "Concertagenda van sopraan Annelies Buyssens: opera- en concertproducties met Opera Ballet Vlaanderen, De Munt en het Vlaams Radio Koor, en solorecitals."
 layout: agenda
 ---
 # 2027

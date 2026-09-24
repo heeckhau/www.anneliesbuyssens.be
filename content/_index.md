@@ -1,5 +1,6 @@
 ---
 title: "Annelies Buyssens - Psycholoog & Relatietherapeut"
+description: "Annelies Buyssens, klinisch psycholoog en relatietherapeut in Gent. Therapie voor (jong)volwassenen, koppels en gezinnen, o.a. met EMDR, schematherapie en EFT."
 layout: scroll
 folder: /content-psycholoog
 aliases:

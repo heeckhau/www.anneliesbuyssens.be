@@ -1,5 +1,6 @@
 ---
 title: Recitals
+description: "Recitals met pianobegeleiding door sopraan Annelies Buyssens: opera, lied en musical. Te boeken voor een concert, viering of event."
 menu: main
 layout: recitals
 ---

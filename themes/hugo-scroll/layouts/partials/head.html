@@ -6,7 +6,7 @@
 {{ with .Site.Params.favicon }}
 <link rel="shortcut icon" href="{{ . | absURL }}" type="image/png" />{{ end }}
 
-{{ with .Site.Params.description }}
+{{ with or .Description .Site.Params.description }}
 <meta name="description" content="{{ . }}" />{{ end }}
 {{ with .Site.Params.meta.keywords }}
 <meta name="keywords" content="{{ . }}" />{{ end }}

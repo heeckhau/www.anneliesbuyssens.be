@@ -1,5 +1,6 @@
 ---
 title: "Sopraan"
+description: "Annelies Buyssens, sopraan en stemcoach in Gent. Zangles, stem- en ademcoaching, koorcoaching, en optredens op maat voor vieringen, uitvaarten en events."
 layout: scroll
 url: /sopraan
 folder: /content-sopraan

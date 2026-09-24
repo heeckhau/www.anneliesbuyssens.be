@@ -2,6 +2,9 @@ baseURL = "https://www.anneliesbuyssens.be"
 
 defaultContentLanguage = 'nl-be'
 
+# No tags/categories pages: the site doesn't use taxonomies
+disableKinds = ['taxonomy', 'term']
+
 # The name of this wonderful theme ;-).
 theme = "hugo-scroll"
 
