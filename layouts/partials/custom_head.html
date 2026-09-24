@@ -65,13 +65,12 @@
      You may checkout https://htmlcolorcodes.com/ to get those
      weird color codes (like "#22343A") ;-). -->
 
-<!-- Custom link-tags for different icons
-     Generated via https://favicon.io/favicon-generator/ -->
-
-
-<link rel="apple-touch-icon" sizes="180x180" href="{{ " images/apple-touch-icon.png" | absURL }}" />
-<link rel="icon" type="image/png" sizes="32x32" href="{{ " images/favicon-32x32.png" | absURL }}" />
-<link rel="icon" type="image/png" sizes="16x16" href="{{ " images/favicon-16x16.png" | absURL }}" />
+<!-- Icons, generated via https://favicon.io/favicon-generator/ -->
+<link rel="icon" href="{{ "favicon.ico" | relURL }}" sizes="32x32" />
+<link rel="icon" type="image/png" sizes="32x32" href="{{ "images/favicon-32x32.png" | relURL }}" />
+<link rel="icon" type="image/png" sizes="16x16" href="{{ "images/favicon-16x16.png" | relURL }}" />
+<link rel="apple-touch-icon" sizes="180x180" href="{{ "images/apple-touch-icon.png" | relURL }}" />
+<link rel="manifest" href="{{ "site.webmanifest" | relURL }}" />
 {{ if in (slice "agenda" "recitals") .Layout }}
 {{ with resources.Get "css/sopraan-pages.css" | resources.Minify | resources.Fingerprint }}
 <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" />

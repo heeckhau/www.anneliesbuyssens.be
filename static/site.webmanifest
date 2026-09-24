@@ -1,0 +1,11 @@
+{
+  "name": "Annelies Buyssens",
+  "short_name": "Annelies Buyssens",
+  "icons": [
+    { "src": "/images/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/images/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#b9d5d3",
+  "background_color": "#b9d5d3",
+  "display": "browser"
+}
