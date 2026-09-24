@@ -1,0 +1,21 @@
+{{ define "main" }}
+{{/*
+  Recitals. Content stays plain Markdown, one bullet per recital:
+    * <kind> "<title>": <description>
+  e.g. * Lied recital "Amor y Odio": Een programma met ...
+  A kind starting with "Opera" gets the beige accent.
+*/}}
+{{ $html := string .Content }}
+{{ $html = replaceRE `<li>\s*(?:<p>)?\s*([^<]*?)\s*(?:&ldquo;|“)(.+?)(?:&rdquo;|”)\s*:\s*(.*?)\s*(?:</p>)?\s*</li>` `<li><span class="recital-kind">$1</span><h2 class="recital-title">$2</h2><p>$3</p></li>` $html }}
+{{ $html = replaceRE `<li><span class="recital-kind">(Opera)` `<li class="is-opera"><span class="recital-kind">$1` $html }}
+
+<main class="content sopraan-page recitals">
+  {{ partial "sopraan-hero.html" . }}
+
+  <div class="sp-body">
+    {{ $html | safeHTML }}
+
+    {{ partial "sopraan-cta.html" "Interesse in een van deze recitals, of liever een programma op maat?" }}
+  </div>
+</main>
+{{ end }}

@@ -15,17 +15,10 @@
 {{/* "Seizoen 2023-2024" -> small label + "2023–24" */}}
 {{ $html = replaceRE `(<h1 id="[^"]+">)Seizoen (\d{4})-\d{2}(\d{2})` `$1<small>Seizoen</small>$2–$3` $html }}
 
-<main class="content agenda">
-  <header class="agenda-hero">
-    <div class="agenda-hero-inner">
-      <a class="agenda-back" href="{{ "sopraan/" | relURL }}"><i class="fa fa-chevron-left" aria-hidden="true"></i> Sopraan</a>
-      <img class="agenda-logo" src="{{ "images/circle_zang1.webp" | relURL }}" alt="Annelies Buyssens" width="96" height="96">
-      <h1 class="agenda-title">{{ .Title }}</h1>
-      <p class="agenda-subtitle">Annelies Buyssens &middot; sopraan</p>
-    </div>
-  </header>
+<main class="content sopraan-page agenda">
+  {{ partial "sopraan-hero.html" . }}
 
-  <div class="agenda-body">
+  <div class="sp-body">
     {{ $parts := split $html "<h1 " }}
     {{ with trim (index $parts 0) " \n" }}<div class="agenda-intro">{{ . | safeHTML }}</div>{{ end }}
 
@@ -44,10 +37,7 @@
     </section>
     {{ end }}
 
-    <aside class="agenda-cta">
-      <p>Wil je mij boeken voor een concert, viering of event?</p>
-      <a class="agenda-cta-button" href="{{ "sopraan/#booking" | relURL }}">Booking</a>
-    </aside>
+    {{ partial "sopraan-cta.html" "Wil je mij boeken voor een concert, viering of event?" }}
   </div>
 </main>
 {{ end }}

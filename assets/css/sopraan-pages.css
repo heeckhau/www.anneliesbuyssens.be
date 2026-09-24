@@ -1,59 +1,60 @@
-/* Concert agenda (layouts/_default/agenda.html) */
+/* Sopraan subpages: concert agenda (layouts/_default/agenda.html)
+   and recitals (layouts/_default/recitals.html) */
 
-.agenda {
-  --agenda-navy: var(--cover-text-color, #00113e);
-  --agenda-teal: var(--section-light-bg-color, #b9d5d3);
-  --agenda-beige: var(--section-dark-bg-color, #e7d3b6);
-  --agenda-text: var(--section-light-text-color, #3a4145);
-  --agenda-muted: #6b7478;
-  --agenda-page: #f7f4ee;
-  --agenda-card: #fff;
-  --agenda-line: #ddd5c8;
-  --agenda-cancel: #a4474b;
+.sopraan-page {
+  --sp-navy: var(--cover-text-color, #00113e);
+  --sp-teal: var(--section-light-bg-color, #b9d5d3);
+  --sp-beige: var(--section-dark-bg-color, #e7d3b6);
+  --sp-text: var(--section-light-text-color, #3a4145);
+  --sp-muted: #6b7478;
+  --sp-page: #f7f4ee;
+  --sp-card: #fff;
+  --sp-line: #ddd5c8;
+  --sp-cancel: #a4474b;
 
   display: block;
-  background: var(--agenda-page);
-  color: var(--agenda-text);
+  background: var(--sp-page);
+  color: var(--sp-text);
 }
 
 /* ---------- Hero ---------- */
 
-.agenda-hero {
-  background: linear-gradient(160deg, var(--agenda-teal) 0%, #cfe2e0 55%, var(--agenda-beige) 140%);
-  color: var(--agenda-navy);
+.sp-hero {
+  background: linear-gradient(160deg, var(--sp-teal) 0%, #cfe2e0 55%, var(--sp-beige) 140%);
+  color: var(--sp-navy);
   text-align: center;
   padding: 3rem 1.6rem 3.2rem;
 }
 
-.agenda-hero-inner {
+.sp-hero-inner {
   max-width: 960px;
   margin: 0 auto;
   position: relative;
 }
 
-.agenda-back {
+.sp-back {
   position: absolute;
   top: 0;
   left: 0;
   font-family: "Open Sans", sans-serif;
   font-size: 1.5rem;
   font-weight: 600;
-  color: var(--agenda-navy);
+  color: var(--sp-navy);
   text-decoration: none;
   opacity: 0.8;
 }
 
-.agenda-back:hover {
+.sp-back:hover {
   opacity: 1;
   text-decoration: underline;
 }
 
-.agenda-back .fa {
+.sp-back .fa {
   font-size: 1.1rem;
   vertical-align: 0.1em;
 }
 
-.agenda-logo {
+.sp-logo {
   display: block;
   width: 96px;
   height: 96px;
@@ -61,7 +62,7 @@
   border-radius: 50%;
 }
 
-.agenda .agenda-title {
+.sopraan-page .sp-title {
   font-family: "Oswald", sans-serif;
   font-weight: 400;
   font-size: 5.2rem;
@@ -69,10 +70,10 @@
   letter-spacing: 0.04em;
   text-transform: uppercase;
   margin: 0;
-  color: var(--agenda-navy);
+  color: var(--sp-navy);
 }
 
-.agenda-subtitle {
+.sp-subtitle {
   font-family: "Open Sans", sans-serif;
   font-size: 1.7rem;
   margin: 0.6rem 0 0;
@@ -81,18 +82,20 @@
 
 /* ---------- Body ---------- */
 
-.agenda-body {
+.sp-body {
   max-width: 960px;
   margin: 0 auto;
   padding: 4rem 1.6rem 6rem;
 }
+
+/* ---------- Concert agenda ---------- */
 
 .agenda-year {
   display: grid;
   grid-template-columns: 15rem 1fr;
   gap: 3.2rem;
   padding: 3.2rem 0;
-  border-top: 1px solid var(--agenda-line);
+  border-top: 1px solid var(--sp-line);
 }
 
 .agenda-year:first-of-type {
@@ -108,7 +111,7 @@
   font-weight: 700;
   font-size: 4rem;
   line-height: 1;
-  color: var(--agenda-navy);
+  color: var(--sp-navy);
   scroll-margin-top: 2rem;
 }
 
@@ -119,7 +122,7 @@
   font-size: 1.2rem;
   letter-spacing: 0.12em;
   text-transform: uppercase;
-  color: var(--agenda-muted);
+  color: var(--sp-muted);
   margin-bottom: 0.4rem;
 }
 
@@ -138,12 +141,12 @@
   line-height: 1.2;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  color: var(--agenda-navy);
-  background: var(--agenda-teal);
+  color: var(--sp-navy);
+  background: var(--sp-teal);
 }
 
 .agenda-group.is-solo h2 {
-  background: var(--agenda-beige);
+  background: var(--sp-beige);
 }
 
 /* Entries: a vertical timeline of cards.
@@ -162,10 +165,10 @@
   bottom: 0.8rem;
   left: 0.5rem;
   width: 2px;
-  background: var(--agenda-line);
+  background: var(--sp-line);
 }
 
-.agenda .fa-li {
+.sopraan-page .fa-li {
   display: none;
 }
 
@@ -173,7 +176,7 @@
   position: relative;
   margin: 0 0 1.2rem;
   padding: 1.4rem 1.8rem;
-  background: var(--agenda-card);
+  background: var(--sp-card);
   border-radius: 10px;
   box-shadow: 0 1px 2px rgba(0, 17, 62, 0.06), 0 4px 14px rgba(0, 17, 62, 0.05);
   font-size: 1.6rem;
@@ -188,24 +191,24 @@
   width: 12px;
   height: 12px;
   border-radius: 50%;
-  background: var(--agenda-page);
-  border: 2px solid var(--agenda-navy);
+  background: var(--sp-page);
+  border: 2px solid var(--sp-navy);
 }
 
 .agenda-group.is-solo > ul > li::before {
   /* compensate for the 4px left border below */
   margin-left: -4px;
-  background: var(--agenda-navy);
+  background: var(--sp-navy);
 }
 
 .agenda-group.is-solo > ul > li {
-  border-left: 4px solid var(--agenda-beige);
+  border-left: 4px solid var(--sp-beige);
 }
 
 .agenda cite {
   font-style: normal;
   font-weight: 700;
-  color: var(--agenda-navy);
+  color: var(--sp-navy);
 }
 
 .agenda-group li a {
@@ -230,7 +233,7 @@
   padding-left: 1.4rem;
   position: relative;
   font-size: 0.95em;
-  color: var(--agenda-muted);
+  color: var(--sp-muted);
 }
 
 .agenda-group li li::before {
@@ -241,24 +244,24 @@
   width: 5px;
   height: 5px;
   border-radius: 50%;
-  background: var(--agenda-beige);
+  background: var(--sp-beige);
 }
 
 /* Cancelled */
 .agenda-group li.is-cancelled {
-  color: var(--agenda-muted);
+  color: var(--sp-muted);
   box-shadow: none;
   background: transparent;
-  border: 1px dashed var(--agenda-line);
+  border: 1px dashed var(--sp-line);
 }
 
 .agenda-group li.is-cancelled cite {
-  color: var(--agenda-muted);
+  color: var(--sp-muted);
   text-decoration: line-through;
 }
 
 .agenda-group li.is-cancelled::before {
-  border-color: var(--agenda-line);
+  border-color: var(--sp-line);
 }
 
 .agenda-tag {
@@ -272,26 +275,80 @@
   letter-spacing: 0.06em;
   text-transform: uppercase;
   vertical-align: 0.15em;
-  color: var(--agenda-cancel);
+  color: var(--sp-cancel);
   border: 1px solid currentColor;
 }
 
-/* Call to action */
-.agenda-cta {
+/* ---------- Recitals ---------- */
+
+.recitals ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 2rem;
+}
+
+.recitals li {
+  margin: 0;
+  padding: 2.2rem 2.4rem 2.4rem;
+  background: var(--sp-card);
+  border-radius: 12px;
+  border-top: 5px solid var(--sp-teal);
+  box-shadow: 0 1px 2px rgba(0, 17, 62, 0.06), 0 4px 14px rgba(0, 17, 62, 0.05);
+  font-size: 1.6rem;
+  line-height: 1.6;
+  overflow-wrap: break-word;
+}
+
+.recitals li.is-opera {
+  border-top-color: var(--sp-beige);
+}
+
+.recitals li p {
+  margin: 0;
+}
+
+.recital-kind {
+  display: block;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--sp-muted);
+}
+
+.recital-kind:empty {
+  display: none;
+}
+
+.recitals .recital-title {
+  margin: 0.4rem 0 1rem;
+  font-family: "Oswald", sans-serif;
+  font-weight: 400;
+  font-size: 2.6rem;
+  line-height: 1.2;
+  color: var(--sp-navy);
+}
+
+/* ---------- Call to action (shared) ---------- */
+.sp-cta {
   margin-top: 4rem;
   padding: 3.2rem 2.4rem;
   text-align: center;
   border-radius: 14px;
-  background: var(--agenda-beige);
-  color: var(--agenda-navy);
+  background: var(--sp-beige);
+  color: var(--sp-navy);
 }
 
-.agenda-cta p {
+.sp-cta p {
   margin: 0 0 1.6rem;
   font-size: 1.8rem;
 }
 
-.agenda-cta-button {
+.sp-cta-button {
   display: inline-block;
   padding: 1rem 2.4rem;
   border-radius: 999px;
@@ -301,37 +358,56 @@
   text-transform: uppercase;
   text-decoration: none;
   color: #fff;
-  background: var(--agenda-navy);
+  background: var(--sp-navy);
 }
 
-.agenda-cta-button:hover,
-.agenda-cta-button:focus-visible {
+.sp-cta-button:hover,
+.sp-cta-button:focus-visible {
   background: #1d2f63;
 }
 
 /* ---------- Small screens ---------- */
 
 @media (max-width: 700px) {
-  .agenda-hero {
+  .sp-hero {
     padding-top: 2rem;
   }
 
-  .agenda-back {
+  .sp-back {
     position: static;
     display: inline-block;
   }
 
-  .agenda .agenda-title {
-    font-size: 3.8rem;
+  .sopraan-page .sp-title {
+    /* scale down on very narrow screens so long titles ("CONCERTAGENDA") fit */
+    font-size: min(3.8rem, 11vw);
   }
 
-  .agenda-body {
+  .sp-body {
     padding-top: 2.4rem;
   }
 
+  .recitals ul {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.4rem;
+  }
+
+  .recitals li {
+    padding: 1.6rem 1.8rem 1.8rem;
+    font-size: 1.5rem;
+  }
+
+  .recitals .recital-title {
+    font-size: 2.2rem;
+  }
+
   .agenda-year {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
     gap: 1.6rem;
+  }
+
+  .agenda-group li {
+    overflow-wrap: break-word;
   }
 
   .agenda-year-label h1 {
