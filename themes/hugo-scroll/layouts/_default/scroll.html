@@ -27,7 +27,7 @@
         {{ with .Params.header_menu_title }}{{ $button_title = . }}{{ end }}
 
         {{ if isset .Params "external" }}
-        <a class='btn site-menu' href='{{ .Params.external }}'>{{ $button_title }}&nbsp;{{ partial "icon.html" "external-link" }}</a>
+        <a class='btn site-menu' href='{{ .Params.external }}'>{{ $button_title }}&nbsp;{{ partial "icon.html" "arrow-right" }}</a>
         {{ else }}
         {{ $fnav_title := .Title }}{{ with .Params.navigation_menu_title }}{{ $fnav_title = . }}{{ end }}
         <a class='btn site-menu' data-title-anchor='{{ anchorize $fnav_title }}' href='#{{ anchorize $fnav_title }}'>{{
