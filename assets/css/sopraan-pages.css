@@ -1,5 +1,6 @@
 /* Sopraan subpages: concert agenda (layouts/_default/agenda.html)
-   and recitals (layouts/_default/recitals.html) */
+   and recitals (layouts/_default/recitals.html); the 404 page reuses
+   the header and buttons */
 
 .sopraan-page {
   --sp-navy: var(--cover-text-color, #00113e);
@@ -329,6 +330,35 @@
   font-size: 2.6rem;
   line-height: 1.2;
   color: var(--sp-navy);
+}
+
+/* ---------- 404 page ---------- */
+
+/* The page is short: let it fill the window so the footer sits at the bottom */
+body:has(.not-found) {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.not-found {
+  flex: 1;
+}
+
+.not-found .sp-body {
+  text-align: center;
+}
+
+.not-found-lead {
+  margin: 0 0 2rem;
+  font-size: 1.8rem;
+}
+
+.not-found-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.2rem;
 }
 
 /* ---------- Call to action (shared) ---------- */

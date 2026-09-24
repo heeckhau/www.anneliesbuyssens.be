@@ -1,6 +1,6 @@
 <meta charset="utf-8" />
 
-<title>{{ with .Title }}{{ . }}{{ else }}{{ .Site.Title }}{{ end }}</title>
+<title>{{ if eq .Kind "404" }}Pagina niet gevonden - {{ .Site.Title }}{{ else }}{{ with .Title }}{{ . }}{{ else }}{{ .Site.Title }}{{ end }}{{ end }}</title>
 
 {{ with .Site.Params.favicon }}
 <link rel="shortcut icon" href="{{ . | absURL }}" type="image/png" />{{ end }}

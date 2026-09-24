@@ -79,7 +79,7 @@
 <link rel="icon" type="image/png" sizes="16x16" href="{{ "images/favicon-16x16.png" | relURL }}" />
 <link rel="apple-touch-icon" sizes="180x180" href="{{ "images/apple-touch-icon.png" | relURL }}" />
 <link rel="manifest" href="{{ "site.webmanifest" | relURL }}" />
-{{ if in (slice "agenda" "recitals") .Layout }}
+{{ if or (in (slice "agenda" "recitals") .Layout) (eq .Kind "404") }}
 {{ with resources.Get "css/sopraan-pages.css" | resources.Minify }}
 <style>{{ .Content | safeCSS }}</style>
 {{ end }}
