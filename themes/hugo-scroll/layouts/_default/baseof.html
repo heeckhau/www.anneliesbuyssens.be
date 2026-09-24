@@ -6,14 +6,8 @@
   {{- block "main" . }}{{- end }}
   {{- partial "footer.html" . -}}
 
-  <!-- We do need jQuery to be loaded before HugoScroll script -->
-
-  {{ $scriptJquery := resources.Get "js/jquery-3.6.3.min.js" }}
-
   <!-- The main JavaScript file for HugoScroll -->
-  {{ $scriptIndex := resources.Get "js/index.js" }}
-  {{ $js := slice $scriptJquery $scriptIndex | resources.Concat "js/script.js" |
-  resources.Minify | resources.Fingerprint }}
+  {{ $js := resources.Get "js/index.js" | resources.Minify | resources.Fingerprint }}
 
   <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous"></script>
 

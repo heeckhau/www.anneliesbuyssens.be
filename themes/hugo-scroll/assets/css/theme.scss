@@ -122,7 +122,7 @@ body {
   background-color: var(--section-light-bg-color);
   border-radius: 0 25px 20px 0;
   padding: 1em 1.5em;
-  display: none;
+  display: flex;
   flex-direction: column;
   position: fixed;
   top: 40px;
@@ -132,6 +132,13 @@ body {
   font-size: 1.5rem;
   line-height: 130%;
   font-weight: bold;
+  transition: opacity 0.2s, visibility 0.2s;
+
+  // Shown by index.js once the cover is scrolled out of view
+  &:not(.is-visible) {
+    opacity: 0;
+    visibility: hidden;
+  }
 }
 
 a.fn-item {
@@ -199,6 +206,17 @@ a.fn-item {
     border-right: 60px solid transparent;
     border-top: 50px solid var(--color-background);
     border-radius: 25px;
+    transition: opacity 0.6s;
+
+    // Faded out by index.js while the next section is in view
+    &.is-hidden {
+      opacity: 0;
+    }
+  }
+
+  // No triangle below the last section
+  .post.last + .post-after {
+    display: none;
   }
 }
 

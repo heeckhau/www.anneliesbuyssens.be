@@ -1,91 +1,71 @@
 /**
- * Main JS file for GhostScroll behaviours
+ * Scroll behaviour for the scrolling pages (layouts/_default/scroll.html):
+ * - hide the side menu while the cover is in view
+ * - highlight the menu item of the section at the top of the window
+ *   (the last item once the page is scrolled to the bottom)
+ * - fade out the triangle above the section in view
+ * Fading is done in CSS (.fixed-nav.is-visible, .post-after.is-hidden).
  */
-
-var $post = $(".post");
-var $first = $(".post.first");
-var $last = $(".post.last");
-var $fnav = $(".fixed-nav");
-var $postholder = $(".post-holder");
-var $sitehead = $("#site-head");
-
-/* Globals jQuery, document */
-(function ($) {
+(function () {
   "use strict";
-  function srcTo(el, dur = 1000) {
-    $("html, body").animate(
-      {
-        scrollTop: el.offset().top,
-      },
-      dur,
-      function () {
-        window.location.hash = el.attr("id");
+
+  var sitehead = document.getElementById("site-head");
+  var fnav = document.querySelector(".fixed-nav");
+  if (!sitehead || !fnav) return;
+
+  var posts = document.querySelectorAll(".post");
+  var items = fnav.querySelectorAll(".fn-item");
+  var footer = document.querySelector(".site-footer");
+
+  function pageTop(el) {
+    return el.getBoundingClientRect().top + window.scrollY;
+  }
+
+  // Height without padding, like jQuery's .height()
+  function contentHeight(el) {
+    var cs = getComputedStyle(el);
+    return el.clientHeight - parseFloat(cs.paddingTop) - parseFloat(cs.paddingBottom);
+  }
+
+  function update() {
+    var w = window.scrollY;
+    var headTop = pageTop(sitehead);
+    var headBottom = headTop + contentHeight(sitehead) - 100;
+    var onCover = w >= Math.floor(headTop) && w <= Math.ceil(headBottom);
+    fnav.classList.toggle("is-visible", !onCover);
+
+    var root = document.documentElement;
+    var atBottom = root.clientHeight + w > root.scrollHeight - (footer ? contentHeight(footer) : 0);
+
+    for (var i = 0; i < posts.length; i++) {
+      var item = items[i];
+      if (!item) continue;
+
+      if (atBottom) {
+        item.classList.toggle("active", i === posts.length - 1);
+        continue;
       }
-    );
-  }
-  function srcToAnchorWithTitle(str) {
-    var $el = $("#" + str);
-    if ($el.length) {
-      srcTo($el);
+
+      var top = pageTop(posts[i]);
+      var inView = w >= top && w <= top + contentHeight(posts[i]);
+      item.classList.toggle("active", inView);
+
+      // The triangle at the bottom of the previous section
+      var prev = posts[i].parentElement.previousElementSibling;
+      var after = prev && prev.classList.contains("post-holder") ? prev.querySelector(".post-after") : null;
+      if (after) after.classList.toggle("is-hidden", inView);
     }
   }
-  $(document).ready(function () {
-    // fallback to jQuery animate if smooth scrolling is not supported
-    if (!("scrollBehavior" in document.documentElement.style)) {
-      // Cover buttons
-      $("a.btn.site-menu").click(function (e) {
-        e.preventDefault();
-        srcToAnchorWithTitle($(e.target).data("title-anchor"));
-      });
 
-      // cover arrow button
-      $("#header-arrow").click(function (e) {
-        e.preventDefault()
-        srcTo($first);
-      });
-    }
+  var pending = false;
+  window.addEventListener("scroll", function () {
+    if (pending) return;
+    pending = true;
+    window.requestAnimationFrame(function () {
+      pending = false;
+      update();
+    });
+  }, { passive: true });
 
-    $(".post.last").next(".post-after").hide();
-
-    if ($sitehead.length) {
-      $(window).scroll(function () {
-        var w = $(window).scrollTop();
-        var g = $sitehead.offset().top;
-        var h = $sitehead.offset().top + $sitehead.height() - 100;
-
-        if (w >= Math.floor(g) && w <= Math.ceil(h)) {
-          $(".fixed-nav").fadeOut("fast");
-        } else {
-          $(".fixed-nav").css("display", "flex").fadeIn("fast");
-        }
-
-        $post.each(function () {
-          if (($(window).height() + w) > ($(document).height() - $(".site-footer").height())) {
-            var l = $postholder.length;
-            $(".fn-item").removeClass("active")
-            $(".fn-item[item_index='" + (l) + "']").addClass("active")
-          } else {
-            var f = $(this).offset().top;
-            var b = $(this).offset().top + $(this).height();
-            var t = $(this).parent(".post-holder").index();
-            var i = $(".fn-item[item_index='" + t + "']");
-            var a = $(this)
-              .parent(".post-holder")
-              .prev(".post-holder")
-              .find(".post-after");
-
-            $(this).attr("item_index", t);
-
-            if (w >= f && w <= b) {
-              i.addClass("active");
-              a.fadeOut("slow");
-            } else {
-              i.removeClass("active");
-              a.fadeIn("slow");
-            }
-          }
-        });
-      });
-    }
-  });
-})(jQuery);
+  update();
+})();
