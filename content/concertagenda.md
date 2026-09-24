@@ -53,7 +53,7 @@ layout: agenda
 
 * “Klassiek in de Stad”, gratis openluchtconcert met Opera Vlaanderen, Sint-Jansplein
 Antwerpen, 5 september 2021 om 11u30.
-* “Schubert ‘Unvollendete’” (F. Schubert, J. Mc Milan, J. Brahms), Openingsconcert met
+* “Schubert ‘Unvollendete’” (F. Schubert, J. MacMillan, J. Brahms), Openingsconcert met
 Vlaams Radio Koor en Brussels Philharmonic, Flagey Brussel, 11 september 2021 om 20u15.
 * “Visioni ed Estasi” (W. Henderickx), World Choir Games, Sint-Pauluskerk Antwerpen, 3
 november 2021.
@@ -85,7 +85,7 @@ maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
 * "Messa di Requiem" (G. Verdi), concert met [Opera Vlaanderen](https://operaballet.be/nl), 5 en 8 okt 2019, Opera Gent en deSingel Antwerpen.
 * "Macbeth" (G. Verdi), met [Opera Vlaanderen](https://operaballet.be/nl), november 2019, Opera Gent en Opera Groothertogdom Luxemburg.
 * "Der Schmied von Gent" (F. Schreker), met [Opera Vlaanderen](https://operaballet.be/nl), feb-maart 2020, Opera Antwerpen en Gent.
-* "Via Crucis" (B. Britten en F. Liszt), concert met het [Koor van de Munt/La Monnaie](https://www.lamonnaie.be/en/program/1237-via-crucis), 15 februari 2020, Dominicanankerk Brussel.
+* "Via Crucis" (B. Britten en F. Liszt), concert met het [Koor van de Munt/La Monnaie](https://www.lamonnaie.be/en/program/1237-via-crucis), 15 februari 2020, Dominicanenkerk Brussel.
 * "C(H)OEURS 2020", met [Opera Vlaanderen](https://operaballet.be/nl), maart-april 2020, Opera Gent en Antwerpen. (geannuleerd)
 * "9th Symphony" (L. v. Beethoven), concert , 2 en 3 en 8 mei 2020, Concertgebouw Mechelen, Antwerpen en Rotterdam. (geannuleerd)
 * "2nd Symphony" (G. Mahler), concert met Vlaams Radio Koor en Nederlands Omroepkoor, 9 mei 2020, Concertgebouw Amsterdam. (geannuleerd)
@@ -117,7 +117,7 @@ maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
 * "Le Duc d'Albe" (G. Donizetti/G. Battistelli), met Kunsthuis Opera Vlaanderen, 17 nov t/m 6 dec 2017, Opera Gent.
 * Concert "Songs for the Crossing" (Jeroen D'Hoe), met Vlaams Radio Koor en Brussels Philharmonic Orchestra, 15 december 2017, Flagey Brussel.
 * Concert "Rossini-gala", met Kunsthuis Opera Vlaanderen, 6 jan 2018, Koningin Elisabethzaal Antwerpen.
-* "Cavalleria rusticana" (P. Mascagni) & "Pagliacci" (R. Leoncavalli), met De Munt/La Monnaie, 6 maart t/m 22 maart 2018, Opera Brussel.
+* "Cavalleria rusticana" (P. Mascagni) & "Pagliacci" (R. Leoncavallo), met De Munt/La Monnaie, 6 maart t/m 22 maart 2018, Opera Brussel.
 * "Lohengrin" (R. Wagner), met De Munt/La Monnaie, 19 april t/m 6 mei 2018, Opera Brussel.
 * Concert "Leonard Bernstein: 100 years of magic", met Vlaams Radio Koor en Brussels Philharmonic Orchestra, 30 mei 2018, Bozar Brussel.
 
@@ -133,11 +133,11 @@ maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
 ## Opera/Concerten Koor
 
 * "Klassiek in de Stad", met de Vlaamse Opera, 4 sept 2016 om 11u30 gratis openluchtconcert op St Jansplein te Antwerpen.
-* "Paulus" (F. Mendelssohn), met de Vlaamse Opera, 24 sept 2016 in Carolus Boromeus Kerk Antwerpen, 25 sept 2016 in SInt-Pieterskerk Gent.
-* "Der Fliegende Höllander" (R. Wagner), met de Vlaamse Opera, Antwerpen en Gent, oktober-november 2016.
+* "Paulus" (F. Mendelssohn), met de Vlaamse Opera, 24 sept 2016 in Carolus Borromeuskerk Antwerpen, 25 sept 2016 in Sint-Pieterskerk Gent.
+* "Der Fliegende Holländer" (R. Wagner), met de Vlaamse Opera, Antwerpen en Gent, oktober-november 2016.
 * "Die Zauberflöte" (W.A.Mozart), met de Vlaamse Opera, Antwerpen en Gent, december 2016-januari 2017.
 * "The Mysteries of Light" (J. MacMillan), met VRK, Flagey Brussel en Bijloke Gent, 23-24 feb 2017
-* "Simon Bocanegra" (G.Verdi), met de Vlaamse Opera, Antwerpen, Gent en Luxemburg, feb-maart 2017.
+* "Simon Boccanegra" (G.Verdi), met de Vlaamse Opera, Antwerpen, Gent en Luxemburg, feb-maart 2017.
 * "Aïda" (G. Verdi), met de Munt/La Monnaie, Brussel, mei-juni 2017.
 * "Sadko" (N. Rimsky-Korsakov), met de Vlaamse Opera, Gent, juni-juli 2017.
 
@@ -162,18 +162,17 @@ maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
 * "A Grand Opera Night/The Diva Night" met CloseOpera, Cultureel Centrum de Tentakel in Zonnehoven, 20 maart 2016 om 17u.
 * "A Grand Opera Night/The Diva Night" met CloseOpera, Cultureel Centrum Plomblom in Ninove, 14 april 2016 om 20u.
 * "A Grand Opera Night/The Diva Night" met CloseOpera, Cultureel Centrum de Vieze Gasten in Gent, 30 april 2016 om 20u30.
-* "Una serrata Italiana" benefietconcert voor/met CloseOpera, kunstcafé Huset, Gent, 25 juni om 20u.
+* "Una serata Italiana" benefietconcert voor/met CloseOpera, kunstcafé Huset, Gent, 25 juni om 20u.
 * "Can you Händel it" met CloseOpera, Kunstcafé Huset, Gent, 19 juli 2016 om 20u.
 * "Richard Strauss-night" met CloseOpera, Kunstcafé Huset, Gent, 23 juli 2016 om 20u.
 
 ## Opera/Concerten Koor
 
 * "Klassiek in de Stad", met de Vlaamse Opera, Openluchtconcert Antwerpen, 6 sept 2015 om 11u30.
-* "Tanhäusser" (R. Wagner), met de Vlaamse Opera, Gent en Antwerpen, sept-okt 2015.
+* "Tannhäuser" (R. Wagner), met de Vlaamse Opera, Gent en Antwerpen, sept-okt 2015.
 * "World Soundtrack Awards", met VRK olv Dirk Brossé, Kuipke Gent, 24 okt 2015.
 * "Final Mystery" (Scrjabin/Nemtin), met VRK, Hilversum en Amsterdam, nov 2015.
-* "The Messiah" (G.F. Haendl), met VRK olv Bart Van Reyn, Koninklijk Paleis Brussel,
-* uitgezonden op 25 dec 2015 om 14u15 op tv één en om 21u05 op rtbf.
+* "The Messiah" (G.F. Händel), met VRK olv Bart Van Reyn, Koninklijk Paleis Brussel, uitgezonden op 25 dec 2015 om 14u15 op tv één en om 21u05 op rtbf.
 * "La Bohème" (G. Puccini), met de Vlaamse Opera, Antwerpen en Gent, dec-jan 2016.
 * "Rachmaninov-happening", met VRK, De Singel, Antwerpen, 6 maart 2016.
 * "Béatrice et Bénédict" (H. Berlioz), met de Munt/la Monnaie, Brussel, maart-april 2016.
@@ -183,7 +182,7 @@ maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
 ## Solo-Concerten
 
 * "Requiem" (G. Fauré), met koor Cantabile o.l.v. Steve De Veirman, in de Sint-Niklaaskerk Gent, 1 november 2014, 20u
-* "Gentse Feesten Recitals" met Bang-Up! Opera, Huset Café (Hoogstraat 49, Gent), "Drama Queens" op vrijdag 24 juli 2015 en "Nacht und Traume" op zondag 26 juli 2015, om 20u, reservatie via info@bangupopera.com
+* "Gentse Feesten Recitals" met Bang-Up! Opera, Huset Café (Hoogstraat 49, Gent), "Drama Queens" op vrijdag 24 juli 2015 en "Nacht und Träume" op zondag 26 juli 2015, om 20u, reservatie via info@bangupopera.com
 
 ## Opera/Concerten Koor
 
@@ -193,7 +192,7 @@ maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
 * "Khovansjtsjina" (M. Moesorgski), in de Vlaamse Opera, Antwerpen en Gent, 31 oktober t/m 2 december 2014.
 * "Koorfantasie" (L. Beethoven), met de Vlaamse Opera, in Bozar (Brussel), 4 december 2014.
 * "Fierrabras" (F. Schubert), met de Munt, concertante opera in Bozar (Brussel), 21 en 24 januari 2015.
-* "Akhnaten" (P. Glass), in de Vlaamse Oepra, Antwerpen en Gent, 13 februari t/m 10 maart.
+* "Akhnaten" (P. Glass), in de Vlaamse Opera, Antwerpen en Gent, 13 februari t/m 10 maart.
 * "La Juive" (F. Halévy), in de Vlaamse Opera, Gent en Antwerpen, 14 april t/m 6 mei 2015.
 * "Ein deutsches Requiem" (J. Brahms), met het Vlaams Radio Koor, op het Festival van Vlaanderen te Mechelen in de St. Romboutskathedraal op 9 mei 2015, te Reims op 10 juli 2015 en te St. Riquier op 11 juli 2015.
 * "Rachmaninov Troika" (S. Rachmaninov), in de Munt, drieluik opera "Aleko", "Skupoj Rytsar", "Francesco da Rimini", in de Munt, 16 t/m 30 juni 2015.

@@ -8,7 +8,7 @@ layout: recitals
   
 * Lied recital "Chansons de rêves d'amour": Liederen over de liefde om bij weg te dromen. Muziek van oa Fauré, Hahn, Debussy op gedichten van Victor Hugo, Charles Baudelaire en tijdgenoten.
   
-*  Opera en Musical recital "Fascinating love!": Amerikaanse opera-aria's en musical-songs uit de jaren 1930 tot 1960. Een hartverwarmend programma met muziek van oa Moore, Floyd, Bernstein, Menotti en Gerschwin.
+*  Opera en Musical recital "Fascinating love!": Amerikaanse opera-aria's en musical-songs uit de jaren 1930 tot 1960. Een hartverwarmend programma met muziek van oa Moore, Floyd, Bernstein, Menotti en Gershwin.
 * Lied recital "L'invitation aux romances": Een programma met de mooiste melodieën en romances van oa Fauré, Hahn, Liszt, Bizet, Duparc en Debussy.
 
 * Lied recital "Amor y Odio": Een programma met Spaanse liederen van Granados en De Falla, boordevol passie en romantiek.
