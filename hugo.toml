@@ -46,6 +46,9 @@ copyright = "©Hendrik Eeckhaut"
 # You can turn it off, but we would really appreciate if you don’t :-)
 hidedesignbyline = true
 
+# Cloudflare Web Analytics (layouts/partials/analytics.html)
+cloudflareAnalyticsToken = "0aa8aabbefc5447284e2b5661a5b583f"
+
 # The sections of the home page alternate styling. Mark invert as true to swap the styling of the sections
 invertSectionColors = false
 
