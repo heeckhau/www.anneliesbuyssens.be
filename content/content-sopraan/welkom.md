@@ -21,4 +21,4 @@ Geluidsfragmenten en meer [nieuws](https://www.facebook.com/Sopraan.VocalCoach/)
 
 Als **stemcoach** werk ik reeds 20 jaar met de adem en de stem in verschillende scholen, muziekacademies, bij Koor en Stem en in mijn privépraktijk.
 
-Daarnaast ben ik ook gevestigd als [klinisch psycholoog](/psycholoog).
+Daarnaast ben ik ook gevestigd als [klinisch psycholoog](/).
