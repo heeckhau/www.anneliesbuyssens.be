@@ -52,6 +52,15 @@ cloudflareAnalyticsToken = "0aa8aabbefc5447284e2b5661a5b583f"
 # The sections of the home page alternate styling. Mark invert as true to swap the styling of the sections
 invertSectionColors = false
 
+# Contact details, used for the structured data (layouts/partials/structured-data.html).
+# Keep in sync with content/content-psycholoog/contact.md.
+[params.contact]
+email = "info@anneliesbuyssens.be"
+streetAddress = "Adolf Baeyensstraat 47"
+postalCode = "9040"
+locality = "Gent"
+country = "BE"
+
 # Make static/images available to Hugo's image processing (resources.Get),
 # e.g. to resize the cover photo. Adding mounts replaces the defaults for
 # assets and static, so those are listed too.

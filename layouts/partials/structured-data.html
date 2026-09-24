@@ -1,0 +1,46 @@
+{{- /*
+  Structured data (schema.org JSON-LD) for search engines.
+  Enabled per page with `schema: psychologist` or `schema: sopraan` in the front matter.
+  Only uses information that is also shown on the site.
+*/ -}}
+{{- $c := site.Params.contact -}}
+{{- $image := "" -}}
+{{- with .Params.header_logo }}{{ $image = absURL (strings.TrimPrefix "/" .) }}{{ end -}}
+{{- $data := dict -}}
+{{- if eq .Params.schema "psychologist" -}}
+  {{- $data = dict
+    "@context" "https://schema.org"
+    "@type" "MedicalBusiness"
+    "name" .Title
+    "description" .Description
+    "url" .Permalink
+    "image" $image
+    "email" $c.email
+    "address" (dict
+      "@type" "PostalAddress"
+      "streetAddress" $c.streetAddress
+      "postalCode" $c.postalCode
+      "addressLocality" $c.locality
+      "addressCountry" $c.country)
+    "knowsAbout" (slice "EMDR" "Schematherapie" "Emotionally Focused Therapy" "Relatietherapie")
+    "founder" (dict
+      "@type" "Person"
+      "name" "Annelies Buyssens"
+      "jobTitle" "Klinisch psycholoog en relatietherapeut")
+  -}}
+{{- else if eq .Params.schema "sopraan" -}}
+  {{- $data = dict
+    "@context" "https://schema.org"
+    "@type" "Person"
+    "name" "Annelies Buyssens"
+    "jobTitle" (slice "Sopraan" "Stemcoach")
+    "description" .Description
+    "url" .Permalink
+    "image" $image
+    "email" $c.email
+    "sameAs" (slice "https://www.facebook.com/Sopraan.VocalCoach/")
+  -}}
+{{- end -}}
+{{- with $data }}
+<script type="application/ld+json">{{ . | jsonify | safeJS }}</script>
+{{- end }}
