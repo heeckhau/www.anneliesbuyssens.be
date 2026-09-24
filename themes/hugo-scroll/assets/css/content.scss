@@ -87,11 +87,6 @@ a {
     &:hover {
         color: var(--sticky-menu-text-color);
     }
-
-    // Fix font awesome icons
-    &.fa {
-        text-decoration: none;
-    }
 }
 
 /** ======== Lists ====================== */
@@ -129,6 +124,37 @@ li {
   margin-left: 30px;
 }
 
+// Bullets: a thin ring left of each item (formerly an icon inserted by JS)
+.post-content ul {
+    list-style: none;
+    padding-left: 0;
+    margin-left: 2.142857em;
+
+    > li {
+        position: relative;
+
+        &::before {
+            content: "";
+            position: absolute;
+            left: -1.45em;
+            top: 0.58em;
+            width: 0.75em;
+            height: 0.75em;
+            box-sizing: border-box;
+            border: 1.5px solid currentColor;
+            border-radius: 50%;
+        }
+    }
+}
+
+// Inline SVG icons (layouts/partials/icon.html)
+.icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.125em;
+}
+
 /** ======== Content semantics ============= */
 hr {
     display: block;
@@ -137,13 +163,6 @@ hr {
     border-top: 1px solid var(--color-text);
     margin: 1.5em 0;
     padding: 0;
-}
-
-/** Helper to be inserted by JS before quotations*/
-.quo {
-    margin-right: 10px;
-    margin-left: 10px;
-    font-size: 20px;
 }
 
 blockquote {

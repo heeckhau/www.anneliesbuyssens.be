@@ -49,9 +49,10 @@
   text-decoration: underline;
 }
 
-.sp-back .fa {
-  font-size: 1.1rem;
-  vertical-align: 0.1em;
+.sp-back .icon {
+  font-size: 1.4rem;
+  stroke-width: 3.5;
+  vertical-align: -0.1em;
 }
 
 .sp-logo {
@@ -151,8 +152,7 @@
   background: var(--sp-beige);
 }
 
-/* Entries: a vertical timeline of cards.
-   The theme's JS adds .fa-ul and an icon to every list item; neutralise that here. */
+/* Entries: a vertical timeline of cards */
 .agenda-group ul {
   list-style: none;
   margin: 0;
@@ -168,10 +168,6 @@
   left: 0.5rem;
   width: 2px;
   background: var(--sp-line);
-}
-
-.sopraan-page .fa-li {
-  display: none;
 }
 
 .agenda-group > ul > li {

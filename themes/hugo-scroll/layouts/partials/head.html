@@ -17,13 +17,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 {{ $stylesheetNormalize := resources.Get "css/normalize.css" }}
-{{ $stylesheetFA := resources.Get "css/fork-awesome.css" }}
 {{ $stylesheetFonts := resources.Get "css/fonts.css" }}
 {{ $stylesheetGeneric := resources.Get "css/generic.css" }}
 
 {{ $stylesheetScreen := ( resources.Get "css/_index.scss" | css.Sass ) }}
 
-{{ $stylesheet := slice $stylesheetNormalize $stylesheetFA $stylesheetFonts $stylesheetGeneric $stylesheetScreen |
+{{ $stylesheet := slice $stylesheetNormalize $stylesheetFonts $stylesheetGeneric $stylesheetScreen |
 resources.Concat "css/style.css" | resources.Minify | resources.Fingerprint }}
 <link rel="stylesheet" href="{{ $stylesheet.RelPermalink }}" type="text/css"
   integrity="{{ $stylesheet.Data.Integrity }}" />
