@@ -65,6 +65,13 @@
      You may checkout https://htmlcolorcodes.com/ to get those
      weird color codes (like "#22343A") ;-). -->
 
+{{ if eq .Layout "scroll" }}
+<!-- Fonts used on the cover: headline, name and buttons -->
+<link rel="preload" href="{{ "fonts/open-sans-v27-latin-700.woff2" | relURL }}" as="font" type="font/woff2" crossorigin />
+<link rel="preload" href="{{ "fonts/roboto-slab-v16-latin-700.woff2" | relURL }}" as="font" type="font/woff2" crossorigin />
+<link rel="preload" href="{{ "fonts/oswald-v40-latin-300.woff2" | relURL }}" as="font" type="font/woff2" crossorigin />
+{{ end }}
+
 <!-- Icons, generated via https://favicon.io/favicon-generator/ -->
 <link rel="icon" href="{{ "favicon.ico" | relURL }}" sizes="32x32" />
 <link rel="icon" type="image/png" sizes="32x32" href="{{ "images/favicon-32x32.png" | relURL }}" />

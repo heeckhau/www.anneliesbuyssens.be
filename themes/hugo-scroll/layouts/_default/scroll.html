@@ -15,7 +15,11 @@
       <div id="site-head-content" class="inner">
         {{/* Alt text: header_logo_alt, else the subheadline as plain text (the name), else the page title */}}
         {{ $alt := .Title }}{{ with .Params.header_subheadline }}{{ $alt = plainify . }}{{ end }}{{ with .Params.header_logo_alt }}{{ $alt = . }}{{ end }}
-        {{ with .Params.header_logo }}<img id="blog-logo" src="{{ . }}" alt="{{ $alt }}" />{{ end }}
+        {{ with .Params.header_logo }}
+        {{/* Intrinsic size lets the browser reserve the space before the image loads */}}
+        {{ $size := "" }}{{ $file := path.Join "static" . }}
+        {{ if fileExists $file }}{{ with imageConfig $file }}{{ $size = printf ` width="%d" height="%d"` .Width .Height }}{{ end }}{{ end }}
+        <img id="blog-logo" src="{{ . }}" alt="{{ $alt }}"{{ $size | safeHTMLAttr }} />{{ end }}
 
         {{ if .Site.Params.title_guard }}<div class="title-and-description-guard">{{ end }}
           {{ with .Params.header_headline }}<h1 class="blog-title">{{ . | safeHTML }}</h1>{{ end }}
