@@ -25,12 +25,13 @@
     {{ range after 1 $parts }}
     {{ $groups := split (printf "<h1 %s" .) "<h2 " }}
     <section class="agenda-year">
-      <header class="agenda-year-label">{{ index $groups 0 | safeHTML }}</header>
+      {{/* Markdown "#" years become h2 and "##" categories h3: the page title is the only h1 */}}
+      <header class="agenda-year-label">{{ index $groups 0 | replaceRE `<(/?)h1\b` "<${1}h2" | safeHTML }}</header>
       <div class="agenda-year-body">
         {{ range after 1 $groups }}
         {{ $label := index (split . "</h2>") 0 }}
         <div class="agenda-group {{ if in (lower $label) "solo" }}is-solo{{ else }}is-koor{{ end }}">
-          {{ printf "<h2 %s" . | safeHTML }}
+          {{ printf "<h3 %s" . | replaceRE `</h2>` "</h3>" | safeHTML }}
         </div>
         {{ end }}
       </div>

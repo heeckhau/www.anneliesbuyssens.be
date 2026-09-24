@@ -103,7 +103,9 @@
   padding-top: 0;
 }
 
-.agenda-year-label h1 {
+.agenda-year-label h2 {
+  letter-spacing: -2px;
+  text-indent: -3px;
   position: sticky;
   top: 2rem;
   margin: 0;
@@ -115,7 +117,7 @@
   scroll-margin-top: 2rem;
 }
 
-.agenda-year-label h1 small {
+.agenda-year-label h2 small {
   display: block;
   font-family: "Open Sans", sans-serif;
   font-weight: 600;
@@ -130,7 +132,7 @@
   margin-top: 2.8rem;
 }
 
-.agenda-group h2 {
+.agenda-group h3 {
   display: inline-block;
   margin: 0 0 1.4rem;
   padding: 0.5rem 1.2rem;
@@ -145,7 +147,7 @@
   background: var(--sp-teal);
 }
 
-.agenda-group.is-solo h2 {
+.agenda-group.is-solo h3 {
   background: var(--sp-beige);
 }
 
@@ -410,12 +412,12 @@
     overflow-wrap: break-word;
   }
 
-  .agenda-year-label h1 {
+  .agenda-year-label h2 {
     position: static;
     font-size: 3.2rem;
   }
 
-  .agenda-year-label h1 small {
+  .agenda-year-label h2 small {
     display: inline;
     margin: 0 0.6rem 0 0;
   }

@@ -51,18 +51,12 @@ layout: agenda
 
 ## Opera/Concerten Koor
 
-* “Klassiek in de Stad”, gratis openluchtconcert met Opera Vlaanderen, Sint-Jansplein
-Antwerpen, 5 september 2021 om 11u30.
-* “Schubert ‘Unvollendete’” (F. Schubert, J. MacMillan, J. Brahms), Openingsconcert met
-Vlaams Radio Koor en Brussels Philharmonic, Flagey Brussel, 11 september 2021 om 20u15.
-* “Visioni ed Estasi” (W. Henderickx), World Choir Games, Sint-Pauluskerk Antwerpen, 3
-november 2021.
-* “La Bohème” (G. Puccini), met Opera Vlaanderen, in Opera Antwerpen, december 2021 en in
-Opera Gent, januari 2022.
-* “Roméo et Juliette” (H. Berlioz), concertant met Opera Vlaanderen, in deSingel Antwerpen,
-24 februari en in De Bijloke Gent, 27 februari 2022.
-* “C(H)OEURS 2022”, met Opera Ballet Vlaanderen olv Alain Platel, in Opera Antwerpen,
-maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
+* “Klassiek in de Stad”, gratis openluchtconcert met Opera Vlaanderen, Sint-Jansplein Antwerpen, 5 september 2021 om 11u30.
+* “Schubert ‘Unvollendete’” (F. Schubert, J. MacMillan, J. Brahms), Openingsconcert met Vlaams Radio Koor en Brussels Philharmonic, Flagey Brussel, 11 september 2021 om 20u15.
+* “Visioni ed Estasi” (W. Henderickx), World Choir Games, Sint-Pauluskerk Antwerpen, 3 november 2021.
+* “La Bohème” (G. Puccini), met Opera Vlaanderen, in Opera Antwerpen, december 2021 en in Opera Gent, januari 2022.
+* “Roméo et Juliette” (H. Berlioz), concertant met Opera Vlaanderen, in deSingel Antwerpen, 24 februari en in De Bijloke Gent, 27 februari 2022.
+* “C(H)OEURS 2022”, met Opera Ballet Vlaanderen olv Alain Platel, in Opera Antwerpen, maart 2022, in Opera Gent, april 2022, in Opera de Lille, juni 2022.
 * "Dixit Dominus" (G.F. Händel), met Vlaams Radio Koor, in Hasselt, Leuven, Brussel, Oostende en Parijs, 20-30 mei 2022.
 * “Les Huguenots” (G. Meyerbeer), met de Munt/La Monnaie, Opera Brussel, juni en juli 2022.
 
