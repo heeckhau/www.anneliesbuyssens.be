@@ -3,7 +3,7 @@
 All rights reserved
 
 
-Theme: modified from <https://github.com/zjedi/hugo-scroll> to support multiple scrolling pages.
+Based on the [hugo-scroll](https://github.com/zjedi/hugo-scroll) theme (MIT, see `LICENSE-hugo-scroll`), heavily modified and merged into this repository: multiple scrolling pages, concert agenda and recitals layouts, no jQuery or icon font.
 
 Links:
 * https://favicon.io/favicon-generator/
