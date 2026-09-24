@@ -31,7 +31,7 @@ var $sitehead = $("#site-head");
   }
   $(document).ready(function () {
     // fallback to jQuery animate if smooth scrolling is not supported
-    if (!"scrollBehavior" in document.documentElement.style) {
+    if (!("scrollBehavior" in document.documentElement.style)) {
       // Cover buttons
       $("a.btn.site-menu").click(function (e) {
         e.preventDefault();
