@@ -1,5 +1,6 @@
 ---
 title: Concertagenda
+layout: agenda
 ---
 # 2027
  

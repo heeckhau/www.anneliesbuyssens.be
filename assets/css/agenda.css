@@ -1,0 +1,359 @@
+/* Concert agenda (layouts/_default/agenda.html) */
+
+.agenda {
+  --agenda-navy: var(--cover-text-color, #00113e);
+  --agenda-teal: var(--section-light-bg-color, #b9d5d3);
+  --agenda-beige: var(--section-dark-bg-color, #e7d3b6);
+  --agenda-text: var(--section-light-text-color, #3a4145);
+  --agenda-muted: #6b7478;
+  --agenda-page: #f7f4ee;
+  --agenda-card: #fff;
+  --agenda-line: #ddd5c8;
+  --agenda-cancel: #a4474b;
+
+  display: block;
+  background: var(--agenda-page);
+  color: var(--agenda-text);
+}
+
+/* ---------- Hero ---------- */
+
+.agenda-hero {
+  background: linear-gradient(160deg, var(--agenda-teal) 0%, #cfe2e0 55%, var(--agenda-beige) 140%);
+  color: var(--agenda-navy);
+  text-align: center;
+  padding: 3rem 1.6rem 3.2rem;
+}
+
+.agenda-hero-inner {
+  max-width: 960px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.agenda-back {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--agenda-navy);
+  text-decoration: none;
+  opacity: 0.8;
+}
+
+.agenda-back:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+
+.agenda-back .fa {
+  font-size: 1.1rem;
+  vertical-align: 0.1em;
+}
+
+.agenda-logo {
+  display: block;
+  width: 96px;
+  height: 96px;
+  margin: 1.6rem auto 1.2rem;
+  border-radius: 50%;
+}
+
+.agenda .agenda-title {
+  font-family: "Oswald", sans-serif;
+  font-weight: 400;
+  font-size: 5.2rem;
+  line-height: 1.1;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin: 0;
+  color: var(--agenda-navy);
+}
+
+.agenda-subtitle {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.7rem;
+  margin: 0.6rem 0 0;
+  opacity: 0.8;
+}
+
+/* ---------- Body ---------- */
+
+.agenda-body {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 4rem 1.6rem 6rem;
+}
+
+.agenda-year {
+  display: grid;
+  grid-template-columns: 15rem 1fr;
+  gap: 3.2rem;
+  padding: 3.2rem 0;
+  border-top: 1px solid var(--agenda-line);
+}
+
+.agenda-year:first-of-type {
+  border-top: 0;
+  padding-top: 0;
+}
+
+.agenda-year-label h1 {
+  position: sticky;
+  top: 2rem;
+  margin: 0;
+  font-family: "Oswald", sans-serif;
+  font-weight: 700;
+  font-size: 4rem;
+  line-height: 1;
+  color: var(--agenda-navy);
+  scroll-margin-top: 2rem;
+}
+
+.agenda-year-label h1 small {
+  display: block;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  font-size: 1.2rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--agenda-muted);
+  margin-bottom: 0.4rem;
+}
+
+.agenda-group + .agenda-group {
+  margin-top: 2.8rem;
+}
+
+.agenda-group h2 {
+  display: inline-block;
+  margin: 0 0 1.4rem;
+  padding: 0.5rem 1.2rem;
+  border-radius: 999px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--agenda-navy);
+  background: var(--agenda-teal);
+}
+
+.agenda-group.is-solo h2 {
+  background: var(--agenda-beige);
+}
+
+/* Entries: a vertical timeline of cards.
+   The theme's JS adds .fa-ul and an icon to every list item; neutralise that here. */
+.agenda-group ul {
+  list-style: none;
+  margin: 0;
+  padding: 0 0 0 2.4rem;
+  position: relative;
+}
+
+.agenda-group > ul::before {
+  content: "";
+  position: absolute;
+  top: 0.8rem;
+  bottom: 0.8rem;
+  left: 0.5rem;
+  width: 2px;
+  background: var(--agenda-line);
+}
+
+.agenda .fa-li {
+  display: none;
+}
+
+.agenda-group > ul > li {
+  position: relative;
+  margin: 0 0 1.2rem;
+  padding: 1.4rem 1.8rem;
+  background: var(--agenda-card);
+  border-radius: 10px;
+  box-shadow: 0 1px 2px rgba(0, 17, 62, 0.06), 0 4px 14px rgba(0, 17, 62, 0.05);
+  font-size: 1.6rem;
+  line-height: 1.6;
+}
+
+.agenda-group > ul > li::before {
+  content: "";
+  position: absolute;
+  left: -2.4rem;
+  top: 2.1rem;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--agenda-page);
+  border: 2px solid var(--agenda-navy);
+}
+
+.agenda-group.is-solo > ul > li::before {
+  /* compensate for the 4px left border below */
+  margin-left: -4px;
+  background: var(--agenda-navy);
+}
+
+.agenda-group.is-solo > ul > li {
+  border-left: 4px solid var(--agenda-beige);
+}
+
+.agenda cite {
+  font-style: normal;
+  font-weight: 700;
+  color: var(--agenda-navy);
+}
+
+.agenda-group li a {
+  color: inherit;
+  text-decoration-color: #7fb0ac;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 2px;
+}
+
+/* Nested lists (e.g. a tour with several dates) */
+.agenda-group li ul {
+  margin: 0.6rem 0 0;
+  padding: 0;
+}
+
+.agenda-group li p {
+  margin: 0;
+}
+
+.agenda-group li li {
+  margin: 0;
+  padding-left: 1.4rem;
+  position: relative;
+  font-size: 0.95em;
+  color: var(--agenda-muted);
+}
+
+.agenda-group li li::before {
+  content: "";
+  position: absolute;
+  left: 0.2rem;
+  top: 0.75em;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--agenda-beige);
+}
+
+/* Cancelled */
+.agenda-group li.is-cancelled {
+  color: var(--agenda-muted);
+  box-shadow: none;
+  background: transparent;
+  border: 1px dashed var(--agenda-line);
+}
+
+.agenda-group li.is-cancelled cite {
+  color: var(--agenda-muted);
+  text-decoration: line-through;
+}
+
+.agenda-group li.is-cancelled::before {
+  border-color: var(--agenda-line);
+}
+
+.agenda-tag {
+  display: inline-block;
+  margin-left: 0.4rem;
+  padding: 0.1rem 0.8rem;
+  border-radius: 999px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  vertical-align: 0.15em;
+  color: var(--agenda-cancel);
+  border: 1px solid currentColor;
+}
+
+/* Call to action */
+.agenda-cta {
+  margin-top: 4rem;
+  padding: 3.2rem 2.4rem;
+  text-align: center;
+  border-radius: 14px;
+  background: var(--agenda-beige);
+  color: var(--agenda-navy);
+}
+
+.agenda-cta p {
+  margin: 0 0 1.6rem;
+  font-size: 1.8rem;
+}
+
+.agenda-cta-button {
+  display: inline-block;
+  padding: 1rem 2.4rem;
+  border-radius: 999px;
+  font-family: "Oswald", sans-serif;
+  font-size: 1.6rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #fff;
+  background: var(--agenda-navy);
+}
+
+.agenda-cta-button:hover,
+.agenda-cta-button:focus-visible {
+  background: #1d2f63;
+}
+
+/* ---------- Small screens ---------- */
+
+@media (max-width: 700px) {
+  .agenda-hero {
+    padding-top: 2rem;
+  }
+
+  .agenda-back {
+    position: static;
+    display: inline-block;
+  }
+
+  .agenda .agenda-title {
+    font-size: 3.8rem;
+  }
+
+  .agenda-body {
+    padding-top: 2.4rem;
+  }
+
+  .agenda-year {
+    grid-template-columns: 1fr;
+    gap: 1.6rem;
+  }
+
+  .agenda-year-label h1 {
+    position: static;
+    font-size: 3.2rem;
+  }
+
+  .agenda-year-label h1 small {
+    display: inline;
+    margin: 0 0.6rem 0 0;
+  }
+
+  .agenda-group ul {
+    padding-left: 2rem;
+  }
+
+  .agenda-group > ul > li::before {
+    left: -2rem;
+  }
+
+  .agenda-group > ul > li {
+    padding: 1.2rem 1.4rem;
+    font-size: 1.5rem;
+  }
+}

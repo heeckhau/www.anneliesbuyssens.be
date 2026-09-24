@@ -1,0 +1,53 @@
+{{ define "main" }}
+{{/*
+  Concert agenda. Content stays plain Markdown:
+    # <year or "Seizoen 2023-2024">
+    ## <category>   (a heading containing "solo" gets the solo style)
+    * entry         (first quoted text is highlighted as the work title,
+                     "(geannuleerd)" marks the entry as cancelled)
+*/}}
+{{ $html := string .Content }}
+
+{{/* Highlight the first quoted work title in each entry */}}
+{{ $html = replaceRE `(<li>(?:\s*<p>)?[^<“&]*?)(?:&ldquo;|“)(.+?)(?:&rdquo;|”)` `$1<cite>$2</cite>` $html }}
+{{/* Cancelled entries */}}
+{{ $html = replaceRE `<li>(.*?)\s*\(geannuleerd\)` `<li class="is-cancelled">$1 <span class="agenda-tag">geannuleerd</span>` $html }}
+{{/* "Seizoen 2023-2024" -> small label + "2023–24" */}}
+{{ $html = replaceRE `(<h1 id="[^"]+">)Seizoen (\d{4})-\d{2}(\d{2})` `$1<small>Seizoen</small>$2–$3` $html }}
+
+<main class="content agenda">
+  <header class="agenda-hero">
+    <div class="agenda-hero-inner">
+      <a class="agenda-back" href="{{ "sopraan/" | relURL }}"><i class="fa fa-chevron-left" aria-hidden="true"></i> Sopraan</a>
+      <img class="agenda-logo" src="{{ "images/circle_zang1.webp" | relURL }}" alt="Annelies Buyssens" width="96" height="96">
+      <h1 class="agenda-title">{{ .Title }}</h1>
+      <p class="agenda-subtitle">Annelies Buyssens &middot; sopraan</p>
+    </div>
+  </header>
+
+  <div class="agenda-body">
+    {{ $parts := split $html "<h1 " }}
+    {{ with trim (index $parts 0) " \n" }}<div class="agenda-intro">{{ . | safeHTML }}</div>{{ end }}
+
+    {{ range after 1 $parts }}
+    {{ $groups := split (printf "<h1 %s" .) "<h2 " }}
+    <section class="agenda-year">
+      <header class="agenda-year-label">{{ index $groups 0 | safeHTML }}</header>
+      <div class="agenda-year-body">
+        {{ range after 1 $groups }}
+        {{ $label := index (split . "</h2>") 0 }}
+        <div class="agenda-group {{ if in (lower $label) "solo" }}is-solo{{ else }}is-koor{{ end }}">
+          {{ printf "<h2 %s" . | safeHTML }}
+        </div>
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+
+    <aside class="agenda-cta">
+      <p>Wil je mij boeken voor een concert, viering of event?</p>
+      <a class="agenda-cta-button" href="{{ "sopraan/#booking" | relURL }}">Booking</a>
+    </aside>
+  </div>
+</main>
+{{ end }}
