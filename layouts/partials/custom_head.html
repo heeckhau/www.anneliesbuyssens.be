@@ -79,7 +79,7 @@
 <link rel="apple-touch-icon" sizes="180x180" href="{{ "images/apple-touch-icon.png" | relURL }}" />
 <link rel="manifest" href="{{ "site.webmanifest" | relURL }}" />
 {{ if in (slice "agenda" "recitals") .Layout }}
-{{ with resources.Get "css/sopraan-pages.css" | resources.Minify | resources.Fingerprint }}
-<link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" />
+{{ with resources.Get "css/sopraan-pages.css" | resources.Minify }}
+<style>{{ .Content | safeCSS }}</style>
 {{ end }}
 {{ end }}

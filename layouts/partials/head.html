@@ -19,8 +19,8 @@
 
 {{ $stylesheet := slice $stylesheetNormalize $stylesheetFonts $stylesheetGeneric $stylesheetScreen |
 resources.Concat "css/style.css" | resources.Minify | resources.Fingerprint }}
-<link rel="stylesheet" href="{{ $stylesheet.RelPermalink }}" type="text/css"
-  integrity="{{ $stylesheet.Data.Integrity }}" />
+{{/* Inlined: saves a render-blocking request (the minified CSS is only a few KB) */}}
+<style>{{ $stylesheet.Content | safeCSS }}</style>
 
 {{ template "_internal/opengraph.html" . }}
 {{ template "_internal/twitter_cards.html" . }}
