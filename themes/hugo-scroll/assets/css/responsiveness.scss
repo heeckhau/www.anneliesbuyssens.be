@@ -125,12 +125,17 @@
     margin-top: 10px;
   }
 
-  .blog-title {
-    font-size: 3rem;
+  // Scale down on very narrow screens so long words ("Relatietherapeut") still fit
+  #site-head.withCenteredImage .blog-title {
+    font-size: unquote("min(3rem, 10vw)");
   }
 
-  .blog-description {
-    font-size: 2.2rem;
+  #site-head.withCenteredImage .blog-description {
+    font-size: unquote("min(2.2rem, 7.5vw)");
+  }
+
+  #blog-logo {
+    max-width: 100%;
   }
 
   h1,
