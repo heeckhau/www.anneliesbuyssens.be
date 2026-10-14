@@ -17,9 +17,9 @@ Ik werkte enkele jaren in de groepspraktijk Tondel, huis voor psychotherapie. Bo
 Je kan bij mij terecht met volgende **vragen**, **bezorgdheden**, **moeilijkheden** of
 **problematieken**:
 
-* Ervaar je vaak *somberheid*, *stress*, *onzekerheid*, *angst* of *paniek*? Heb je last van *vermoeidheid*, *depressieve klachten*, *gevoel van ademnood*, *rusteloosheid*, *lichamelijke klachten* of *burn-out*?
 * Ondervind je moeilijkheden op het vlak van *identiteit*, *zelfwaarde*, *relaties*, *sociale interacties*, *emotieregulatie*, *communicatie*, *intimiteit*, *seksualiteit*, *zelfvertrouwen*, *prioriteiten stellen*, *zingeving*, *zelfzorg* of *opvoeding*?
 * Wil je graag hulp bij het omgaan met *trauma*, *ervaring van verlies*, *overlijden*, *verslavingsproblemen*, *spanningen op het werk, in het gezin of de relatie*, *slaapproblemen*, *eetproblemen*, *faalangst*, *ASS*, *AD(H)D* of *hyperventilatie*?
+* Ervaar je vaak *somberheid*, *stress*, *onzekerheid*, *angst* of *paniek*? Heb je last van *vermoeidheid*, *depressieve klachten*, *gevoel van ademnood*, *rusteloosheid*, *lichamelijke klachten* of *burn-out*?
 
 Ik ga ervan uit dat elke mens, elke relatie en elke context om een unieke benadering vraagt.
 Daarom ga ik graag samen met jou op zoek naar een **ondersteuning** die aangepast is aan jouw specifieke behoeften en noden.
