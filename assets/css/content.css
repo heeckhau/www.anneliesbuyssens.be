@@ -91,27 +91,6 @@ a:hover {
 }
 
 /** ======== Lists ====================== */
-dl {
-  margin: 1.6em 0;
-}
-
-dl dt {
-  float: left;
-  width: 180px;
-  overflow: hidden;
-  clear: left;
-  text-align: right;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-  font-weight: bold;
-  margin-bottom: 1em;
-}
-
-dl dd {
-  margin-left: 200px;
-  margin-bottom: 1em;
-}
-
 ul, ol {
   margin: 1em 0;
 }
@@ -178,88 +157,6 @@ blockquote p {
   margin: 0.8em 0;
 }
 
-blockquote small {
-  display: inline-block;
-  margin: 0.8em 0 0.8em 1.5em;
-  font-size: 0.9em;
-  color: #ccc;
-}
-
-blockquote small:before {
-  content: "\2014 \00A0";
-}
-
-blockquote cite {
-  font-weight: bold;
-}
-
-blockquote cite a {
-  font-weight: normal;
-}
-
-mark {
-  background-color: var(--sticky-menu-text-color);
-  filter: brightness(125%);
-}
-
-code, tt {
-  color: var(--section-light-text-color);
-  background-color: var(--section-uni-code-bg-color);
-  border-radius: 3px;
-  font-family: Inconsolata, monospace, sans-serif;
-  font-size: 0.75em;
-  padding: 3px 5px;
-}
-
-code {
-  color: var(--section-light-text-color);
-  background-color: var(--section-uni-code-bg-color);
-  border-radius: 3px;
-  font-family: Inconsolata, monospace, sans-serif;
-  font-size: 0.75em;
-  padding: 3px 5px;
-}
-
-pre {
-  background: var(--section-light-text-color);
-  color: #e2e2e2;
-  border: 1px solid #343434;
-  border-radius: 3px;
-  box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  font-family: Inconsolata, monospace, sans-serif;
-  font-size: 0.9em;
-  margin: 1.6em 0;
-  padding: 10px;
-  white-space: pre;
-  overflow-x: scroll;
-  width: 100%;
-}
-
-pre code, pre tt {
-  color: inherit;
-  background: transparent;
-  font-size: inherit;
-  white-space: -moz-pre-wrap;
-  white-space: pre-wrap;
-  border: none;
-  padding: 0;
-}
-
-kbd {
-  color: var(--section-light-text-color);
-  background: var(--section-uni-code-bg-color);
-  border: var(--section-light-text-color) 1px solid;
-  border-radius: 4px;
-  display: inline-block;
-  font-size: 0.9em;
-  font-weight: bold;
-  margin-bottom: 0.4em;
-  padding: 1px 8px;
-  text-shadow: #fff 0 1px 0;
-  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2), 0 1px 0 0 #fff inset;
-}
-
 /** ======== Tables ========= */
 table {
   -moz-box-sizing: border-box;
@@ -291,15 +188,4 @@ table tbody > tr:nth-child(even) {
 
 table.plain tbody > tr:nth-child(odd) > td, table.plain tbody > tr:nth-child(odd) > th {
   background: transparent;
-}
-
-/** ======== Github integration ========= */
-.gist table {
-  margin: 0;
-  font-size: 1.4rem;
-}
-
-.gist .line-number {
-  min-width: 25px;
-  font-size: 1.1rem;
 }
