@@ -14,10 +14,12 @@
 {{ $stylesheetNormalize := resources.Get "css/normalize.css" }}
 {{ $stylesheetFonts := resources.Get "css/fonts.css" }}
 {{ $stylesheetGeneric := resources.Get "css/generic.css" }}
+{{ $stylesheetVariables := resources.Get "css/variables.css" }}
+{{ $stylesheetTheme := resources.Get "css/theme.css" }}
+{{ $stylesheetContent := resources.Get "css/content.css" }}
+{{ $stylesheetResponsiveness := resources.Get "css/responsiveness.css" }}
 
-{{ $stylesheetScreen := ( resources.Get "css/_index.scss" | css.Sass ) }}
-
-{{ $stylesheet := slice $stylesheetNormalize $stylesheetFonts $stylesheetGeneric $stylesheetScreen |
+{{ $stylesheet := slice $stylesheetNormalize $stylesheetFonts $stylesheetGeneric $stylesheetVariables $stylesheetTheme $stylesheetContent $stylesheetResponsiveness |
 resources.Concat "css/style.css" | resources.Minify | resources.Fingerprint }}
 {{/* Inlined: saves a render-blocking request (the minified CSS is only a few KB) */}}
 <style>{{ $stylesheet.Content | safeCSS }}</style>

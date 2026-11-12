@@ -1,6 +1,6 @@
 /* Self-hosted web fonts (latin subset, woff2 only).
    Only the faces the site actually renders are declared; see the
-   font-family/font-weight rules in theme.scss, content.scss and
+   font-family/font-weight rules in theme.css, content.css and
    assets/css/sopraan-pages.css before adding a weight. */
 
 @font-face {
