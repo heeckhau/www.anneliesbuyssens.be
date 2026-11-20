@@ -12,6 +12,6 @@ Ik werk steeds op afspraak. Via [info@anneliesbuyssens.be](mailto:info@anneliesb
 
 Een sessie duurt 50 minuten. De frequentie van de sessies en het aantal bepalen we in onderling overleg. De prijs voor een individueel gesprek bedraagt €80. Voor een koppel- of gezinsgesprek betaal je €100. De meeste mutualiteiten voorzien een gedeeltelijke terugbetaling van 12 tot 20 sessies per jaar.
 
-Kan je de afspraak niet halen? Laat het dan zeker 48u op voorhand weten. Bij te late annulering wordt de sessie aangerekend als vergoeding voor de gereserveerde tijd. Alvast bedankt om hiermee rekening te houden.
+Kan je de afspraak niet halen? Wens je de afspraak te verplaatsen of annuleren? Laat het dan zeker 48u op voorhand weten via mail. Bij te late annulering wordt de sessie aangerekend als vergoeding voor de gereserveerde tijd. Alvast bedankt om hiermee rekening te houden.
 
 De praktijk bevindt zich in de Adolf Baeyensstraat 47 in Gent.
